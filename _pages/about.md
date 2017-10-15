@@ -1,23 +1,28 @@
 ---
-layout: single
 title: About
 permalink: /about/ 
 date: 2014-10-28 01:12:40.000000000 +00:00
-type: page
 published: true
 status: publish
 categories: []
 tags: []
+defaults:
+  scope:
+    path: ""
+    type: pages
+  values:
+    layout: single
+    author_profile: true
 ---
 
 [![Alt text](https://img.youtube.com/vi/sRLLdciG6Uc/0.jpg)](https://www.youtube.com/watch?v=sRLLdciG6Uc&theme=light)
 
-##### Leveraging innovation towards rapid, effective and robust assessments
+### Leveraging innovation towards rapid, effective and robust assessments
 
-###### Why Assessments?
+#### Why Assessments?
 Assessments identify and estimate needs, monitor progress, evaluate performance and measure impact – all vital components of an organisation's programme management cycle.<br/>
 
-###### Issues with Assessments
+#### Issues with Assessments
 Despite the important role of assessments in programming they are often underutilised or utilised ineffectively by organisations due to the following key issues:<br/>
 
 
@@ -28,7 +33,7 @@ Despite the important role of assessments in programming they are often underuti
 
 - Assessments require a fair level of technical capacity and expertise which may not always be available within an organisation. Hence, assessments are often contracted out to technical consultants with the appropriate skills and know how. However, reliance on outsourced expertise means that organisational capacity to perform assessments is not built and/or enhanced and organisational systems and structures that support and encourage routine conduct of assessments and use of the information they provide is not institutionalised.
 
-###### Our Solution
+#### Our Solution
 We at Valid International believe that there is a better way for organisations to approach assessments. With the appropriate metrics to measure the problem or issues in question, robust analytics to estimate the value of the indicators being measured, the right technology – simple to use tools that aid in making assessments rapid and efficient, and an effective training that is based on a learner-oriented and problem-based learning system, organisations can take control of their assessment needs and goals.
 
 Valid International offers modules on metrics, analytics, technology and training for assessments which have been designed to support organisations to setup and implement, analyse and report, and manage and sustain assessments needed for them to run highly-effective programmes.
