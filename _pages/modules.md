@@ -34,6 +34,14 @@ feature_row:
     url: /modules/technology/
     btn_label: more
     btn_class: btn-inverse
+feature_row3:
+  - image_path: /assets/images/trainingHi.png
+    alt: Training
+    title: Training
+    excerpt: “Our Training module provides solutions to organisations' needs on capacity building for assessments. This is a cross-cutting module that covers all the training needs across the metrics, analytics; and technology modules.”
+    url: /modules/training/
+    btn_label: more
+    btn_class: btn-primary    
 ---
 
 We offer modules on [metrics](https://validmeasures.github.io/modules/metrics), [analytics](https://validmeasures.github.io/modules/analytics), [technology](https://validmeasures.github.io/modules/technology) and [training](https://validmeasures.github.io/modules/training) for assessments which have been designed to support organisations to setup and implement, analyse and report, and manage and sustain assessments needed for them to run highly-effective programmes.
@@ -41,6 +49,8 @@ We offer modules on [metrics](https://validmeasures.github.io/modules/metrics), 
 The modules offered can be utilised individually or as linked modules depending on your organisation's specific needs. Under each module are various technical services and products that we provide. Our ***services*** are generic and can be developed and applied bespoke to an organisation's assessment needs and requirements. Our ***products***, on the other hand, are specialised and specific services that we have previously designed, developed and tested. The products are ready for use 'off-the-shelf' therefore rapid to setup, implement and scale up.
 
 {% include feature_row %}
+
+
 
 Whilst our services and products can be utilised individually, we recommend ***Support Packages*** - a combination of our [metrics](https://validmeasures.github.io/metrics), analytics, technology and training modules - that have been synergised to optimise client support and to make the support more cost-effective. As with the modules, our support packages can be classified as ***’off-the-shelf’*** or as ***’developmental’***.
 
