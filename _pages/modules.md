@@ -20,7 +20,7 @@ feature_row:
     url: /modules/metrics/
     btn_label: more
     btn_class: btn-inverse
-  - image_path: /assets/images/analytics-small.png
+  - image_path: /assets/images/analyticsHi.png
     alt: Analytics
     title: Analytics
     excerpt: "Our Analytics module supports the interpretation of the metrics and provides explanations to why the metrics are the way they are. We offer services on data analysis and on data visualisation."
