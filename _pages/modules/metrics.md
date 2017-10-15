@@ -18,21 +18,21 @@ feature_row:
   - image_path: /assets/images/csasGrid1.png
     alt: CSAS
     title: CSAS
-    excerpt: "Centric Systematic Area Sampling or CSAS was developed in 2002 and was initially used to test and reform the community-based therapeutic care or CTC model of service delivery, later referred to as community-based management of acute malnutrition (CMAM) or integrated management of acute malnutrition (IMAM). Since then it has been used as an evaluation tool but has proved too resource-intensive to be used for routine monitoring. Although largely superseded in this area by the less resource intense SQUEAC and SLEAC, CSAS is still an effective method for estimating and mapping coverage with useful precision and can be used by teams."
+    excerpt: "Centric Systematic Area Sampling or CSAS was developed in 2002 and was initially used to test and reform the community-based therapeutic care or CTC model of service delivery, later referred to as community-based management of acute malnutrition (CMAM) or integrated management of acute malnutrition (IMAM)."
     url: /modules/metrics/csas
     btn_label: more
     btn_class: btn-primary
   - image_path: /assets/images/defaultersNigeriaHi.png
     alt: SQUEAC
     title: SQUEAC
-    excerpt: "Semi-quantitative evaluation of access and coverage (SQUEAC) is a method that provides an in-depth analysis of barriers and boosters to coverage. It is designed for use as a regular service monitoring tool through the intelligent use of routine monitoring data complemented by other relevant data that are collected on a ‘little and often’ basis.   Design SQUEAC is more an investigation than a survey. SQUEAC is made up of three stages: Stage 1: Semi-quantitative investigation into factors affecting coverage. This is carried out using the SQUEAC toolkit, which is a set of simple and rapid tools and methods for collecting"
+    excerpt: "Semi-quantitative evaluation of access and coverage (SQUEAC) is a method that provides an in-depth analysis of barriers and boosters to coverage. It is designed for use as a regular service monitoring tool through the intelligent use of routine monitoring data complemented by other relevant data that are collected on a ‘little and often’ basis."
     url: /modules/metrics/squeac
     btn_label: more
     btn_class: btn-primary
   - image_path: /assets/images/sierraLeoneSLEACmap.png
     alt: SLEAC
     title: SLEAC
-    excerpt: "Simplified Lot Quality Assurance Sampling Evaluation of Access and Coverage or SLEAC is a rapid low-resource survey method that classifies coverage at the service delivery unit (SDU) level. The SDU may be a health centre catchment area, commune, or district. A SLEAC survey identifies the category of coverage (e.g. ‘low’, ‘moderate’ or ‘high’) achieved by the service delivery unit being assessed. The advantage of this approach is that relatively small sample sizes (e.g. n ≤ 40) are required in order to make an accurate and reliable classification. SLEAC can also estimate coverage over several service delivery units and is suited"
+    excerpt: "Simplified Lot Quality Assurance Sampling Evaluation of Access and Coverage or SLEAC is a rapid low-resource survey method that classifies coverage at the service delivery unit (SDU) level. The advantage of this approach is that relatively small sample sizes are required.”
     url: /modules/metrics/sleac
     btn_label: more
     btn_class: btn-primary
