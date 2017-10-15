@@ -30,6 +30,9 @@ Given the advantages offered by LQAS, Valid International has used it for cost-e
 <br/><br/>
 
 ### Applying LQAS to assess beneficiary satisfaction with Typhoon Haiyan emergency response
+
+{% include figure image_path="/assets/images/philippinesIAHEfinalReport.png" alt="" caption="" %}
+
 As part of an overarching evaluation of the Typhoon Haiyan emergency response, Valid International conducted a beneficiary satisfaction survey to gather feedback from the perspective of marginalised people and communities from a sample of villages purposively selected based on their location and level of vulnerability. The survey focused on six components of humanitarian aid outlined in the strategic response namely food, shelter, livelihoods, water and sanitation, health and government services. In order to be able to report results representative of each village, an LQAS approach was performed. The survey was completed within 5 days by 8 enumerators.
 
 For this survey, a two-standards, three-tier classification scheme was adapted. This classification scheme minimises gross classification errors. Two sets of two-standards was used for this survey. The first pair of standards is 50% and 80% which creates three classes labelled as low (≤ 50%), moderate (between 50% and 80%) and high (> 80%). This set of standards was used for indicators that go from low to high with high classification considered as good. Examples of this indicator are coverage indicators, satisfaction and recovery indicators. The other pair of standards is 20% and 50% which creates three classes labelled as low (≤ 20%), moderate (between 20% and 50%), and high (> 50%). This was used for indicators that go from high to low with high classification considered as bad. Overview of the results of the survey are shown in the interactive map below.
