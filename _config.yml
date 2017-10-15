@@ -16,7 +16,7 @@ description              : "Metrics, Analytics, Technology Unit of Valid Interna
 url                      : https://validmeasures.github.io
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : validmeasures
-teaser                   : /assets/images/vmLogo.png # path of fallback teaser image, e.g. "/assets/images/500x300.png"
+teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
 comments:
@@ -95,7 +95,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           :
+  github           : validmeasures
   gitlab           :
   google_plus      :
   keybase          :
@@ -107,7 +107,7 @@ author:
   stackoverflow    : # "123456/username" (the last part of your profile url, e.g. https://stackoverflow.com/users/123456/username)
   steam            : # "steamId" (the last part of your profile url, e.g. https://steamcommunity.com/id/steamId/)
   tumblr           :
-  twitter          :
+  twitter          : validmeasures
   vine             :
   weibo            :
   xing             :
