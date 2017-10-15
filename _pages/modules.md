@@ -17,21 +17,21 @@ feature_row:
     alt: Metrics
     title: Metrics
     excerpt: "Our Metrics module provides solutions to questions on what indicators to measure and how they can be measured. We offer services on indicators development, assessment design and assessment implementation."
-    url: /metrics/
+    url: /modules/metrics/
     btn_label: more
     btn_class: btn-inverse
   - image_path: /assets/images/analytics-icon.png
     alt: Analytics
     title: Analytics
     excerpt: "Our Analytics module supports the interpretation of the metrics and provides explanations to why the metrics are the way they are. We offer services on data analysis and on data visualisation."
-    url: /analytics/
+    url: /modules/analytics/
     btn_label: more
     btn_class: btn-inverse
   - image_path: /assets/images/technology-icon.png
     alt: Technology
     title: Technology
     excerpt: "Our Technology module addresses needs for tools to use for data systems and frameworks that sustain organisation data use. We provide services on data management systems and software tools and applications development."
-    url: /technology/
+    url: /modules/technology/
     btn_label: more
     btn_class: btn-inverse
 ---
