@@ -1,18 +1,18 @@
 ---
 title: About
 permalink: /about/ 
-date: 2014-10-28 01:12:40.000000000 +00:00
-published: true
-status: publish
-categories: []
-tags: []
 defaults:
   scope:
     path: ""
     type: pages
   values:
     layout: single
-    author_profile: true
+    author_profile: false
+date: 2014-10-28 01:12:40.000000000 +00:00
+published: true
+status: publish
+categories: []
+tags: []
 ---
 
 [![Alt text](https://img.youtube.com/vi/sRLLdciG6Uc/0.jpg)](https://www.youtube.com/watch?v=sRLLdciG6Uc&theme=light)
