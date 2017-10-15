@@ -9,8 +9,8 @@ status: publish
 categories: []
 tags: []
 header:
-  overlay_color: "#000"
-  overlay_filter: "0.5"
+  overlay_color: #000
+  overlay_filter: 0.5
   overlay_image: /assets/images/dakarUrbanMappingSlider.png
 feature_row:
   - image_path: /assets/images/metricsHi.png
