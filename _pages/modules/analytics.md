@@ -15,6 +15,7 @@ header:
   overlay_color: #000
   overlay_filter: 0.5
   overlay_image: /assets/images/dakarUrbanMappingSlider.png
+feature_row
 ---
 
 Our ***[Analytics](https://validmeasures.github.io/modules/analytics/)*** module supports the interpretation of the metrics and provides explanations to why the metrics are the way they are. We offer services on ***data analysis*** and on ***data visualisation***.
@@ -31,7 +32,7 @@ Given the advantages offered by LQAS, Valid International has used it for cost-e
 
 ### Applying LQAS to assess beneficiary satisfaction with Typhoon Haiyan emergency response
 
-{% include figure image_path="/assets/images/philippinesIAHEfinalReport-small.png" alt="" caption="" %}
+
 
 As part of an overarching evaluation of the Typhoon Haiyan emergency response, Valid International conducted a beneficiary satisfaction survey to gather feedback from the perspective of marginalised people and communities from a sample of villages purposively selected based on their location and level of vulnerability. The survey focused on six components of humanitarian aid outlined in the strategic response namely food, shelter, livelihoods, water and sanitation, health and government services. In order to be able to report results representative of each village, an LQAS approach was performed. The survey was completed within 5 days by 8 enumerators.
 
