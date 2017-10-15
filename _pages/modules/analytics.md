@@ -15,7 +15,6 @@ header:
   overlay_color: #000
   overlay_filter: 0.5
   overlay_image: /assets/images/dakarUrbanMappingSlider.png
-feature_row
 ---
 
 Our ***[Analytics](https://validmeasures.github.io/modules/analytics/)*** module supports the interpretation of the metrics and provides explanations to why the metrics are the way they are. We offer services on ***data analysis*** and on ***data visualisation***.
