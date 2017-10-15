@@ -38,7 +38,7 @@ feature_row4:
   - image_path: /assets/images/trainingHi.png
     alt: Training
     title: Training
-    excerpt: “Our Training module provides solutions to organisations' needs on capacity building for assessments. This is a cross-cutting module that covers all the training needs across the metrics, analytics; and technology modules.”
+    excerpt: Our Training module provides solutions to organisations' needs on capacity building for assessments. This is a cross-cutting module that covers all the training needs across the metrics, analytics; and technology modules.
     url: /modules/training/
     btn_label: more
     btn_class: btn-primary    
