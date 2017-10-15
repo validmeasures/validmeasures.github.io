@@ -19,21 +19,21 @@ feature_row:
     alt: CSAS
     title: CSAS
     excerpt: "Centric Systematic Area Sampling or CSAS was developed in 2002 and was initially used to test and reform the community-based therapeutic care or CTC model of service delivery, later referred to as community-based management of acute malnutrition (CMAM) or integrated management of acute malnutrition (IMAM)."
-    url: /modules/metrics/csas
+    url: /modules/metrics/csas/
     btn_label: more
     btn_class: btn-primary
   - image_path: /assets/images/defaultersNigeriaHi.png
     alt: SQUEAC
     title: SQUEAC
     excerpt: "Semi-quantitative evaluation of access and coverage (SQUEAC) is a method that provides an in-depth analysis of barriers and boosters to coverage. It is designed for use as a regular service monitoring tool through the intelligent use of routine monitoring data complemented by other relevant data that are collected on a ‘little and often’ basis."
-    url: /modules/metrics/squeac
+    url: /modules/metrics/squeac/
     btn_label: more
     btn_class: btn-primary
   - image_path: /assets/images/sierraLeoneSLEACmap.png
     alt: SLEAC
     title: SLEAC
     excerpt: "Simplified Lot Quality Assurance Sampling Evaluation of Access and Coverage or SLEAC is a rapid low-resource survey method that classifies coverage at the service delivery unit (SDU) level. The advantage of this approach is that relatively small sample sizes are required."
-    url: /modules/metrics/sleac
+    url: /modules/metrics/sleac/
     btn_label: more
     btn_class: btn-primary
 ---
