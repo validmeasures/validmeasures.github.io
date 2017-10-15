@@ -6,6 +6,10 @@ published: true
 status: publish
 categories: []
 tags: []
+header:
+  video:
+    id: sRLLdciG6Uc
+    provider: youtube
 ---
 
 [![Alt text](https://img.youtube.com/vi/sRLLdciG6Uc/0.jpg)](https://www.youtube.com/watch?v=sRLLdciG6Uc&theme=light)
