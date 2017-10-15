@@ -1,5 +1,5 @@
 ---
-title: About
+title: “”
 permalink: /about/
 date: 2014-10-28 01:12:40.000000000 +00:00
 published: true
@@ -11,8 +11,6 @@ header:
     id: sRLLdciG6Uc
     provider: youtube
 ---
-
-[![Alt text](https://img.youtube.com/vi/sRLLdciG6Uc/0.jpg)](https://www.youtube.com/watch?v=sRLLdciG6Uc&theme=light)
 
 ## Leveraging innovation towards rapid, effective and robust assessments
 <br/>
