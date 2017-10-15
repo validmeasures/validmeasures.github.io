@@ -2,11 +2,13 @@
 main:
   - title: "Home"
     url: https://validmeasures.github.io/index/
-  # - title: "About"
-  #   url: https://mmistakes.github.io/minimal-mistakes/about/
-  # - title: "Sample Posts"
-  #   url: /year-archive/
-  # - title: "Sample Collections"
-  #   url: /collection-archive/
-  # - title: "Sitemap"
-  #   url: /sitemap/
+  - title: "About"
+    url: https://validmeasures.github.io/about/
+  - title: "Modules"
+    url: https://validmeasures.github.io/modules/
+  - title: "Projects"
+    url: /year-archive/
+  - title: "Maps"
+    url: https://www.validmeasures.org/maps
+  - title: "Contact"
+    url: https://validmeasures.github.io/contact/
