@@ -32,7 +32,7 @@ feature_row:
   - image_path: /assets/images/sierraLeoneSLEACmap.png
     alt: SLEAC
     title: SLEAC
-    excerpt: "Simplified Lot Quality Assurance Sampling Evaluation of Access and Coverage or SLEAC is a rapid low-resource survey method that classifies coverage at the service delivery unit (SDU) level. The advantage of this approach is that relatively small sample sizes are required.”
+    excerpt: "Simplified Lot Quality Assurance Sampling Evaluation of Access and Coverage or SLEAC is a rapid low-resource survey method that classifies coverage at the service delivery unit (SDU) level. The advantage of this approach is that relatively small sample sizes are required."
     url: /modules/metrics/sleac
     btn_label: more
     btn_class: btn-primary
