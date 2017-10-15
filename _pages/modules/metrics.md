@@ -22,7 +22,7 @@ feature_row:
     url: /modules/metrics/csas/
     btn_label: more
     btn_class: btn-primary
-  - image_path: /assets/images/defaultersNigeriaHi.png
+  - image_path: /assets/images/defaultersNigeria.png
     alt: SQUEAC
     title: SQUEAC
     excerpt: "Semi-quantitative evaluation of access and coverage (SQUEAC) is a method that provides an in-depth analysis of barriers and boosters to coverage. It is designed for use as a regular service monitoring tool through the intelligent use of routine monitoring data complemented by other relevant data that are collected on a ‘little and often’ basis."
