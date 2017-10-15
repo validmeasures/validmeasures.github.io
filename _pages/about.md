@@ -11,6 +11,9 @@ header:
   video:
     id: sRLLdciG6Uc
     provider: youtube
+  cta_label: "Download"
+  cta_url: "https://github.com/mmistakes/minimal-mistakes/"
+  caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
 ---
 
 ## Leveraging innovation towards rapid, effective and robust assessments
