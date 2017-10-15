@@ -1,4 +1,6 @@
 ---
+title: About
+layout: splash
 permalink: /about/
 date: 2014-10-28 01:12:40.000000000 +00:00
 published: true
