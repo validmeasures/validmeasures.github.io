@@ -80,6 +80,7 @@ Valid International wanted to address these issues and limitations by developing
  
 
 #### Rapid Assessment Method for Older People
+{% include video id="rSQyLj2hzOU" provider="youtube" %}
 When disasters strike, older people are frequently neglected, especially when it comes to nutrition. Humanitarian actors tend to focus their activities on children and women of childbearing age, not taking into account or addressing the nuances and specific needs of older people.
 
 Older people’s needs are quite specific. When it comes to food and nutrition, they may find relief rations are inappropriate to their tastes, have problem digesting or chewing food or they may simply not be able to reach distributions or transport the goods home once there. The end result is that older people are at great risk of malnutrition in humanitarian contexts. However, their specific needs are rarely assessed.
