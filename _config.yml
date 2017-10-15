@@ -16,7 +16,7 @@ description              : "Metrics, Analytics, Technology Unit of Valid Interna
 url                      : https://validmeasures.github.io
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : validmeasures
-teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
+teaser                   : /assets/images/vmLogo.png # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
 comments:
@@ -83,10 +83,10 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : ""
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an amazing person."
-  location         : "Somewhere"
+  bio              : ""
+  location         : ""
   email            :
   uri              :
   bitbucket        :
