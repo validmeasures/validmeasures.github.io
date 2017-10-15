@@ -53,7 +53,7 @@ Valid International is a pioneer in the development of coverage assessment metri
 The adoption of the CMAM model at national levels has led to the need for methods that can provide information about coverage over wide areas. This need is being met by adaptations of the SLEAC method and also by the Simple Spatial Survey Method (S3M): an adaptation of the CSAS method but with improved spatial sampling and a more efficient use of data.<br/><br/>
 
 ## Beyond CMAM and coverage
-{% include video id="0j3Bk8R7-MA&rel=0&theme=light&align=left&w=600" provider="youtube" %}
+{% include video id="0j3Bk8R7-MA" provider="youtube" %}
 Valid International's innovation on CMAM coverage continue with recent contributions to refining and optimising of CMAM coverage indicators, developing new approaches of coverage barriers and boosters investigation, and reviewing the SAM case-finding methods used in coverage surveys (soon to be published). But, the innovation work on indicators development, assessment design and implementation has grown and evolved beyond CMAM and beyond coverage.
 
 Using the same set of methods described above, we have expanded their application to assess coverage of programmes other than CMAM such as targeted supplementary feeding, complementary food supplementation, and food-based prevention of moderate acute malnutrition to name a few.
