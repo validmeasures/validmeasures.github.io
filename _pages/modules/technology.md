@@ -41,5 +41,6 @@ We support open-source technologies. Hence, we create, build upon and use open-s
 
 ## Data Analysis
 
-{% include feature_row id="feature_row1” type="left" %}
-{% include feature_row id="feature_row2” type=“right” %}
+{% include feature_row id="feature_row1" type="left" %}
+
+{% include feature_row id="feature_row2" type="right" %}
