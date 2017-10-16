@@ -15,6 +15,10 @@ tags:
     - R
     - RAnalyticFlow
     - RapidSMS
+header:
+  overlay_color: #000
+  overlay_filter: 0.5
+  overlay_image: /assets/images/chadS3Msat.png
 ---
 
 Our ***[Technology](https://validmeasures.github.io/modules/technology/)*** module answers the questions on what tools to use for data collection and measurement, management and analysis, and on what data systems and frameworks to adopt to support and sustain organisation data use.
