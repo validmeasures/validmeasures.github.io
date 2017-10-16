@@ -19,11 +19,16 @@ header:
   overlay_color: #000
   overlay_filter: 0.5
   overlay_image: /assets/images/chadS3Msat.png
-feature_row2:
-  - image_path: /assets/images/RlogoMedium.png
+feature_row1:
+  - image_path: /assets/images/RlogoSmall.png
     alt:
     title:
     excerpt: "R is an environment for statistical computing and graphics. It is an integrated suite of software facilities for data manipulation, calculation and graphical display. It is called a software environment to characterise it as a fully planned and coherent system, rather than an incremental accretion of very specific and inflexible tools, as is frequently the case with other data analysis software. R is available as Free Software under the terms of the Free Software Foundation’s GNU General Public License in source code form. It compiles and runs on a wide variety of UNIX platforms and similar systems (including FreeBSD and Linux), Windows and MacOS."
+feature_row2:
+  - image_path: /assets/images/raf.jpg
+    alt:
+    title:
+    excerpt: "RAnalyticFlow is a software that enables simple to complex data analysis through the drawing of analysis flowcharts. The key advantage of the use of analysis flowcharts is the effective sharing of the data analysis processes in multi-user or multi-developer or team collaboration contexts. RAnalyticFlow is one of a number of integrated / interactive development environment (IDE) for R. An IDE is a software application that provides comprehensive facilities to computer programmers for software development. The RAnalyticFlow software is developed and made available without charge for any purpose by ef-prime, Inc."    
 ---
 
 Our ***[Technology](https://validmeasures.github.io/modules/technology/)*** module answers the questions on what tools to use for data collection and measurement, management and analysis, and on what data systems and frameworks to adopt to support and sustain organisation data use.
@@ -36,4 +41,5 @@ We support open-source technologies. Hence, we create, build upon and use open-s
 
 ## Data Analysis
 
-{% include feature_row id="feature_row2" type="left" %}
+{% include feature_row id="feature_row1” type="left" %}
+{% include feature_row id="feature_row2” type=“right” %}
