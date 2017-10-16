@@ -7,7 +7,7 @@ main:
   - title: "Modules"
     url: /modules/
   - title: "Projects"
-    url: /projects/index/
+    url: /projects/
   - title: "Maps"
     url: /maps/
   - title: "Contact"
