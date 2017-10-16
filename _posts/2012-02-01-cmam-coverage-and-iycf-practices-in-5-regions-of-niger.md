@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: CMAM coverage and IYCF practices in 5 regions of Niger
 date: 2012-02-01 10:33:22.000000000 +00:00
-type: post
+type: posts
 published: true
 status: publish
 categories:

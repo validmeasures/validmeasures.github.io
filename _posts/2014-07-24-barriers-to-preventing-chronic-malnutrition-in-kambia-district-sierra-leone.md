@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: Barriers to preventing chronic malnutrition in Kambia District, Sierra Leone
 date: 2014-07-24 05:40:51.000000000 +01:00
-type: post
+type: posts
 published: true
 status: publish
 categories:

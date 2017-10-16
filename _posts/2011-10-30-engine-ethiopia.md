@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: Empowering New Generations to Improve Nutrition and Economic opportunities
 date: 2011-10-30 00:35:16.000000000 +01:00
-type: post
+type: posts
 published: true
 status: publish
 categories:

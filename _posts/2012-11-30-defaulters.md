@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: Investigation of defaulting in a CMAM programme
 date: 2012-11-30 22:08:54.000000000 +00:00
-type: post
+type: posts
 published: true
 status: publish
 categories:

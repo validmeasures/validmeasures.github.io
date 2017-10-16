@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: CMAM coverage in northern Nigeria
 date: 2014-03-05 23:31:10.000000000 +00:00
-type: post
+type: posts
 published: true
 status: publish
 categories:

@@ -1,14 +1,14 @@
 # main links
 main:
   - title: "Home"
-    url: https://validmeasures.github.io/index
+    url: /index/
   - title: "About"
-    url: https://validmeasures.github.io/about
+    url: /about/
   - title: "Modules"
-    url: https://validmeasures.github.io/modules
+    url: /modules/
   - title: "Projects"
-    url: 
+    url: /projects/index/
   - title: "Maps"
-    url: https://www.validmeasures.org/maps
+    url: /maps/
   - title: "Contact"
-    url: https://validmeasures.github.io/contact
+    url: /contact/

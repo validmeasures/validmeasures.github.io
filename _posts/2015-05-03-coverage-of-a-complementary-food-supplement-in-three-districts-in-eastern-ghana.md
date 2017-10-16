@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: Coverage of a complementary food supplement in three districts in Eastern Ghana
 date: 2015-05-03 06:33:23.000000000 +01:00
-type: post
+type: posts
 published: true
 status: publish
 categories:

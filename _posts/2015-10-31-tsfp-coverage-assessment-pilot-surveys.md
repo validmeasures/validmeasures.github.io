@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: TSFP coverage assessment pilot surveys
 date: 2015-10-31 08:08:40.000000000 +00:00
-type: post
+type: posts
 published: true
 status: publish
 categories:

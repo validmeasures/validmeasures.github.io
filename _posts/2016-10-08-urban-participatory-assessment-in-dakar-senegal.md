@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: Urban participatory assessment in Dakar, Senegal
 date: 2016-10-08 08:43:50.000000000 +01:00
-type: post
+type: posts
 published: true
 status: publish
 categories:

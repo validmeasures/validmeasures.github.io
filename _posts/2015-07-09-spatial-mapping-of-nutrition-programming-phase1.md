@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: Spatial Mapping of Nutrition Programming Phase 1
 date: 2015-07-09 14:37:26.000000000 +01:00
-type: post
+type: posts
 published: true
 status: publish
 categories:

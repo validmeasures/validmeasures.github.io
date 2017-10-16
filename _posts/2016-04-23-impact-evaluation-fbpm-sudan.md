@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: Impact of food-based prevention of acute malnutrition in Sudan
 date: 2016-04-23 08:26:33.000000000 +01:00
-type: post
+type: posts
 published: true
 status: publish
 categories:
