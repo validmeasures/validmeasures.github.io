@@ -23,7 +23,7 @@ feature_row:
   - image_path: /assets/images/Rlogo.png
   alt: []
   title: []
-  excerpt: "R is an environment for statistical computing and graphics. It is an integrated suite of software facilities for data manipulation, calculation and graphical display. It is called a software “environment” to characterise it as a fully planned and coherent system, rather than an incremental accretion of very specific and inflexible tools, as is frequently the case with other data analysis software. R is available as Free Software under the terms of the Free Software Foundation’s GNU General Public License in source code form. It compiles and runs on a wide variety of UNIX platforms and similar systems (including FreeBSD and Linux), Windows and MacOS."
+  excerpt: "R is an environment for statistical computing and graphics. It is an integrated suite of software facilities for data manipulation, calculation and graphical display. It is called a software ‘environment’ to characterise it as a fully planned and coherent system, rather than an incremental accretion of very specific and inflexible tools, as is frequently the case with other data analysis software. R is available as Free Software under the terms of the Free Software Foundation’s GNU General Public License in source code form. It compiles and runs on a wide variety of UNIX platforms and similar systems (including FreeBSD and Linux), Windows and MacOS."
   - image_path: /assets/images/raf.jpg
   alt: []
   title: []
