@@ -13,7 +13,7 @@ title                    : "Valid Measures"
 title_separator          : "|"
 name                     : "Valid Measures"
 description              : "Metrics, Analytics, Technology Unit of Valid International"
-url                      :  https://validmeasures.github.io
+url                      : validmeasures.com
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : validmeasures
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
