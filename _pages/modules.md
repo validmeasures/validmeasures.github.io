@@ -18,30 +18,22 @@ feature_row:
     title: Metrics
     excerpt: "Our Metrics module provides solutions to questions on what indicators to measure and how they can be measured. We offer services on indicators development, assessment design and assessment implementation."
     url: /modules/metrics/
-    btn_label: more
-    btn_class: btn-primary
+    btn_label: read more
+    btn_class: btn--primary
   - image_path: /assets/images/analyticsHi.png
     alt: Analytics
     title: Analytics
     excerpt: "Our Analytics module supports the interpretation of the metrics and provides explanations to why the metrics are the way they are. We offer services on data analysis and on data visualisation."
     url: /modules/analytics/
-    btn_label: more
-    btn_class: btn-primary
+    btn_label: read more
+    btn_class: btn--primary
   - image_path: /assets/images/technologyHi.png
     alt: Technology
     title: Technology
     excerpt: "Our Technology module addresses needs for tools to use for data systems and frameworks that sustain organisation data use. We provide services on data management systems and software tools and applications development."
     url: /modules/technology/
-    btn_label: more
-    btn_class: btn-primary
-feature_row4:
-  - image_path: /assets/images/trainingHi.png
-    alt: Training
-    title: Training
-    excerpt: Our Training module provides solutions to organisations' needs on capacity building for assessments. This is a cross-cutting module that covers all the training needs across the metrics, analytics; and technology modules.
-    url: /modules/training/
-    btn_label: more
-    btn_class: btn-primary    
+    btn_label: read more
+    btn_class: btn--primary
 ---
 
 We offer modules on [metrics](https://validmeasures.github.io/modules/metrics), [analytics](https://validmeasures.github.io/modules/analytics), [technology](https://validmeasures.github.io/modules/technology) and [training](https://validmeasures.github.io/modules/training) for assessments which have been designed to support organisations to setup and implement, analyse and report, and manage and sustain assessments needed for them to run highly-effective programmes.

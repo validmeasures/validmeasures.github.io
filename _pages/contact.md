@@ -1,6 +1,6 @@
 ---
-layout: page
 title: Contact
+layout: single
 date: 2016-03-07 05:29:45.000000000 +00:00
 type: page
 published: true

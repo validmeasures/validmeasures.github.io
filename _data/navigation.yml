@@ -4,11 +4,7 @@ main:
     url: /
   - title: "About"
     url: /about/
-  - title: "Modules"
-    url: /modules/
   - title: "Projects"
     url: /projects/
-  - title: "Maps"
-    url: /maps/
   - title: "Contact"
     url: /contact/
