@@ -17,6 +17,9 @@ tags:
     - Sierra Leone
     - Simplified lot quality assurance sampling evaluation of access and coverage
     - SLEAC
+header:
+  overlay_image: /assets/images/sierraLeoneSLEACsat.png/
+excerpt: Use of SLEAC to assess coverage of the Sierra Leone National CMAM programme
 ---
 
 ## Introduction
@@ -34,7 +37,7 @@ The number of PSUs to sample \\( n_{PSU} \\) needed to reach the target sample s
 
 <br/>
 
-\\[n_{PSU} = \frac {\text {target sample size (n)}} {\text {average population}_{\text {all ages}} \times \frac {\text {percentage of population}_{\text {6-59 months}}}{100} \times \frac {\text {SAM prevalence}}{100}} \\]
+\\[n_{PSU} = \frac {\text {target sample size (n)}} {\text {average population}_{\text {all ages}} \times \frac {\text {percentage of population}_{\text {6-59 months}}}{100} \times \frac {\text {SAM prevalence}}{100}}\\]
 
 <br />
 
@@ -57,7 +60,7 @@ The Sierra Leone Central Statistics Bureau provided information on the total dis
 <a id="FIG1"></a><br />
 **Figure 1:** Structure of samples in urban and rural districts
 
-![](/assets/sampleStructureSLEAC.png)
+![](/assets/images/sampleStructureSLEAC-1024x839.png)
 
 PSUs were selected using the following systematic sampling procedure:
 
@@ -87,7 +90,7 @@ This question was adapted and improved using information collected from traditio
 <a id="FIG2"></a>
 **Figure 2:** Large-scale maps for urban and per-urban districts
 
-![](/assets/images/urbanMapsSLEAC.png)
+![](/assets/images/urbanMapsSLEAC-769x1024.png)
 
 After all PSUs in a district have been sampled, the survey team met at the district headquarters for data collation and analysis. The simplified Lot Quality Assurance Sampling (LQAS) classification technique was applied to the collated data. Coverage standards:
 
@@ -96,16 +99,6 @@ After all PSUs in a district have been sampled, the survey team met at the distr
 - High coverage: Above 50%
 
 were decided centrally by MoHS and UNICEF staff before the start of the surveys. These standards were used to create decision rules using the rule-of-thumb formulae:
-
-\\[\begin{align*}
-d_{1} &= \left \lfloor \ {n \times p_{1}} \ \right \rfloor = \left \lfloor \ {n \times {\frac {20}{100}}} \ \right \rfloor = \left \lfloor \ \frac{n}{5} \ \right \rfloor \\[0.5cm]
-&\text {and} \\[0.5cm]
-d_{2} &= \left \lfloor \ {n \times p_{2}} \ \right \rfloor = \left \lfloor \ {n \times {\frac {50}{100}}} \ \right \rfloor = \left \lfloor \ \frac{n}{2} \ \right \rfloor \\[0.5cm]
-&\text {where} \\[0.5cm]
-n &= \text {sample size achieved by the survey} \\
-p_{1} &= \text {lower coverage threshold} \\
-p_{2} &= \text {upper coverage threshold}
-\end{align*} \\]
 
 In order to classify coverage in each district, two coverage estimators were used. <em>Point coverage</em> provides a snapshot of program performance and places a strong emphasis on the coverage and timeliness of case-finding and recruitment. Point coverage is defined as:
 
@@ -335,8 +328,11 @@ th, td {<br />
 <td>Low</td>
 </tr>
 </table>
+
 <p>&nbsp;<br />
+
 <a id="FIG5"></a><br />
+
 **Figure 5:** Map of point coverage classification<br />
 
 ![](/assets/images/pointCoverageSierraLeone.png)
@@ -659,7 +655,7 @@ Tabulated data from questionnaires administered to cases not covered by the prog
 <a id="FIG7"></a>
 **Figure 7:** Pareto chart of barriers to coverage
 
-![](/assets/images/sleacBarriersPareto.png)
+![](/assets/images/sleacBarriersPareto-1024x595.png)
 
 <br/>
 <br/>
