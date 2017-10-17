@@ -12,7 +12,7 @@ tags:
     - modules
 header:
   overlay_color: #000
-  overlay_filter: 0.5
+  overlay_filter: rgba(153, 0, 0, 0.6)
   overlay_image: /assets/images/sierraLeoneSLEACsat.png
 feature_row:
   - image_path: /assets/images/csasGrid1.png
@@ -61,17 +61,21 @@ We have also innovated and developed key health and nutrition and related indica
 
 ### National Multi-indicator S3M in Sudan
 
-|:---:|:---|
-| ![](/assets/images/sudanS3M-front-large.png) | S3M was conducted in all 18 states of Sudan by the Federal Ministry of Health and UNICEF with technical support from Valid International and funding from DFID in June 2013 up to November 2013. S3M was used to obtain data for basic health, WASH and nutrition indicators (a total of 59 indicators) for small areas (at sub-locality level) of about 187 sq km. Such data would allow for mapping of indicator results to show geographical areas of highest need and 'hot-spots' which in turn would enable better targeting of existing interventions and will inform programme expansion.<br/><br/>
+![image-right](/assets/images/sudanS3M-front-small.png){: .align-right} 
+S3M was conducted in all 18 states of Sudan by the Federal Ministry of Health and UNICEF with technical support from Valid International and funding from DFID in June 2013 up to November 2013. S3M was used to obtain data for basic health, WASH and nutrition indicators (a total of 59 indicators) for small areas (at sub-locality level) of about 187 sq km. Such data would allow for mapping of indicator results to show geographical areas of highest need and 'hot-spots' which in turn would enable better targeting of existing interventions and will inform programme expansion.<br/>
 
->“The S3M survey is a gold mine of credible data on child malnutrition and its underlying causes. Up to now, Sudan has only had general data on the nutritional status of its children – and we know that national and even state level averages often mask disparities at lower levels. Up-to-date, reliable data are indispensable to realize the right of every child in Sudan. With these new survey results, we know exactly where the pockets of high need are located, so investment can be tailored to make sure that every single child in need is reached.”<br/><br/>
-Geert Cappelaere UNICEF Representative in Sudan, January 2014 
+>“The S3M survey is a gold mine of credible data on child malnutrition and its underlying causes. Up to now, Sudan has only had general data on the nutritional status of its children – and we know that national and even state level averages often mask disparities at lower levels. Up-to-date, reliable data are indispensable to realize the right of every child in Sudan. With these new survey results, we know exactly where the pockets of high need are located, so investment can be tailored to make sure that every single child in need is reached.”
+
+Geert Cappelaere UNICEF Representative in Sudan, January 2014
+{: .text-right}
 
 
 ### SQUEAC investigation into barriers to prevention of chronic malnutrition in Kambia District, Sierra Leone
 
-|:---:|:---|
-| ![](/assets/images/blockagesSierraLeoneMedium.png) | Using SQUEAC as a framework of investigation, Valid International together with Focus1000 under the Secure Livelihoods Research Consortium (SLRC) led by the Overseas Development Institute (ODI) conducted a study into the barriers to preventing chronic malnutrition in Kambia District, Sierra Leone and to assess and evaluate access to and coverage (uptake) of initiatives established by MoHS and other partners to improve nutrition of women and children.<br/><br/> The study found that the issues causing malnutrition are both multifactorial and complex, suggesting a range of initiatives are needed in order to prevent it. Many of these initiatives already exist at community level, but they require strengthening and expansion. The evidence also suggests that, in order to achieve sustained behaviour change at the local level, there is a need to target key decision-makers within the household, such as fathers and elders, and to engage seriously with traditional practices. |
+![image-left](/assets/images/blockagesSierraLeoneSmall.png){: .align-left}
+Using SQUEAC as a framework of investigation, Valid International together with Focus1000 under the Secure Livelihoods Research Consortium (SLRC) led by the Overseas Development Institute (ODI) conducted a study into the barriers to preventing chronic malnutrition in Kambia District, Sierra Leone and to assess and evaluate access to and coverage (uptake) of initiatives established by MoHS and other partners to improve nutrition of women and children.
+
+The study found that the issues causing malnutrition are both multifactorial and complex, suggesting a range of initiatives are needed in order to prevent it. Many of these initiatives already exist at community level, but they require strengthening and expansion. The evidence also suggests that, in order to achieve sustained behaviour change at the local level, there is a need to target key decision-makers within the household, such as fathers and elders, and to engage seriously with traditional practices.
 
 ### Impact evaluation of Empowering New Generations to Improve Nutrition and Economic Opportunities (ENGINE) in Ethiopia
 ENGINE supports the Government of Ethiopia’s efforts to improve the nutritional status of women and young children. The ENGINE program provides nutrition and health services to 3.1 million children under the age of five, half a million pregnant and lactating women and 3.2 million women of reproductive age in 100 woredas in the Amhara, Tigray, Oromia, and SNNP regions. The ENGINE program also provides nutrition services to 2.7 million households participating in agricultural and livelihood programs sponsored by USAID. In addition, ENGINE provides nutrition and health services for women and children in the rural areas who are infected and affected by HIV/AIDS through partial funding provided by the President’s Emergency Plan for AIDS Relief (PEPFAR). The ENGINE program is designed to break the cycle of malnutrition, an underlying factor for more than fifty percent of all child deaths in Ethiopia, resulting mainly from the poor nutritional status of women before and during pregnancy.
