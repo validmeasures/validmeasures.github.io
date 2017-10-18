@@ -170,9 +170,13 @@ Upon completion, the survey team was able to:
 ### Using SQUEAC to investigate in detail barriers to service uptake and access
 SQUEAC was used for more focused and in-depth investigation of factors to coverage in one of the districts that was classified as having low coverage. It would have been ideal to do a SQUEAC assessment for a district with low coverage and a district with moderate coverage to allow for comparison (as shown in [Figure 4](#FIG4). However, due to time constraints, it was deemed more important to assess factors to low coverage in one district.
 
+<br/>
+
 <a name="FIG4"></a>
 **Figure 4:** Algorithm for conducted SQUEAC after a SLEAC survey
-![](assets/images/sleacAlgorithm2.png)
+![](/assets/images/sleacAlgorithm2.png/)
+
+<br/>
 
 The SQUEAC assessment was started by using the information on barriers to coverage gained from the SLEAC survey in the Western Area rural district as leads for further investigation. Also, survey team members were asked to share their observations and findings from visiting the various villages in the district and put forward different hypotheses of how these barriers or factors impact on coverage. The survey team then adapted and developed investigation tools and strategies to gain more insight on the barriers identified and to test the hypotheses generated. These strategies include question guides to ask specific key informants and collection and analysis of specific data from patient records.
 
