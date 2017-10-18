@@ -1,56 +1,59 @@
 ---
-layout: single
 title: TSFP coverage assessment pilot surveys
+layout: single
 date: 2015-10-31 08:08:40.000000000 +00:00
 type: posts
+author_profile: false
 published: true
 status: publish
 categories:
-- Metrics
-- Projects
-- Surveys
+    - Metrics
+    - Projects
+    - Surveys
 tags:
-- Chad
-- CMAM coverage
-- coverage
-- coverage barriers
-- coverage boosters
-- MAM
-- moderate acute malnutrition
-- Niger
-- OTP
-- outpatient therapeutic care programme
-- Pakistan
-- SAM
-- severe acute malnutrition
-- strategic results framework
-- targeted supplementary feeding programme
-- TSFP
-- WFP
-- World Food Programme
-meta:
-  _edit_last: '1'
-  spacious_page_layout: default_layout
-  _jetpack_related_posts_cache: a:1:{s:32:"8f6677c9d6b0f903e98ad32ec61f8deb";a:2:{s:7:"expires";i:1506315254;s:7:"payload";a:3:{i:0;a:1:{s:2:"id";i:1173;}i:1;a:1:{s:2:"id";i:471;}i:2;a:1:{s:2:"id";i:2112;}}}}
-  _wpas_done_all: '1'
-  _thumbnail_id: '2271'
-  _wp_old_slug: mam-coverage-assessment-pilot-surveys
-  _wpas_skip_14056684: '1'
-  _wpas_skip_14236406: '1'
-  _jetpack_dont_email_post_to_subs: '1'
-author:
-  login: admin
-  email: ernest@validmeasures.org
-  display_name: admin
-  first_name: ''
-  last_name: ''
+    - Chad
+    - CMAM coverage
+    - coverage
+    - coverage barriers
+    - coverage boosters
+    - MAM
+    - moderate acute malnutrition
+    - Niger
+    - OTP
+    - outpatient therapeutic care programme
+    - Pakistan
+    - SAM
+    - severe acute malnutrition
+    - strategic results framework
+    - targeted supplementary feeding programme
+    - TSFP
+    - WFP
+    - World Food Programme
+header:
+  overlay_image: /assets/images/chadS3Msat.png/
+excerpt: Assessment of TSFP in Chad, Niger and Pakistan
+sidebar:
+    - title: "Country"
+      image: /assets/images/wfp.png/
+      image_alt: "Chad, Niger and Pakistan"
+      text: "Chad, Niger and Pakistan"
+    - title: "Project"
+      text: "Pilot TSFP coverage assessment"
+    - title: "Client"
+      text: "World Food Programme"
+    - title: "Year"
+      text: "2015"
 ---
-<p><strong>Coverage</strong> – the proportion of all people needing or eligible to receive a service who actually receive that service – is an important measure of a programme’s ability to meet need. Timely, appropriate and high-quality monitoring of coverage is therefore essential in planning, implementing and tracking the progress of programmes such as those for maternal, newborn and child health and nutrition<sup><a href="#BIB1">1</a></sup>. However, large gaps still exist with regard to coverage data and assessment of these programmes<sup><a href="#BIB1">1</a>,<a href="#BIB2">2</a>,<a href="#BIB3">3</a></sup>. For example, only 11 out of 75 countries that account for 95% of maternal and child deaths had data on all 8 coverage indicators that have been recommended for monitoring the progress of key interventions aimed at improving women’s and children’s health<sup><a href="#BIB4">4</a></sup>. A similar scenario exists for nutrition programmes. Coverage data for the 12 key nutrition-specific interventions crucial for undernutrition reduction<sup><a href="#BIB3">3</a>,<a href="#BIB5">5</a>,<a href="#BIB6">6</a>,<a href="#BIB7">7</a></sup> are scarce; only 3 of the 12 interventions have readily available, nationally-comparable data in a majority of countries, with the rest of the interventions having either no data at all, non-comparable data or only sub-national data<sup><a href="#BIB4">4</a></sup>. Coverage data on interventions for the management of acute malnutrition (both severe and moderate acute malnutrition – SAM and MAM) falls into the latter category with data being very limited.<br />
-&nbsp;</p>
-<h5>World Food Programme and coverage</h5>
-<p>The <strong>World Food Programme’s (WFP) Strategic Results Framework (SRF)</strong> outlines the organisation’s approach to “plan, measure and monitor, review, report and learn from results”<sup><a href="#BIB8>8</sup>. As such, the SRF specifies WFP project outcomes and outputs and the indicators by which to measure their achievement. The current SRF for the period 2014 to 2017 reflects the organisation’s work to demonstrate the results of its efforts to shift from a food aid paradigm to food assistance, with projects that “prepare and respond to shocks, restore and rebuild lives and livelihoods, enhance nutrition coverage, reduce vulnerability and build lasting resilience”<sup><a href="#BIB8>8</sup>. When comparing the current SRF to its predecessor, the most significant difference that can be noted is that MAM treatment coverage is an outcome indicator across three out of the four strategic objectives  articulated in the current SRF<sup><a href="#BIB8>8,<a href="#BIB9">9</a></sup>. </p>
-<p>WFP’s shift towards monitoring and reporting coverage is in line with the current global emphasis on coverage described above. However, WFP has little experience in implementing the current methods available for coverage assessment. In addition, only a few examples exist where these coverage assessment methods have been used for measuring SFP coverage. </p>
-<p>In line with the new nutrition measurement requirements outlined in the current SRF, OSZAN Nutrition Programme Unit is planning to conduct a pilot test of new coverage measurement techniques in selected countries. The pilots seek to investigate which of the currently available methodologies best suit WFP’s global MAM treatment operations to meet the SRF’s measurement requirements. </p>
+{% include toc icon="gears" title="Contents" %}
+**Coverage** – the proportion of all people needing or eligible to receive a service who actually receive that service – is an important measure of a programme’s ability to meet need. Timely, appropriate and high-quality monitoring of coverage is therefore essential in planning, implementing and tracking the progress of programmes such as those for maternal, newborn and child health and nutrition[^1]. However, large gaps still exist with regard to coverage data and assessment of these programmes[^1],[^2],[^3]. For example, only 11 out of 75 countries that account for 95% of maternal and child deaths had data on all 8 coverage indicators that have been recommended for monitoring the progress of key interventions aimed at improving women’s and children’s health[^4]. A similar scenario exists for nutrition programmes. Coverage data for the 12 key nutrition-specific interventions crucial for undernutrition reduction[^3],[^5],[^6],[^7] are scarce; only 3 of the 12 interventions have readily available, nationally-comparable data in a majority of countries, with the rest of the interventions having either no data at all, non-comparable data or only sub-national data[^4]. Coverage data on interventions for the management of acute malnutrition (both severe and moderate acute malnutrition – SAM and MAM) falls into the latter category with data being very limited.
+
+## World Food Programme and coverage
+The **World Food Programme’s (WFP) Strategic Results Framework (SRF)** outlines the organisation’s approach to “plan, measure and monitor, review, report and learn from results”[^8]. As such, the SRF specifies WFP project outcomes and outputs and the indicators by which to measure their achievement. The current SRF for the period 2014 to 2017 reflects the organisation’s work to demonstrate the results of its efforts to shift from a food aid paradigm to food assistance, with projects that “prepare and respond to shocks, restore and rebuild lives and livelihoods, enhance nutrition coverage, reduce vulnerability and build lasting resilience”[^8]. When comparing the current SRF to its predecessor, the most significant difference that can be noted is that MAM treatment coverage is an outcome indicator across three out of the four strategic objectives  articulated in the current SRF[^8],[^9].
+
+WFP’s shift towards monitoring and reporting coverage is in line with the current global emphasis on coverage described above. However, WFP has little experience in implementing the current methods available for coverage assessment. In addition, only a few examples exist where these coverage assessment methods have been used for measuring SFP coverage.
+
+In line with the new nutrition measurement requirements outlined in the current SRF, OSZAN Nutrition Programme Unit is planning to conduct a pilot test of new coverage measurement techniques in selected countries. The pilots seek to investigate which of the currently available methodologies best suit WFP’s global MAM treatment operations to meet the SRF’s measurement requirements.
+
 <p>Due to the innovative nature of the coverage measurement techniques, there is a need to test the corporate feasibility of the various methods prior to implementation across WFP’s global MAM treatment programmes. WFP does not have the technical capability at present to implement the coverage measurement techniques and requires the assistance of technically sound expertise. Furthermore, while challenges in adapting the coverage measurement methodology to WFP’s scale of operations are expected, solving these challenges offers the opportunity to generate evidence about programming evaluation processes, using primary data. For these reasons, WFP is collaborating with Valid International to design and implement coverage measurement techniques suitable to WFP's programmatic requirements. </p>
 <p>A review of WFP’s <em>“Measuring Nutrition Indicators in the Strategic Results Framework (2014-2017) Briefing Package”</em>  and <em>“2014-107 Strategic Results Framework Indicator Compendium”</em> along with the Strategic Results Framework for 2014-2017 was conducted to establish a baseline of WFP’s corporate understanding and approach on measurement of the new coverage indicator requirements of the SRF. The review highlighted some confusion and concern as to how and by what means the coverage indicators are to be assessed. Part of the aim of this project is to provide guidance and clarity to WFP’s HQ and country-level decision-makers on the methods available to them and the resources and capacities required for their implementation. </p>
 <p>&nbsp;</p>
