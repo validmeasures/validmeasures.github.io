@@ -8,3 +8,16 @@ main:
     url: /projects/
   - title: "Contact"
     url: /contact/
+    
+menu:
+  - title: "Modules"
+    url: /modules/
+    children:
+      - title: "Metrics"
+        url: /modules/metrics/
+      - title: "Analytics"
+        url: /modules/analytics/
+      - title: "Technology"
+        url: /modules/technology/
+      - title: "Training"
+        url: /modules/training/

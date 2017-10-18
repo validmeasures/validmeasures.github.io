@@ -3,6 +3,7 @@ title: National CMAM coverage in Sierra Leone
 layout: single
 date: 2011-04-30 10:27:12.000000000 +01:00
 type: posts
+author_profile: false
 published: true
 status: publish
 categories:
@@ -20,9 +21,17 @@ tags:
 header:
   overlay_image: /assets/images/sierraLeoneSLEACsat.png/
 excerpt: Use of SLEAC to assess coverage of the Sierra Leone National CMAM programme
+sidebar:
+    - title: "Country"
+      image: /assets/images/treatCoverageSierraLeone.png
+      image_alt: "Sierra Leone Coverage Map"
+      text: "Sierra Leone"
+    - title: "Project"
+      text: "National CMAM Coverage Assessment"
+    - title: "Year"
+      text: "2011"
 ---
-
-## Introduction
+{% include toc icon="gears" title="Contents" %}
 Community-based management of acute malnutrition (CMAM) was initially piloted in four districts of Sierra Leone in 2007. Since then, the program had been expanded to provide CMAM services in various health centres in other districts. By 2010, all districts in the country had been implementing CMAM. Given the national scale of the CMAM program in Sierra Leone, a wide area survey method was needed to assess the coverage achieved by the program. UNICEF and the Sierra Leone Ministry of Health and Sanitation (MoHS) with technical support from Valid International conducted SLEAC or Simplified Lot Quality Assurance Sampling Evaluation of Access and Coverage and SQUEAC or Semi-Quantitative Evaluation of Access and Coverage from the 20th of February to the 25th of April 2011. This report describes the process and presents the findings of the survey.
 
 ## Methods
