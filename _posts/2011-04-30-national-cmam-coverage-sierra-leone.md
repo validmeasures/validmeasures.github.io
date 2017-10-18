@@ -29,7 +29,7 @@ Community-based management of acute malnutrition (CMAM) was initially piloted in
 ### SLEAC Sampling Design
 SLEAC was used as the wide-area survey method to classify coverage at the district level. The district was selected as the unit of classification because service delivery was managed and implemented at the district level.
 
-The primary sampling units (PSUs) used in the SLEAC surveys were census enumeration areas (EAs). In rural districts, EAs were individual villages and hamlets. In urban and peri-urban districts, EAs were city-blocks. In rural districts, lists of potential PSUs were sorted by chiefdom. In urban and peri-urban districts, lists of potential PSUs were sorted by electoral ward (sections). The structure of the district-level samples are shown in <a href="#FIG1">Figure 1</a>.
+The primary sampling units (PSUs) used in the SLEAC surveys were census enumeration areas (EAs). In rural districts, EAs were individual villages and hamlets. In urban and peri-urban districts, EAs were city-blocks. In rural districts, lists of potential PSUs were sorted by chiefdom. In urban and peri-urban districts, lists of potential PSUs were sorted by electoral ward (sections). The structure of the district-level samples are shown in [Figure 1](#FIG1).
 
 A target sample size of \\( n = 40 \\) current SAM cases was used in the rural and urban districts. This is the standard SLEAC sample size for large populations. A lower target sample size was used (i.e \\( n = 33 \\) in the single peri-urban district because this district had a much lower population than the other districts.
 
@@ -37,7 +37,7 @@ The number of PSUs to sample \\( n_{PSU} \\) needed to reach the target sample s
 
 <br/>
 
-\\[n_{PSU} = \frac {\text {target sample size (n)}} {\text {average population}_{\text {all ages}} \times \frac {\text {percentage of population}_{\text {6-59 months}}}{100} \times \frac {\text {SAM prevalence}}{100}}\\]
+$$ n_{PSU} = \frac {\text {target sample size (n)}} {\text {average population}_{\text {all ages}} \times \frac {\text {percentage of population}_{\text {6-59 months}}}{100} \times \frac {\text {SAM prevalence}}{100}} $$
 
 <br />
 
@@ -57,10 +57,13 @@ SAM prevalences were taken from reports of SMART surveys of prevalence in each d
 
 The Sierra Leone Central Statistics Bureau provided information on the total district populations and total number of EAs in each district. The Sierra Leone Central Statistics Bureau also provided lists of enumeration areas for the Western Area districts and large-scale maps of the EAs that were selected for sampling.
 
-<a id="FIG1"></a><br />
-**Figure 1:** Structure of samples in urban and rural districts
+<br/>
 
+<a name="FIG1"></a>
+**Figure 1:** Structure of samples in urban and rural districts
 ![](/assets/images/sampleStructureSLEAC-1024x839.png)
+
+<br/>
 
 PSUs were selected using the following systematic sampling procedure:
 
@@ -85,12 +88,15 @@ The PSUs selected by this procedure were sampled using a case-finding method tai
 
 This question was adapted and improved using information collected from traditional birth attendants, female elders, traditional health practitioners, cares of children in the program, and other key informants to include local terms (in all local languages) and local aetiological beliefs regarding wasting and oedema. This question was used as part of an active and adaptive case finding method.
 
-- In urban and peri-urban districts, house-to-house and door-to-door case-finding was used. This was done because it was felt that active and adaptive case-finding would not work well in these districts. Sampling was aided by the use of large-scale maps provided by the Sierra Leone Central Statistics Bureau (see <a href="#FIG2">Figure 2</a>).
+- In urban and peri-urban districts, house-to-house and door-to-door case-finding was used. This was done because it was felt that active and adaptive case-finding would not work well in these districts. Sampling was aided by the use of large-scale maps provided by the Sierra Leone Central Statistics Bureau (see [Figure 2](#FIG2)).
 
-<a id="FIG2"></a>
+<br/>
+
+<a name="FIG2"></a>
 **Figure 2:** Large-scale maps for urban and per-urban districts
-
 ![](/assets/images/urbanMapsSLEAC-769x1024.png)
+
+<br/>
 
 After all PSUs in a district have been sampled, the survey team met at the district headquarters for data collation and analysis. The simplified Lot Quality Assurance Sampling (LQAS) classification technique was applied to the collated data. Coverage standards:
 
@@ -100,20 +106,45 @@ After all PSUs in a district have been sampled, the survey team met at the distr
 
 were decided centrally by MoHS and UNICEF staff before the start of the surveys. These standards were used to create decision rules using the rule-of-thumb formulae:
 
+<br/>
+
+$$ \begin{align*}
+d_{1} &= \left \lfloor \ {n \times p_{1}} \ \right \rfloor = \left \lfloor \ {n \times {\frac {20}{100}}} \ \right \rfloor = \left \lfloor \ \frac{n}{5} \ \right \rfloor \\[0.5cm]
+&\text {and} \\[0.5cm]
+d_{2} &= \left \lfloor \ {n \times p_{2}} \ \right \rfloor = \left \lfloor \ {n \times {\frac {50}{100}}} \ \right \rfloor = \left \lfloor \ \frac{n}{2} \ \right \rfloor \\[0.5cm]
+&\text {where} \\[0.5cm]
+n &= \text {sample size achieved by the survey} \\
+p_{1} &= \text {lower coverage threshold} \\
+p_{2} &= \text {upper coverage threshold}
+\end{align*} $$
+
+<br/>
+
 In order to classify coverage in each district, two coverage estimators were used. <em>Point coverage</em> provides a snapshot of program performance and places a strong emphasis on the coverage and timeliness of case-finding and recruitment. Point coverage is defined as:
+
+<br/>
 
 \\[ \text {Point coverage} = \frac {\text {Number of current cases attending program} (c)}{\text {Number of current cases} (n)} \\]
 
+<br/>
+
 *Period coverage*, on the other hand, includes recovering cases into the estimation of coverage. These are cases who should be in the program because they haven’t met discharge criteria yet. Period coverage is expressed as:
+
+<br/>
 
 \\[ \text {Period coverage} = \frac {\text {Number of current and recovering cases attending program} (c)}{\text {Number of current and recovering cases} (n)} \\]
 
-Using both point and period coverage estimators, coverage in each district was classified by comparing the decision rules against the value of \\( c \\) based on the algorithm presented in <a href="#FIG3">Figure 3</a>.
+<br/>
 
-<a id="FIG3"></a>
+Using both point and period coverage estimators, coverage in each district was classified by comparing the decision rules against the value of \\( c \\) based on the algorithm presented in [Figure 3](#FIG3).
+
+<br/>
+
+<a name="FIG3"></a>
 **Figure 3:** Coverage classification algorithm
-
 ![](/assets/images/sleacAlgorithm1.png)
+
+<br/>
 
 A short questionnaire, similar to that shown in Annex 2, asking about barriers to coverage was administered to carers of non-coverage cases found. This data was tabulated from the questionnaires using a tally-sheet and presented as a Pareto chart.
 
@@ -137,12 +168,11 @@ Upon completion, the survey team was able to:
 - List barriers to coverage ranked by their relative importance
 
 ### Using SQUEAC to investigate in detail barriers to service uptake and access
-SQUEAC was used for more focused and in-depth investigation of factors to coverage in one of the districts that was classified as having low coverage. It would have been ideal to do a SQUEAC assessment for a district with low coverage and a district with moderate coverage to allow for comparison (as shown in <a href="#FIG4">Figure 4</a>). However, due to time constraints, it was deemed more important to assess factors to low coverage in one district.
+SQUEAC was used for more focused and in-depth investigation of factors to coverage in one of the districts that was classified as having low coverage. It would have been ideal to do a SQUEAC assessment for a district with low coverage and a district with moderate coverage to allow for comparison (as shown in [Figure 4](#FIG4). However, due to time constraints, it was deemed more important to assess factors to low coverage in one district.
 
-<a id="FIG4"></a><br />
+<a name="FIG4"></a>
 **Figure 4:** Algorithm for conducted SQUEAC after a SLEAC survey
-
-![](assets/images/SLEAC-and-SQUEAC-2.png)
+![](assets/images/sleacAlgorithm2.png)
 
 The SQUEAC assessment was started by using the information on barriers to coverage gained from the SLEAC survey in the Western Area rural district as leads for further investigation. Also, survey team members were asked to share their observations and findings from visiting the various villages in the district and put forward different hypotheses of how these barriers or factors impact on coverage. The survey team then adapted and developed investigation tools and strategies to gain more insight on the barriers identified and to test the hypotheses generated. These strategies include question guides to ask specific key informants and collection and analysis of specific data from patient records.
 
@@ -156,9 +186,11 @@ For point coverage, only 3 out of the 14 districts surveyed achieved moderate co
 
 For period coverage, half of the districts reached moderate coverage (Bombali, Kono, Kenema, Bonthe, Pujehun, Bo, Western Area Rural) while the other half reached low coverage classification. As was with point coverage, none of the districts got a high coverage classification. The period coverage classification was patchy or heterogeneously moderate across all the districts. The national period coverage classification is moderate.
 
-<a href="#TAB1">Table 1</a> and <a href="#TAB2">Table 2</a> summarises the classification of point and period coverage (respectively) by district. <a href="#FIG5">Figure 5</a> and <a href="#FIG6">Figure 6</a> present the same results as a map of per-district coverage (point and period respectively).
+[Table 1](#TAB1) and [Table 2](#TAB2) summarises the classification of point and period coverage (respectively) by district. <a href="#FIG5">Figure 5</a> and <a href="#FIG6">Figure 6</a> present the same results as a map of per-district coverage (point and period respectively).
 
-<a id="TAB1"></a>
+<br/>
+
+<a name="TAB1"></a>
 **Table 1:** Point coverage classification by district
 <style>
 th, td {<br />
@@ -172,9 +204,9 @@ th, td {<br />
 <th>SAM cases in program (c)</th>
 <th>SAM cases found (n)</th>
 <th>Decision rule 1</th>
-<th>Is $ c > d_{1} $ ?</th>
+<th>Is \[ c > d_{1} \] ?</th>
 <th>Decision rule 2</th>
-<th>Is $ c > d_{2} $ ?</th>
+<th>Is \[ c > d_{2} \] ?</th>
 <th>Classification</th>
 </tr>
 <tr>
@@ -329,26 +361,25 @@ th, td {<br />
 </tr>
 </table>
 
-<p>&nbsp;<br />
+<br/>
 
-<a id="FIG5"></a><br />
-
-**Figure 5:** Map of point coverage classification<br />
-
+<a name="FIG5"></a>
+**Figure 5:** Map of point coverage classification
 ![](/assets/images/pointCoverageSierraLeone.png)
 
-<a id="TAB2"></a>
-**Table 2:** Period coverage classification by district
+<br/>
 
+<a name="TAB2"></a>
+**Table 2:** Period coverage classification by district
 <table style="width:100%">
 <tr>
 <th>District</th>
 <th>SAM cases in program (c)</th>
 <th>SAM cases found (n)</th>
 <th>Decision rule 1</th>
-<th>Is $ c > d_{1} $ ?</th>
+<th>Is \[ c > d_{1} \] ?</th>
 <th>Decision rule 2</th>
-<th>Is $ c > d_{2} $ ?</th>
+<th>Is \[ c > d_{2} \] ?</th>
 <th>Classification</th>
 </tr>
 <tr>
@@ -503,16 +534,20 @@ th, td {<br />
 </tr>
 </table>
 
-<a id="FIG6"></a>
+<br/>
 
+<a name="FIG6"></a>
 **Figure 6:** Map of period coverage classification
-
 ![](/assets/images/treatCoverageSierraLeone.png)
+
+<br/>
 
 ### SLEAC: Barriers to service uptake and access
 Tabulated data from questionnaires administered to cases not covered by the program revealed that the most critical barrier to coverage is the lack of knowledge of the program. This accounts for about 68% of the reasons why these cases are not covered by the program.
 
 <a href="#TAB3">Table 3</a> lists the various barriers to coverage ranked by their relative importance and <a href="#FIG7">Figure 7</a> presents the same data through a Pareto chart.
+
+<br/>
 
 <a id="TAB3"></a>
 **Table 3:** Barriers to coverage
@@ -654,7 +689,6 @@ Tabulated data from questionnaires administered to cases not covered by the prog
 
 <a id="FIG7"></a>
 **Figure 7:** Pareto chart of barriers to coverage
-
 ![](/assets/images/sleacBarriersPareto-1024x595.png)
 
 <br/>
