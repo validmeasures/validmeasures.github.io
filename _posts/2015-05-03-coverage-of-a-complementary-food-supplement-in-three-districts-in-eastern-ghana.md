@@ -50,17 +50,10 @@ The two main reasons for non-consumption in the target group were caregivers' la
 
 <br/>
 
-This is a published abstract that can be found [here](http://www.fasebj.org/content/28/1_Supplement/255.5.abstract?sid=b3bc32c3-eda7-4d82-bd85-14b8e4e3078e). The citation for the abstract is: 
+This is a published abstract that can be found [here](http://www.fasebj.org/content/28/1_Supplement/255.5.abstract?sid=b3bc32c3-eda7-4d82-bd85-14b8e4e3078e). The citation for the abstract is: Aaron, G. et al., 2014. Coverage of a market-based approach to deliver a complementary food supplement to infants and children in three districts in Eastern Ghana: use of the simple spatial survey method (S3M) (255.5). The FASEB Journal, 28(1 Supplement).
 
-Aaron, G. et al., 2014. Coverage of a market-based approach to deliver a complementary food supplement to infants and children in three districts in Eastern Ghana: use of the simple spatial survey method (S3M) (255.5). The FASEB Journal, 28(1 Supplement).
-
-
-
-
-![image-left](/assets/images/journal.pone_.0162462-232x300.png)
-A full article on this coverage assessment has recently been published. It can be found [here](ttp://journals.plos.org/plosone/article?id=10.1371/journal.pone.0162462).
-
-The citation for the journal article is: Aaron GJ, Strutt N, Boateng NA, Guevarra E, Siling K, et al. (2016) Assessing Program Coverage of Two Approaches to Distributing a Complementary Feeding Supplement to Infants and Young Children in Ghana. PLoS ONE 11(10): e0162462. doi: 10.1371/journal.pone.0162462
+![image-left](/assets/images/journal.pone_.0162462-232x300.png){: .align-left}
+A full article on this coverage assessment has recently been published. It can be found [here](ttp://journals.plos.org/plosone/article?id=10.1371/journal.pone.0162462). The citation for the journal article is: Aaron GJ, Strutt N, Boateng NA, Guevarra E, Siling K, et al. (2016) Assessing Program Coverage of Two Approaches to Distributing a Complementary Feeding Supplement to Infants and Young Children in Ghana. PLoS ONE 11(10): e0162462. doi: 10.1371/journal.pone.0162462
 
 <br/>
 <br/>
