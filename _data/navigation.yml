@@ -4,12 +4,18 @@ main:
     url: /
   - title: "About"
     url: /about/
+  - title: "Modules"
+    url: /modules/
   - title: "Projects"
     url: /projects/
   - title: "Contact"
     url: /contact/
     
 menu:
+  - title: "Home"
+    url: /
+  - title: "About"
+    url: /about/
   - title: "Modules"
     url: /modules/
     children:
@@ -20,4 +26,8 @@ menu:
       - title: "Technology"
         url: /modules/technology/
       - title: "Training"
-        url: /modules/training/
+        url: /modules/training/  
+  - title: "Projects"
+    url: /projects/
+  - title: "Contact"
+    url: /contact/
