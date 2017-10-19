@@ -4,8 +4,6 @@ main:
     url: /
   - title: "About"
     url: /about/
-  - title: "Modules"
-    url: /modules/
   - title: "Projects"
     url: /projects/
   - title: "Contact"
@@ -17,7 +15,6 @@ menu:
   - title: "About"
     url: /about/
   - title: "Modules"
-    url: /modules/
     children:
       - title: "Metrics"
         url: /modules/metrics/
