@@ -217,7 +217,7 @@ Coverage in each LGA and state was classified using the algorithm presented in [
 ![](/assets/images/sleacAlgorithm1.png/)
 
 #### Coverage estimation
-An aggregate estimate of coverage was calculated for each state and for all the LGAs combined using standard weighted estimation of proportions techniques used for a stratified sample as described in the <a href="http://www.fantaproject.org/monitoring-and-evaluation/squeac-sleac" title="FANTA SQUEAC and SLEAC Technical Reference" target="_blank">FANTA SQUEAC and SLEAC Technical Reference</a>. Chi-square testing was performed to assess whether coverage results were homogeneous within each state. Whether or not coverage is homogenous within each state allows for the contextualisation of the state level and overall coverage estimates calculated<sup>3</sup>.
+An aggregate estimate of coverage was calculated for each state and for all the LGAs combined using standard weighted estimation of proportions techniques used for a stratified sample as described in the FANTA SQUEAC and SLEAC Technical Reference. Chi-square testing was performed to assess whether coverage results were homogeneous within each state. Whether or not coverage is homogenous within each state allows for the contextualisation of the state level and overall coverage estimates calculated[^3].
 
 ### Survey implementation
 The SLEAC coverage survey was carried out in two blocks:
@@ -581,7 +581,7 @@ We profiled the SAM cases found during the survey by their age and their MUAC. T
 
 This age profile indicates that the sample of SAM cases found during the coverage survey was what expected. SAM was expected to be more prevalent in the younger age group of children between 6 to 24 months, as they are the most susceptible to various known causal factors of malnutrition.
 
-Regarding the MUAC, except for Kano, Gombe, Jigawa and Yobe states, the medians of uncovered cases found of others states are less than 110 mm indicating a high risk of mortality. This gives information about time of the SAM cases spent in the community without being identified by active case finding of volunteers. As the median was less than 110mm, (not close to 115 mm)  these showed that SAM cases have spent more time in community without being detected by volunteers, therefore in recommendation much effort should be done to catch  SAM cases very early and to recruit them into  the program for these states. Annex 9 presents the histogram of age of all cases and the histogram of MUAC of uncovered cases.
+Regarding the MUAC, except for Kano, Gombe, Jigawa and Yobe states, the medians of uncovered cases found of others states are less than 110 mm indicating a high risk of mortality. This gives information about time of the SAM cases spent in the community without being identified by active case finding of volunteers. As the median was less than 110 mm, (not close to 115 mm)  these showed that SAM cases have spent more time in community without being detected by volunteers, therefore in recommendation much effort should be done to catch  SAM cases very early and to recruit them into  the program for these states. Annex 9 presents the histogram of age of all cases and the histogram of MUAC of uncovered cases.
 
 Furthermore it should be noted that of the total of 5947 cases of severe acute malnutrition, 237 cases had oedema or 4.5%. [Table 5](#TAB5) presents the number of oedema cases found for each state and their degree.
 
@@ -1587,7 +1587,7 @@ Of the  71 LGAs surveyed, more than half (40 LGAs) have moderate coverage and 27
 
 
 ### Coverage estimates
-Coverage estimation was done at the state level. <a href="#TAB8">Table 8</a> presents the results. Bauchi has the highest coverage estimate at 56.9% while Sokoto has the lowest coverage estimate at 5.3%.
+Coverage estimation was done at the state level. [Table 8](#TAB8) presents the results. Bauchi has the highest coverage estimate at 56.9% while Sokoto has the lowest coverage estimate at 5.3%.
 
 <a name="TAB8"></a>
 **Table 8:** Coverage estimates per state

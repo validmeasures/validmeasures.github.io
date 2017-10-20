@@ -35,6 +35,8 @@ We have also developed an [online toolkit](http://toolkit.validmeasures.org) bas
 ## Targeted supplementary feeding programme coverage assessment toolkit
 As part of a recent collaboration between the [World Food Programme](http://www.wfp.org) and [Valid International](http://www.validinternational.org) to pilot coverage assessments of targeted supplementary feeding programmes (TSFP) in three WFP-supported countries, we produced an [online toolkit](http://sfp.validmeasures.org) that would support the rollout of TSFP coverage assessments.
 
+<iframe width="100%" height="400" frameborder="0" scrolling="no" seamless src="http://www.validmeasures.org/maps/surveysWFP.html"></iframe>
+
 
 ## Rapid Assessment Method for Older People (RAM-OP)
 ![image-left](/assets/images/manualRAMOPsmall.png){: .align-left}

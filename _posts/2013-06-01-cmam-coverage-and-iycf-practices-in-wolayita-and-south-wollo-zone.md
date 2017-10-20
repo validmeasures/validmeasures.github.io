@@ -1,48 +1,50 @@
 ---
-layout: single
 title: CMAM coverage and IYCF practices in 2 zones in Ethiopia
+layout: single
+author_profile: false
 date: 2013-06-01 10:08:25.000000000 +01:00
 type: posts
 published: true
 status: publish
 categories:
-- Metrics
-- Projects
-- Surveys
+    - Metrics
+    - Projects
+    - Surveys
 tags:
-- CMAM
-- community-based management of acute malnutrition
-- Ethiopia
-- infant and young child feeding
-- IYCF
-- S3M
-- simple spatial sampling method
-- simple spatial survey method
-- South Wollo
-- Wolayita
-meta:
-  _jetpack_related_posts_cache: a:1:{s:32:"8f6677c9d6b0f903e98ad32ec61f8deb";a:2:{s:7:"expires";i:1506315257;s:7:"payload";a:3:{i:0;a:1:{s:2:"id";i:440;}i:1;a:1:{s:2:"id";i:483;}i:2;a:1:{s:2:"id";i:1173;}}}}
-  _edit_last: '1'
-  spacious_page_layout: default_layout
-  _wpas_done_all: '1'
-  _wpas_skip_14056684: '1'
-  _wpas_skip_14236406: '1'
-  _jetpack_dont_email_post_to_subs: '1'
-  _thumbnail_id: '2296'
-author:
-  login: admin
-  email: ernest@validmeasures.org
-  display_name: admin
-  first_name: ''
-  last_name: ''
+    - CMAM
+    - community-based management of acute malnutrition
+    - Ethiopia
+    - infant and young child feeding
+    - IYCF
+    - S3M
+    - simple spatial sampling method
+    - simple spatial survey method
+    - South Wollo
+    - Wolayita
+header:
+  overlay_image: /assets/images/wolayitaIYCF.png/
+excerpt: Use of S3M to assess CMAM coverage in 2 zones of Ethiopia
+sidebar:
+    - title: "Country"
+      image: /assets/images/concern_worldwide.jpg/
+      image_alt: "Ethiopia"
+      text: "Ethiopia"
+    - title: "Project"
+      text: "CMAM Coverage in 2 Zones of Ethiopia"
+    - title: "Client"
+      text: "Concern Worldwide"
+    - title: "Year"
+      text: "2013"
 ---
-<p>With the adoption of the CMAM model at sub-national to national levels in countries such as Ethiopia, the need for a coverage method that can provide information about coverage over large areas has become important. In the Conference on Government experiences of Community-based Management of Acute Malnutrition and Scaling Up Nutrition held in Addis Ababa, Ethiopia in 2011, the Ethiopian delegation reported that a key learning point of their CMAM scale-up experience was the "need for systems to monitor and improve quality of services early on"<sup>1</sup><sup>,</sup><sup>2</sup> and highlighted the importance of strengthening monitoring and evaluation to maintain quality of programming. <a href="#FIG1">Figure 1</a> gives an idea of the geographic scale of the acute malnutrition needs and the current programming scope.<br />
-&nbsp;</p>
-<p><a id="FIG1"></a><br />
-<strong>Figure 1:</strong> Ethiopia CMAM scale up<br />
-<a href="http://www.validmeasures.org/wp-content/uploads/2013/06/s2.in_.1.png"><img src="{{ site.baseurl }}/assets/s2.in_.1.png" alt="s2.in.1" width="976" height="770" class="aligncenter size-full wp-image-788" /></a><br />
-&nbsp;</p>
-<h5>Audit cycle as a framework for monitoring and evaluation</h5>
+{% include toc icon="gears" title="Contents" %}
+With the adoption of the CMAM model at sub-national to national levels in countries such as Ethiopia, the need for a coverage method that can provide information about coverage over large areas has become important. In the Conference on Government experiences of Community-based Management of Acute Malnutrition and Scaling Up Nutrition held in Addis Ababa, Ethiopia in 2011, the Ethiopian delegation reported that a key learning point of their CMAM scale-up experience was the "need for systems to monitor and improve quality of services early on"[^1]<sup>,</sup>[^2]and highlighted the importance of strengthening monitoring and evaluation to maintain quality of programming. [Figure 1](#FIG1) gives an idea of the geographic scale of the acute malnutrition needs and the current programming scope.
+
+<a name="FIG1"></a>
+**Figure 1:** Ethiopia CMAM scale up
+![](/assets/images/s2.in_.1.png/)
+
+
+## Audit cycle as a framework for monitoring and evaluation
 <p>An audit is a quality improvement and monitoring method that seeks to improve service delivery<br />
 through systematic review against specific criteria and standards and the implementation of change. The most commonly used framework for an audit is the audit cycle shown in <a href="#FIG2">Figure 2</a>.<br />
 &nbsp;</p>

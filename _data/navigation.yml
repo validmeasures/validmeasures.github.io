@@ -6,6 +6,8 @@ main:
     url: /about/
   - title: "Projects"
     url: /projects/
+  - title: "Maps"
+    url: http://www.validmeasures.org/maps
   - title: "Contact"
     url: /contact/
     
@@ -26,5 +28,7 @@ menu:
         url: /modules/training/  
   - title: "Projects"
     url: /projects/
+  - title: "Maps"
+    url: http://www.validmeasures.org/maps
   - title: "Contact"
     url: /contact/

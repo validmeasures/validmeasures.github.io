@@ -72,5 +72,14 @@ Open Data Kit (ODK) is a free and open-source set of tools which help organizati
 ![image-left](/assets/images/TR-logo-small.png){: .align-left}
 Telerivet is an innovative mobile messaging platform that instantly connects businesses and organizations with their customers, employees, and community. No servers, programmers, expensive contracts, or shortcodes required. Telerivet uses a tool that most people in any country already have – a standard mobile phone. A cloud-based management system routes messages to and from any number of mobile devices, allowing you to reach anyone who has a mobile phone with SMS.
 
+## Tools
+In support of spatial sampling methods, Valid International creates web-based interactive sampling tools. These tools are useful for assessments done at scale (regional to national level).
+
+Recently, Valid International has supported the Philippines' National Nutrition Council in developing a spatial sampling tool that will assist the in their planned national nutrition surveillance system.
+
+<iframe width="100%" height="600" frameborder="0" scrolling="no" seamless src="http://www.validmeasures.org/maps/philippinesElNino.html"></iframe>
+
+
+
 <br/>
 <br/>

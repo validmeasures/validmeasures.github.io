@@ -59,8 +59,15 @@ The modules offered can be utilised individually or as linked modules depending 
 <br/>
 
 {% include feature_row id="row2" type="center" %}
+
 {% include feature_row id="row3" type="center" %}
+
 {% include feature_row id="row4" type="center" %}
+
 {% include feature_row id="row5" type="center" %}
 Whilst our services and products can be utilised individually, we recommend ***Support Packages*** - a combination of our [metrics](https://validmeasures.github.io/metrics), analytics, technology and training modules - that have been synergised to optimise client support and to make the support more cost-effective. As with the modules, our support packages can be classified as ***’off-the-shelf’*** or as ***’developmental’***.
+
+<br/>
+
+<iframe width="100%" height="800" frameborder="0" scrolling="no" seamless src="http://www.validmeasures.org/maps"></iframe>
 
