@@ -75,12 +75,14 @@ The objectives of the SLEAC survey are:
 
 
 ## Methodology
+
 ### SLEAC sample design
 SLEAC was used as a wide-area survey method in order to classify coverage at the Local government Area (LGA) level.
 
 SLEAC is a low-resource method for classifying and estimating the coverage of selective feeding programs. SLEAC surveys classify coverage at the level of the service delivery unit. It provides also limited data (i.e., reasons for non-attendance collected from a single informant type using a single method with a small sample size) on barriers to service uptake and analysis. This varies with the scale of the program.
 
 SLEAC survey uses a two-stage sampling design.
+
 
 #### Stage 1 sampling: Selection of PSUs
 This is the sampling method that is used to select the villages or settlements to be sampled in the survey. The primary sampling unit (PSU) used in the SLEAC survey was village or settlement. Complete village lists per LGA organized by ward were provided by the National Bureau of Statistic (NBS). The structure of LGA-level samples are shown in [Figure 1](#FIG1).
@@ -93,9 +95,9 @@ A target of \\( n = 40 \\) cases was used in each LGA. This is a standard SLEAC 
 
 The number of PSUs needed to reach the target sample size in each LGA was calculated using the following formula:
 
-$$ {n_{psu}=\frac{\text{Target sample size (n)}}{\text{median village population all ages}\times{\frac{\text{percentage of population 6 - 59 months}}{100}}\times{\frac{\text{SAM prevalence}}{100}}} $$
+$$ n_{psu}=\frac{\text{Target sample size (n)}}{\text{median village population all ages}\times{\frac{\text{percentage of population 6 - 59 months}}{100}}\times{\frac{\text{SAM prevalence}}{100}}} $$
 
-The percentage of the population aged between 6 and 59 months was estimated as 18%. SAM prevalence rates by MUAC were taken from results of SMART surveys conducted in 2011, 2012 and 2013. The SAM prevalence rate used in the formula for each state was adjusted from the results of the prevalence surveys taking into account the difference in seasons between the dates that the prevalence surveys were conducted and the dates that the SLEACs were going to be performed. More importantly,  adjustments were made to the SAM prevalence rates with the underlying aim of ensuring that enough villages or settlements were surveyed in order to reach the target sample size of 40 per LGA. This generally meant having to underestimate the prevalence of SAM per state. <a href="#TAB1">Table 1</a> presents the SAM prevalence rates per state used to obtain the number of LGAs to be surveyed using the formula specified above.
+The percentage of the population aged between 6 and 59 months was estimated as 18%. SAM prevalence rates by MUAC were taken from results of SMART surveys conducted in 2011, 2012 and 2013. The SAM prevalence rate used in the formula for each state was adjusted from the results of the prevalence surveys taking into account the difference in seasons between the dates that the prevalence surveys were conducted and the dates that the SLEACs were going to be performed. More importantly,  adjustments were made to the SAM prevalence rates with the underlying aim of ensuring that enough villages or settlements were surveyed in order to reach the target sample size of 40 per LGA. This generally meant having to underestimate the prevalence of SAM per state. [Table 1](#TAB1) presents the SAM prevalence rates per state used to obtain the number of LGAs to be surveyed using the formula specified above.
 
 <a name="TAB1"></a>
 **Table 1:** SAM prevalence rates per state used in the SLEAC survey
@@ -110,6 +112,7 @@ A systematic sampling approach was used to select the PSUs to be sampled. This w
 **Step 1.** The list of villages was organized by LGA and then by ward.
 
 **Step 2.** A sampling interval was calculated using the following formula:
+
 $$ \text{sampling interval}=\frac{\text{number of villages in LGA}}{n_{psu}} $$
 
 **Step 3.** A random starting PSU from the top of the list was selected using a random number between 1 and the sampling interval. The random number was generated using Microsoft Excel® software.
@@ -145,6 +148,7 @@ Once found, SAM cases were then assessed as to whether they were covered in the 
 
 A tally sheet was filled for each village sampled and each child who fulfilled the criteria of the survey was recorded. When a SAM case was not covered a standard questionnaire regarding the barriers to access and coverage was administered to the caregiver.
 
+
 ### Coverage Estimator
 There are two coverage estimators that have been developed: point and period coverage.
 
@@ -174,8 +178,7 @@ In general, the following observations about CMAM programming and coverage in Ni
   
   * Defaulting is a significant issue in Nigeria. Whilst some of the programs implemented in  particular states and LGAs (especially those in which previous coverage surveys has already noted this problem and have provided recommendations for improvement) may have improved on this problem already but for majority of the LGAs surveyed this is most likely still a significant problem.
 
-Given these observations and based on knowledge of previous coverage surveys done in Nigeria, point coverage was chosen as the more appropriate coverage estimator for reporting coverage estimates for the following reasons:<br />
-&nbsp;
+Given these observations and based on knowledge of previous coverage surveys done in Nigeria, point coverage was chosen as the more appropriate coverage estimator for reporting coverage estimates for the following reasons:
 
   * Timely case-finding will always be an important factor to achieving good coverage and in the context of CMAM programming in Nigeria this factor is also the hardest to get right. Using the point coverage estimator will further emphasise the importance of timely case-finding towards increasing program coverage. As will be noted later in the report, it is very likely that the LGAs with moderate to high point coverage are more likely to have good and timely case-finding.
 
@@ -211,7 +214,7 @@ Coverage in each LGA and state was classified using the algorithm presented in [
 
 <a name="FIG3"></a>
 **Figure 3:** Algorithm for a three-class simplified LQAS classifier
-![](/assets/images/sleacAlgorithm1-1024x459.png/)
+![](/assets/images/sleacAlgorithm1.png/)
 
 #### Coverage estimation
 An aggregate estimate of coverage was calculated for each state and for all the LGAs combined using standard weighted estimation of proportions techniques used for a stratified sample as described in the <a href="http://www.fantaproject.org/monitoring-and-evaluation/squeac-sleac" title="FANTA SQUEAC and SLEAC Technical Reference" target="_blank">FANTA SQUEAC and SLEAC Technical Reference</a>. Chi-square testing was performed to assess whether coverage results were homogeneous within each state. Whether or not coverage is homogenous within each state allows for the contextualisation of the state level and overall coverage estimates calculated<sup>3</sup>.
@@ -336,11 +339,11 @@ th, td {
 <td>29%</td>
 </tr>
 </table>
-<p>&nbsp;</p>
-<p><a href="#TAB3">Table 3</a> summarizes the number of LGAs, wards, villages, the number of SAM cases and recovering cases found during the investigation in the 11 states.<br />
-&nbsp;</p>
-<p><a id="TAB3"></a><br />
-<strong>Table 3:</strong> Description of SLEAC sample by state</p>
+
+[Table 3](#TAB3) summarizes the number of LGAs, wards, villages, the number of SAM cases and recovering cases found during the investigation in the 11 states.
+
+<a name="TAB3"></a>
+**Table 3:** Description of SLEAC sample by state
 <table style="width:100%">
 <tr>
 <th>State</th>
@@ -453,7 +456,8 @@ On the list of villages covered by the CMAM program provided by NBS, some villag
 #### Data collection
 Data collection was carried out for the Western Block by 15 investigators (7 from NBS and 8 from MOH) who were grouped into 6 teams and data collection of the states of Eastern block was carried out by 20 investigators (NBS 11 and 9 MOH) who were grouped into 10  two-person teams.
 
-During the investigation, supervision of activities was provided by <a href="http://www.validinternational.org" title="Valid International" target="_blank">Valid International</a> consultants. After completing the survey in a state a debriefing session was organized to provide instant results of the state to the authorities of MOH, NBS and other partners involved in the CMAM activities.
+During the investigation, supervision of activities was provided by [Valid International](http://www.validinternational.org) consultants. After completing the survey in a state a debriefing session was organized to provide instant results of the state to the authorities of MOH, NBS and other partners involved in the CMAM activities.
+
 
 #### Quality control of data
 To ensure data quality, the following measures were put in place:
@@ -463,6 +467,7 @@ To ensure data quality, the following measures were put in place:
   * Random field data checks were performed by supervisors to confirm case finding and also recording of data on tally sheets; and,
 
   * In the state of Yobe where supervisors were not able to go due to insecurity, some LGAs like Geidam, Nguru and Potaskum were done two times  by different teams of surveyors to confirm the result found.
+
 
 #### Difficulties encountered during the survey
 
@@ -474,7 +479,10 @@ To ensure data quality, the following measures were put in place:
   
   * Insecurity in some states especially Yobe and Borno states. Two investigators withdrew from the survey because of the insecurity in these two states. Due to insecurity, 4 LGAs in Borno State, namely Bama, Ngala, Monguno, Mobbar, were not surveyed and some villages were replaced.
 
+
 ## Results
+
+
 ### Profiles of SAM children
 We profiled the SAM cases found during the survey by their age and their MUAC. The median age was for all cases found in the survey and the median MUAC was for all the uncovered cases because it gives us information about the risk of mortality of SAM not covered in the community. [Table 4](#TAB4) summarises the  characteristics of age of all cases of the survey and MUAC of uncovered cases found.
 
@@ -573,11 +581,12 @@ We profiled the SAM cases found during the survey by their age and their MUAC. T
 
 This age profile indicates that the sample of SAM cases found during the coverage survey was what expected. SAM was expected to be more prevalent in the younger age group of children between 6 to 24 months, as they are the most susceptible to various known causal factors of malnutrition.
 
-<p>Regarding the MUAC, except for Kano, Gombe, Jigawa and Yobe states, the medians of uncovered cases found of others states are less than 110 mm indicating a high risk of mortality. This gives information about time of the SAM cases spent in the community without being identified by active case finding of volunteers. As the median was less than 110mm, (not close to 115 mm)  these showed that SAM cases have spent more time in community without being detected by volunteers, therefore in recommendation much effort should be done to catch  SAM cases very early and to recruit them into  the program for these states. Annex 9 presents the histogram of age of all cases and the histogram of MUAC of uncovered cases</p>
-<p>Furthermore it should be noted that of the total of 5947 cases of severe acute malnutrition, 237 cases had oedema or 4.5%. <a href="#TAB5">Table 5</a> presents the number of edema cases found for each state and their degree.<br />
-&nbsp;</p>
-<p><a id="TAB5"></a><br />
-<strong>Table 5:</strong> Characteristics of oedema cases</p>
+Regarding the MUAC, except for Kano, Gombe, Jigawa and Yobe states, the medians of uncovered cases found of others states are less than 110 mm indicating a high risk of mortality. This gives information about time of the SAM cases spent in the community without being identified by active case finding of volunteers. As the median was less than 110mm, (not close to 115 mm)  these showed that SAM cases have spent more time in community without being detected by volunteers, therefore in recommendation much effort should be done to catch  SAM cases very early and to recruit them into  the program for these states. Annex 9 presents the histogram of age of all cases and the histogram of MUAC of uncovered cases.
+
+Furthermore it should be noted that of the total of 5947 cases of severe acute malnutrition, 237 cases had oedema or 4.5%. [Table 5](#TAB5) presents the number of oedema cases found for each state and their degree.
+
+<a name="TAB5"></a>
+**Table 5:** Characteristics of oedema cases
 <table style="width:100%">
 <tr>
 <th rowspan="2">State</th>
@@ -674,29 +683,32 @@ This age profile indicates that the sample of SAM cases found during the coverag
 <td>27 (11.4%)</td>
 </tr>
 </table>
-<p>&nbsp;</p>
-<h6>Coverage classification</h6>
-<p><em>Coverage classification at the state level</em><br />
-<a href="#TAB6">Table 6</a> presents the point coverage classification results for all states. The point coverage has been used in all states. The coverage in the states of Kebbi, Sokoto and Zamfara is low. The coverage in the rest of the states is moderate.</p>
-<p>&nbsp;<br />
-<a id="TAB6"></a><br />
-<strong>Table 6:</strong> Classification of coverage at the state level</p>
+
+
+### Coverage classification
+
+
+#### Coverage classification at the state level
+[Table 6](#TAB6) presents the point coverage classification results for all states. The point coverage has been used in all states. The coverage in the states of Kebbi, Sokoto and Zamfara is low. The coverage in the rest of the states is moderate.
+
+<a name="TAB6"></a>
+**Table 6:** Classification of coverage at the state level
 <table style="width:100%">
 <tr>
 <th rowspan="2">State</th>
 <th>SAM cases found</th>
 <th>Covered SAM cases</th>
 <th>Decision rule 1</th>
-<th rowspan="2">$ c > d_{1} \text ? $</th>
+<th rowspan="2">\( c > d_{1} \text {?} \)</th>
 <th>Decision rule 2</th>
-<th rowspan="2">$ c > d_{2} \text ? $</th>
+<th rowspan="2">\( c > d_{2} \text {?} \)</th>
 <th rowspan="2">Coverage classification</th>
 </tr>
 <tr>
-<th>n</th>
-<th>c</th>
-<th>$ d_{1} = \left \lfloor \frac{n}{5} \right \rfloor $</th>
-<th>$ d_{2} = \left \lfloor \frac{n}{2} \right \rfloor $</th>
+<th>\(n\)</th>
+<th>\(c\)</th>
+<th>\( d_{1} = \left \lfloor \frac{n}{5} \right \rfloor \)</th>
+<th>\( d_{2} = \left \lfloor \frac{n}{2} \right \rfloor \)</th>
 </tr>
 <tr>
 <td>Kebbi</td>
@@ -819,14 +831,17 @@ This age profile indicates that the sample of SAM cases found during the coverag
 <td>Moderate</td>
 </tr>
 </table>
-<p>&nbsp;<br />
-<em>Coverage classification at the LGA level</em><br />
-<a href="#TAB7">Table 7</a> presents classification of coverage for each LGA surveyed.</p>
-<p>Of the  71 LGAs surveyed, more than half (40 LGAs) have moderate coverage and 27 have low coverage. Only 4 LGAs have high coverage. All LGAs in Kebbi and Sokoto had low coverage. All LGAs in Adamawa have moderate coverage and in Katsina and Kano, all LGAs have moderate coverage except for one for each state which has high coverage. The coverage classification per LGA gives an indication of the homogeneity of coverage results in each of the states. Adamawa, Kebbi and Sokoto whose LGAs all have the same coverage classification most likely have quite even distribution of coverage with Adamawa having an even moderate coverage while Kebbi and Sokoto with an even low coverage. This should be taken into consideration when interpreting the results of the aggregated classification presented above in <a href="#TAB6">Table 6</a>.</p>
-<p><a href="#FIG4">Figure 4</a> presents a map of point coverage classification for the 71 LGAs surveyed. <a href="#FIG5">Figure 5</a> presents a map of period coverage classification for the 71 LGAs surveyed.</p>
-<p>&nbsp;<br />
-<a id="TAB7"></a><br />
-<strong>Table 7:</strong> Coverage classification per LGA</p>
+
+
+#### Coverage classification at the LGA level
+[Table 7](#TAB7) presents classification of coverage for each LGA surveyed.
+
+Of the  71 LGAs surveyed, more than half (40 LGAs) have moderate coverage and 27 have low coverage. Only 4 LGAs have high coverage. All LGAs in Kebbi and Sokoto had low coverage. All LGAs in Adamawa have moderate coverage and in Katsina and Kano, all LGAs have moderate coverage except for one for each state which has high coverage. The coverage classification per LGA gives an indication of the homogeneity of coverage results in each of the states. Adamawa, Kebbi and Sokoto whose LGAs all have the same coverage classification most likely have quite even distribution of coverage with Adamawa having an even moderate coverage while Kebbi and Sokoto with an even low coverage. This should be taken into consideration when interpreting the results of the aggregated classification presented above in [Table 6](#TAB6).
+
+[Figure 4](#FIG4) presents a map of point coverage classification for the 71 LGAs surveyed. [Figure 5](#FIG5) presents a map of period coverage classification for the 71 LGAs surveyed.
+
+<a name="TAB7"></a>
+**Table 7:** Coverage classification per LGA
 <table style="width:100%">
 <tr>
 <th>State</th>
@@ -834,9 +849,9 @@ This age profile indicates that the sample of SAM cases found during the coverag
 <th>SAM cases found (n)</th>
 <th>Covered SAM cases (c)</th>
 <th>Decision rule 1</th>
-<th>$ c > d_{1} \text ? $</th>
+<th>\( c > d_{1} \text ? \)</th>
 <th>Decision rule 2</th>
-<th>$ c > d_{2} \text ? $</th>
+<th>\( c > d_{2} \text ? \)</th>
 <th>Coverage classification</th>
 </tr>
 <tr>
@@ -1561,20 +1576,21 @@ This age profile indicates that the sample of SAM cases found during the coverag
 <td>Moderate</td>
 </tr>
 </table>
-<p>&nbsp;<br />
-<a id="FIG4"></a><br />
-<strong>Figure 4:</strong> Map of point coverage classification across the 71 LGAs surveyed<br />
-<a href="http://www.validmeasures.org/pointcoveragenigeria/"><img src="{{ site.baseurl }}/assets/pointCoverageNigeria.png" alt="Point Coverage" width="3000" height="3000" class="aligncenter size-full wp-image-2207" /></a></p>
-<p>&nbsp;<br />
-<a id="FIG5"></a><br />
-<strong>Figure 5:</strong> Map of period coverage classification across the 71 LGAs surveyed<br />
-<a href="http://www.validmeasures.org/periodcoveragenigeria/"><img src="{{ site.baseurl }}/assets/periodCoverageNigeria.png" alt="Period Coverage" width="3000" height="3000" class="aligncenter size-full wp-image-2206" /></a></p>
-<p>&nbsp;</p>
-<h6>Coverage estimates</h6>
-<p>Coverage estimation was done at the state level. <a href="#TAB8">Table 8</a> presents the results. Bauchi has the highest coverage estimate at 56.9% while Sokoto has the lowest coverage estimate at 5.3%.</p>
-<p>&nbsp;<br />
-<a id="TAB8"></a><br />
-<strong>Table 8:</strong> Coverage estimates per state</p>
+
+<a name="FIG4"></a>
+**Figure 4:** Map of point coverage classification across the 71 LGAs surveyed
+![](/assets/images/pointCoverageNigeria.png/)
+
+<a name="FIG5"></a>
+**Figure 5:** Map of period coverage classification across the 71 LGAs surveyed
+![](/assets/images/periodCoverageNigeria.png/)
+
+
+### Coverage estimates
+Coverage estimation was done at the state level. <a href="#TAB8">Table 8</a> presents the results. Bauchi has the highest coverage estimate at 56.9% while Sokoto has the lowest coverage estimate at 5.3%.
+
+<a name="TAB8"></a>
+**Table 8:** Coverage estimates per state
 <table style="width:100%">
 <tr>
 <th>State</th>
@@ -1649,83 +1665,103 @@ This age profile indicates that the sample of SAM cases found during the coverag
 <td>24.5%-28.8%</td>
 </tr>
 </table>
-<p>&nbsp;<br />
-Chi-square test performed per state indicate that only Adamawa and Kebbi state had homogeneous coverage across the LGA surveyed<sup>5</sup>. This means that the overall estimates for these two states (12.6% and 48% for Kebbi and Adamawa respectively) most likely is the coverage across all the LGAs providing CMAM services in the two states. For the rest of the states, however, the overall estimates should be taken into context given within-state variability of coverage as shown by the per LGA classification in the previous section and the chi-square testing performed.</p>
-<p>The overall point coverage for all states is 36.6 % (32.3 – 40.9%). Again, this result should be taken in context of high variability of coverage across the LGAs.</p>
-<p>&nbsp;</p>
-<h6>Barriers to service uptake and access</h6>
-<p>A questionnaire was administrated to mothers of SAM cases children who were not in program, in order to identify the barriers of the program. To have a good answer to question, the terminologies of malnutrition in local language were used by surveyors to facilitate understanding of the questions to the mothers.</p>
-<p><em>Overall barriers to service and access for the 11 states</em><br />
-The Pareto chart in <a href="#FIG5">Figure 6</a> shows the overall barriers for the program of all states.</p>
-<p>&nbsp;<br />
-<a id="FIG6"></a><br />
-<strong>Figure 6:</strong> Overall barriers<br />
-<iframe width="800" height="550" frameborder="0" scrolling="no" seamless src="http://www.validmeasures.org/charts/nigeriaBarriersPareto.html"></iframe></p>
-<p>&nbsp;<br />
-<em>Discussion on overall barriers found</em><br />
-The results of the survey showed that the two main barriers of the program in 11 states are maternal ignorance of malnutrition and lack of knowledge of CMAM program. These two causes remain the two main barriers to coverage of the program as shown in the other programs in other countries<sup>6</sup>. </p>
-<p>Regarding ignorance of malnutrition, the majority of mothers did not know that their children were having severe acute malnutrition despite the use of local terminology in asking  questions, they were thinking that it was their normal stature. Thus if a mother does not know that her child was malnourished it was not possible for them to bring her to the program for treatment. This situation calls for an awareness of malnutrition should be carried out in all states.</p>
-<p>Ignorance of CMAM program and ignorance of how the program works come respectively in second and third position. Regarding knowledge about the program, the CMAM program in Nigeria is integrated into the activities of the primary health center and not as an emergency activity. Hence according to the fact that we found ignorance of the program like a barriers, raising awareness about the program should also be strengthen. Concerning the barriers about ignorance how the program works, the major barriers were misconceptions concerning the program and the fear of being rejected by the program.</p>
-<p>In misconceptions of program, belief in traditional medicine comes first and the fear of being hospitalized in second. These two major barriers on misconceptions of the program and the fear of being rejected calls an important part of sensitization about the program in community, should focus on how the program works. The following barriers are related to constraints by mother. In the community, the mother is often the key person who is responsible for bringing the child into the program and all barriers in general are focused on her. Thus, these barriers regarding constraints and responsibility of the mother in society include the following impediments due to maternal health and also impediments related to the cultural position. In this section also, the refusal of Husband was a major barrier to the coverage due to the cultural position of the mother.</p>
-<p>Regarding health service, stock out of RUTF was a major cause of barrier to coverage because without input, a CMAM program cannot operate. Other barriers related to health service as shown in the table are inappropriate treatment (lack of RUTF), attitudes and negative attitudes or inappropriate advice of health workers. Regarding geographical accessibility, distance and transportation problems were significant barriers and just four people have mentioned the problem of insecurity, this was because surveyors went only to places which were safe.</p>
-<p><em>Coverage barriers for each state</em><br />
-The summaries of barriers to the program of different states are represented in the Figure 6 to 16. SQUEAC investigations which are going to be carried out in these state will provide detailed explanation of these barriers.</p>
-<p>&nbsp;</p>
-<h5>Conclusions</h5>
-<p>The coverage in the northern states of Nigeria is moderate with an overall estimate of 36.6% (95% CI: 32.3% – 40.9% ).</p>
-<p>Coverage classification was performed for each LGA, in which we have found 27 LGAs having low coverage, 40 LGAs with moderate coverage and 4 LGAs with high coverage. Barriers to coverage have been reported for each state. The survey coverage has allowed under capacity building, to train agents of MOH and NBS on the SLEAC methodology.</p>
-<p>&nbsp;</p>
-<h5>Recommendations</h5>
-<p>According to overall barriers found by SLEAC coverage survey, some preliminary recommendations have been formulated which can be applied to all programs of each state:</p>
-<p>&nbsp;</p>
-<h6>Emphasis on community mobilisation</h6>
-<ul>
-<li><em>Sensitization</em></li>
-<p>Awareness through voluntary on malnutrition should be focused on the knowledge of the early signs of malnutrition, consequences and also prevention. This awareness can be performed in several ways, through posters, radio broadcasts etc.</p>
-<p>Awareness about malnutrition should also include awareness about the program, how it works, admission criteria, explaining the phenomenon of rejection, the advantage of management of SAM cases in the program compared to traditional treatment etc.</p>
-<li><em>Include community leaders on sensitization of CMAM program activities</em></li>
-<p>The community leaders as village chief, religious leaders should be involved in sensitization of the program to facilitate the acceptance of program by community. It is also important to educate traditional healer in CMAM activities so they can participate in referring cases. Husbands, chiefs and families are also key persons to be involved in this awareness to facilitate greater ownership of the program by households</p>
-<li><em>Active case finding by volunteers (monthly)</em></li>
-</ul>
-<p>&nbsp;</p>
-<h6>To ensure that each village has a volunteers with a MUAC tape</h6>
-<p>For each LGA with CMAM activities, it is important to ensure that each village has a volunteer who performs screening activities at least once by month and each volunteer should have a MUAC tape</p>
-<ul>
-<li><em>Perform regular refresher training for volunteers, consider incentives.</em></li>
-<p>For the volunteers, it is important to conduct regular refresher training as an incentive
-</ul>
-<p>&nbsp;</p>
-<h6>Service delivery</h6>
-<ul>
-<li><em>Strength integration CMAM program in routine activities of Health center</em></li>
-<p>In other activities of the Health Centre (consultations, immunization activities, etc.) it would be important to integrate the screening cases MAS</p>
-<li><em>Harmonize  visit of mothers with many  constraints with schedule of CMAM program</em></li>
-<p>For mothers who have many constraints it is important to discuss with them to harmonize a specific program of visits to the health center.</p>
-<li><em>Avoid stock out of RUTF of each program</em></li>
-</ul>
-<p>&nbsp;</p>
-<h6>Access issues</h6>
-<p>Organize mobile treatment to far villages and give RUTF for two weeks for people who live far from the health center</p>
-<p>&nbsp;</p>
-<h6>Implement the program treatment of moderate acute malnutrition</h6>
-<p>In the active case finding of the SLEAC survey, several cases of moderate acute malnutrition have been identified and it is essential and important to set up a program of support for moderate acute malnutrition to prevent relapse of severe acute malnutrition after being discharged</p>
-<p>&nbsp;</p>
-<h6>Conduct SQUEAC investigations</h6>
-<p>Perform SQUEAC investigations at least one by state in order to understand different barriers and boosters and provide strong and evidence-based recommendations for the program<br />
-&nbsp;<br />
-&nbsp;<br />
-&nbsp;</p>
-<style>
-note {<br />
-  font-size: 12px;<br />
-}<br />
-</style>
-<h5>Endnotes</h5>
-<p><sup>1</sup> <note>As cited in ‘Commission Decision on the financing of humanitarian actions in West Africa from the 10th European Development Fund’. European Commission, 2010</note></p>
-<p><sup>2</sup> <note>ACF, Save the children, Valid, MOH Nigeria, report on Assessing Coverage of CMAM Services in Nigeria a& Building Government Monitoring Capacity, 2013.</note></p>
-<p><sup>3</sup> <note>State-level and overall coverage estimate aggregates are only meaningful if coverage across the LGAs within a state are not significantly different from each other.</note></p>
-<p><sup>4</sup> <note>Prevalence of MUAC SAM of SMART survey 2013</note></p>
-<p><sup>5</sup> <note>Although Sokoto had low coverage classification across all its LGAs, one LGA stood out as almost being classified as moderate and has a significantly higher coverage than all other LGAs in Sokoto. This is most likely the reason why based on chi-square testing, Sokoto was assessed to have heterogeneous coverage.</note></p>
-<p><sup>6</sup> <note>Guerrero, S., Myatt, M. and Collins, S., Determinants of coverage in community-based therapeutic care programmes: towards a joint quantitative and qualitative analysis, August 2009, Disasters. 34 (2), pp 571-585.</note></p>
-<p>&nbsp;<br />
-&nbsp;</p>
+
+Chi-square test performed per state indicate that only Adamawa and Kebbi state had homogeneous coverage across the LGA surveyed<sup>5</sup>. This means that the overall estimates for these two states (12.6% and 48% for Kebbi and Adamawa respectively) most likely is the coverage across all the LGAs providing CMAM services in the two states. For the rest of the states, however, the overall estimates should be taken into context given within-state variability of coverage as shown by the per LGA classification in the previous section and the chi-square testing performed.
+
+The overall point coverage for all states is 36.6 % (32.3 – 40.9%). Again, this result should be taken in context of high variability of coverage across the LGAs.
+
+
+### Barriers to service uptake and access
+A questionnaire was administrated to mothers of SAM cases children who were not in program, in order to identify the barriers of the program. To have a good answer to question, the terminologies of malnutrition in local language were used by surveyors to facilitate understanding of the questions to the mothers.
+
+
+#### Overall barriers to service and access for the 11 states
+The Pareto chart in [Figure 6](#FIG6) shows the overall barriers for the program of all states.
+
+<a name="FIG6"></a>
+**Figure 6:** Overall barriers
+<iframe width="800" height="550" frameborder="0" scrolling="no" seamless src="http://www.validmeasures.org/charts/nigeriaBarriersPareto.html"></iframe>
+
+**Discussion on overall barriers found**
+The results of the survey showed that the two main barriers of the program in 11 states are maternal ignorance of malnutrition and lack of knowledge of CMAM program. These two causes remain the two main barriers to coverage of the program as shown in the other programs in other countries[^6].
+
+Regarding ignorance of malnutrition, the majority of mothers did not know that their children were having severe acute malnutrition despite the use of local terminology in asking  questions, they were thinking that it was their normal stature. Thus if a mother does not know that her child was malnourished it was not possible for them to bring her to the program for treatment. This situation calls for an awareness of malnutrition should be carried out in all states.
+
+Ignorance of CMAM program and ignorance of how the program works come respectively in second and third position. Regarding knowledge about the program, the CMAM program in Nigeria is integrated into the activities of the primary health center and not as an emergency activity. Hence according to the fact that we found ignorance of the program like a barriers, raising awareness about the program should also be strengthen. Concerning the barriers about ignorance how the program works, the major barriers were misconceptions concerning the program and the fear of being rejected by the program.
+
+In misconceptions of program, belief in traditional medicine comes first and the fear of being hospitalized in second. These two major barriers on misconceptions of the program and the fear of being rejected calls an important part of sensitization about the program in community, should focus on how the program works. The following barriers are related to constraints by mother. In the community, the mother is often the key person who is responsible for bringing the child into the program and all barriers in general are focused on her. Thus, these barriers regarding constraints and responsibility of the mother in society include the following impediments due to maternal health and also impediments related to the cultural position. In this section also, the refusal of Husband was a major barrier to the coverage due to the cultural position of the mother.
+
+Regarding health service, stock out of RUTF was a major cause of barrier to coverage because without input, a CMAM program cannot operate. Other barriers related to health service as shown in the table are inappropriate treatment (lack of RUTF), attitudes and negative attitudes or inappropriate advice of health workers. Regarding geographical accessibility, distance and transportation problems were significant barriers and just four people have mentioned the problem of insecurity, this was because surveyors went only to places which were safe.
+
+
+#### Coverage barriers for each state
+The summaries of barriers to the program of different states are represented in the Figure 6 to 16. SQUEAC investigations which are going to be carried out in these state will provide detailed explanation of these barriers.
+
+
+## Conclusions
+The coverage in the northern states of Nigeria is moderate with an overall estimate of 36.6% (95% CI: 32.3% – 40.9% ).
+
+Coverage classification was performed for each LGA, in which we have found 27 LGAs having low coverage, 40 LGAs with moderate coverage and 4 LGAs with high coverage. Barriers to coverage have been reported for each state. The survey coverage has allowed under capacity building, to train agents of MOH and NBS on the SLEAC methodology.
+
+
+## Recommendations
+According to overall barriers found by SLEAC coverage survey, some preliminary recommendations have been formulated which can be applied to all programs of each state:
+
+
+### Emphasis on community mobilisation
+
+
+#### Sensitization
+Awareness through voluntary on malnutrition should be focused on the knowledge of the early signs of malnutrition, consequences and also prevention. This awareness can be performed in several ways, through posters, radio broadcasts etc.
+
+Awareness about malnutrition should also include awareness about the program, how it works, admission criteria, explaining the phenomenon of rejection, the advantage of management of SAM cases in the program compared to traditional treatment etc.
+
+**Include community leaders on sensitization of CMAM program activities**
+The community leaders as village chief, religious leaders should be involved in sensitization of the program to facilitate the acceptance of program by community. It is also important to educate traditional healer in CMAM activities so they can participate in referring cases. Husbands, chiefs and families are also key persons to be involved in this awareness to facilitate greater ownership of the program by households
+
+
+#### Active case finding by volunteers (monthly)
+
+
+#### To ensure that each village has a volunteers with a MUAC tape
+For each LGA with CMAM activities, it is important to ensure that each village has a volunteer who performs screening activities at least once by month and each volunteer should have a MUAC tape.
+
+  * Perform regular refresher training for volunteers, consider incentives.
+
+  * For the volunteers, it is important to conduct regular refresher training as an incentive
+
+
+### Service delivery
+
+  * Strengthen integration of CMAM program in routine activities of Health center. In other activities of the Health Centre (consultations, immunization activities, etc.) it would be important to integrate the screening cases MAS
+  * Harmonize  visit of mothers with many  constraints with schedule of CMAM program. For mothers who have many constraints it is important to discuss with them to harmonize a specific program of visits to the health center.
+  * Avoid stock out of RUTF of each program
+
+
+### Access issues
+Organize mobile treatment to far villages and give RUTF for two weeks for people who live far from the health center
+
+
+### Implement the program treatment of moderate acute malnutrition
+In the active case finding of the SLEAC survey, several cases of moderate acute malnutrition have been identified and it is essential and important to set up a program of support for moderate acute malnutrition to prevent relapse of severe acute malnutrition after being discharged
+
+
+### Conduct SQUEAC investigations
+Perform SQUEAC investigations at least one by state in order to understand different barriers and boosters and provide strong and evidence-based recommendations for the program
+
+
+## Endnotes
+[^1]: As cited in ‘Commission Decision on the financing of humanitarian actions in West Africa from the 10th European Development Fund’. European Commission, 2010
+
+[^2]: ACF, Save the children, Valid, MOH Nigeria, report on Assessing Coverage of CMAM Services in Nigeria a& Building Government Monitoring Capacity, 2013.
+
+[^3]: State-level and overall coverage estimate aggregates are only meaningful if coverage across the LGAs within a state are not significantly different from each other.
+
+[^4]: Prevalence of MUAC SAM of SMART survey 2013
+
+[^5]: Although Sokoto had low coverage classification across all its LGAs, one LGA stood out as almost being classified as moderate and has a significantly higher coverage than all other LGAs in Sokoto. This is most likely the reason why based on chi-square testing, Sokoto was assessed to have heterogeneous coverage.
+
+[^6]: Guerrero, S., Myatt, M. and Collins, S., Determinants of coverage in community-based therapeutic care programmes: towards a joint quantitative and qualitative analysis, August 2009, Disasters. 34 (2), pp 571-585.
+
+<br/>
+<br/>
