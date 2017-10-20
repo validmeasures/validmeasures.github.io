@@ -69,5 +69,5 @@ Whilst our services and products can be utilised individually, we recommend ***S
 
 <br/>
 
-<iframe width="100%" height="800" frameborder="0" scrolling="no" seamless src="http://www.validmeasures.org/maps"></iframe>
+<iframe width="100%" height="800" frameborder="0" scrolling="no" seamless src="https://www.validmeasures.org/maps"></iframe>
 
