@@ -34,6 +34,7 @@ sidebar:
       text: "2011"
 ---
 {% include toc icon="gears" title="Contents" %}
+
 Community-based management of acute malnutrition (CMAM) was initially piloted in four districts of Sierra Leone in 2007. Since then, the program had been expanded to provide CMAM services in various health centres in other districts. By 2010, all districts in the country had been implementing CMAM. Given the national scale of the CMAM program in Sierra Leone, a wide area survey method was needed to assess the coverage achieved by the program. UNICEF and the Sierra Leone Ministry of Health and Sanitation (MoHS) with technical support from Valid International conducted SLEAC or Simplified Lot Quality Assurance Sampling Evaluation of Access and Coverage and SQUEAC or Semi-Quantitative Evaluation of Access and Coverage from the 20th of February to the 25th of April 2011. This report describes the process and presents the findings of the survey.
 
 ## Methods
@@ -45,15 +46,19 @@ The primary sampling units (PSUs) used in the SLEAC surveys were census enumerat
 A target sample size of \\( n = 40 \\) current SAM cases was used in the rural and urban districts. This is the standard SLEAC sample size for large populations. A lower target sample size was used (i.e \\( n = 33 \\) in the single peri-urban district because this district had a much lower population than the other districts.
 
 The number of PSUs to sample \\( n_{PSU} \\) needed to reach the target sample size in each district was calculated using estimates of average EA population and SAM prevalence using the following formula:
+
 <br/>
 
-\\[ n_{PSU} = \frac {\text {target sample size (n)}} {\text {average population}_{\text {all ages}} \times \frac {\text {percentage of population}_{\text {6-59 months}}}{100} \times \frac {\text {SAM prevalence}}{100}} \\]
+$$ n_{PSU} = \frac {\text {target sample size (n)}} {\text {average population}_{\text {all ages}} \times \frac {\text {percentage of population}_{\text {6-59 months}}}{100} \times \frac {\text {SAM prevalence}}{100}} $$
+
 <br />
 
 Average EA population was estimated as:
+
 <br/>
 
 \\[\text{Average EA population} = \frac{\text {District population}}{\text{Total number of EAs}}\\]
+
 <br/>
 
 using data from the Sierra Leone 2004 Population and Housing Census.
