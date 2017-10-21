@@ -79,7 +79,7 @@ The collected data and information from the semi-quantitative investigation will
 
 <a name="FIG1"></a>
 **Figure 1:** SQUEAC investigation flow
-![](/assets/images/squeacCaseControl.png/)
+![](/assets/images/squeacCaseControl.png)
 
 
 ## Research respondents and participants
@@ -97,14 +97,14 @@ We propose to use the Infant and Child Feeding Index (ICFI) developed by Arimond
 
 <a id="FIG2"></a>
 **Figure 2:** Hierarchical nature of ICFI indicators
-![](/assets/images/iycfHierarchy.png/)
+![](/assets/images/iycfHierarchy.png)
 
 ### Coverage of IYCN services / interventions
 We propose to use the Tanahashi model[^2] of health services coverage assessment. Five hierarchical coverage indicators will be used: 1) availability coverage; 2) accessibility coverage; 3) acceptability coverage; 4) contact coverage; and, 5) effectiveness coverage. [Figure 3](#FIG3) illustrates these different coverage levels and describes what each one measures.
 
 <a name="FIG3"></a>
 **Figure 3:** Hierarchical coverage indicators proposed by Tanahashi
-![](/assets/images/coverageTanahashi.png/)
+![](/assets/images/coverageTanahashi.png)
 
 ### Women's dietary diversity score
 Diets of pregnant and lactating women will be assessed using the Women's Dietary Diversity Score (WDDS) which is a proxy for minimum nutritional adequacy of a woman's diet developed by Arimond and colleagues[^3].
@@ -124,7 +124,7 @@ We will use standard questionnaires and survey instruments whenever possible.
 
 
 ## Research output
-![image-left](/assets/images/blockagesSierraLeoneSmall.png/){: .align-left}
+![image-left](/assets/images/blockagesSierraLeoneSmall.png){: .align-left}
 This research was conducted and completed under the auspices of the <a href="http://www.securelivelihoods.org" target="_blank">Secure Livelihoods Research Consortium (SLRC)</a> of the <a href="http://www.odi.org" target="_blank">Overseas Development Institute</a>.
 
 The research has found that the issues causing malnutrition are both multifactorial and complex, suggesting a range of initiatives are needed in order to prevent it. Many of these initiatives already exist at community level, but they require strengthening and expansion. Our evidence also suggests that, in order to achieve sustained behaviour change at the local level, there is a need to target key decision-makers within the household, such as fathers and elders, and to engage seriously with traditional practices.
