@@ -58,7 +58,7 @@ Valid International is a pioneer in the development of coverage assessment metri
 ### CMAM coverage at scale
 The adoption of the CMAM model at national levels has led to the need for methods that can provide information about coverage over wide areas. This need is being met by adaptations of the SLEAC method and also by the Simple Spatial Survey Method (S3M): an adaptation of the CSAS method but with improved spatial sampling and a more efficient use of data.
 
-<iframe width="100%" height="600" frameborder="0" scrolling="no" seamless src="http://www.validmeasures.org/maps/nigerCoverageSAM.html"></iframe>
+<iframe width="100%" height="600" frameborder="0" scrolling="no" seamless src="https://www.validmeasures.org/maps/nigerCoverageSAM.html"></iframe>
 
 
 ## Beyond CMAM and coverage
