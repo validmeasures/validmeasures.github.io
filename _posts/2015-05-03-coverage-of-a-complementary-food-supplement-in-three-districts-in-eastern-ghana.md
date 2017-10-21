@@ -25,11 +25,11 @@ tags:
     - WDDS
     - women's dietary diversity score
 header:
-  overlay_image: /assets/images/ghanaS3Msat.png/
+  overlay_image: /assets/images/ghanaS3Msat.png
 excerpt: Using S3M to assess complementary food supplement coverage
 sidebar:
     - title: "Country"
-      image: /assets/images/gain.jpg/
+      image: /assets/images/gain.jpg
       image_alt: "Eastern Ghana"
       text: "Eastern Ghana"
     - title: "Project"
