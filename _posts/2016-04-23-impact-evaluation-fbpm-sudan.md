@@ -18,11 +18,11 @@ tags:
     - social and behavioural change communication
     - Sudan
 header:
-  overlay_image: /assets/images/sierraLeoneSLEACsat.png/
+  overlay_image: /assets/images/sierraLeoneSLEACsat.png
 excerpt: Use of stepped-wedge cluster study design to assess impact of targeted feeding programmes
 sidebar:
     - title: "Country"
-      image: /assets/images/wfp.png/
+      image: /assets/images/wfp.png
       image_alt: "Sudan"
       text: "Sudan"
     - title: "Project"
@@ -51,12 +51,21 @@ We are proposing a ***core evaluation question*** of:
 
 Of this core evaluation question, we propose to address the following ***sub-questions***:
 
-1. How are these impacts effected by different intervention modality in terms of product used, delivery of service, duration of intervention and coverage?
-2. What is the impact of FBPM and eBSFP on effectiveness of MAM treatment (performance and coverage)?
-3. How timely and effective is the rapid response (eBSF) intervention?
-4. How does the inclusion of SBCC impact on the effectiveness of MAM treatment and prevention and what factors influence this?
-5. How appropriate are geographical and individual targeting criteria for each intervention?
-6. Cost measures and comparison of different packages (cost-effectiveness)?
-7. What are the wider impacts, positive or negative, of the packages at household, community or institutional level (opportunity, social, economic, environmental)?
+   1. How are these impacts effected by different intervention modality in terms of product used, delivery of service, duration of intervention and coverage?
+
+   2. What is the impact of FBPM and eBSFP on effectiveness of MAM treatment (performance and coverage)?
+
+   3. How timely and effective is the rapid response (eBSF) intervention?
+
+   4. How does the inclusion of SBCC impact on the effectiveness of MAM treatment and prevention and what factors influence this?
+
+   5. How appropriate are geographical and individual targeting criteria for each intervention?
+
+   6. Cost measures and comparison of different packages (cost-effectiveness)?
+
+   7. What are the wider impacts, positive or negative, of the packages at household, community or institutional level (opportunity, social, economic, environmental)?
 
 For details and further information on this project, visit our [project site](http://sudan.validmeasures.org).
+
+<br/>
+<br/>

@@ -23,7 +23,7 @@ tags:
     - urban
     - youth
 header:
-  overlay_image: /assets/images/dakarUrbanMappingSlider.png/
+  overlay_image: /assets/images/dakarUrbanMappingSlider.png
 excerpt: Use of SQUEAC tools for participatory assessments
 sidebar:
     - title: "Country"
@@ -48,9 +48,11 @@ Lacking attention of local authorities entails that the rights of children and y
 
 [Plan Denmark](https://plandanmark.dk), with the financial support of [DANIDA](http://um.dk/en/danida-en/), the Danish Development Agency, launched a three year programme (2016-2018) in five cities in Sub-Saharan Africa (Dakar, Freetown, Harare, Lusaka and Monrovia). The aim of this urban youth governance program is to fight urban child poverty and exclusion by contributing to the development of child and youth friendly cities, where children and young people enjoy their rights and actively shape their urban environment1. The programme pursues three objectives[^2]:
 
-- Strengthened capacity of urban civil society to support youth governance and active citizenship, urban community development and engage in dialogue and cooperation with local, municipal and national authorities for urban development
-- Strengthened documentation, learning and evidence-based urban community development methodologies
-- Increased attention to and prioritization of child and youth focused urban development in Plan Denmark and in Plan International
+  * Strengthened capacity of urban civil society to support youth governance and active citizenship, urban community development and engage in dialogue and cooperation with local, municipal and national authorities for urban development
+
+  * Strengthened documentation, learning and evidence-based urban community development methodologies
+
+  * Increased attention to and prioritization of child and youth focused urban development in Plan Denmark and in Plan International
 
 Various activities are planned to achieve the first objective. This includes a Participatory Community-Based Assessment that aims to map the poor conditions and vulnerabilities of their neighbourhood and give them skills to both push the relevant authorities to prioritize the slum communities and to collaborate with relevant authorities in the design and implementation of concrete plans to improve conditions in the slums[^1].
 
@@ -59,18 +61,23 @@ Various activities are planned to achieve the first objective. This includes a P
 ## Scope of work
 The overall objective of the collaboration between [PLAN Denmark](https://plandanmark.dk) and VI is to:
 
-* Support the development of a framework for Participatory Community-Based Assessments and an index for measuring the youth friendliness of an urban community.
+  * Support the development of a framework for Participatory Community-Based Assessments and an index for measuring the youth friendliness of an urban community.
 
-In support of this objective, a five-day workshop from the 22nd to the 26th August 2016 was organised by Plan Denmark in Dakar, Senegal. The main tasks included:
+  In support of this objective, a five-day workshop from the 22nd to the 26th 
+  August 2016 was organised by Plan Denmark in Dakar, Senegal. The main tasks 
+  included:
 
-* Facilitate sessions with urban youth representatives from Dakar in order to elicit their ideas and perceptions on the factors they consider important in determining the youth-friendliness of an urban community
-* Organize field activities in order to test several community participatory tools
-* Work with the urban youth representatives in developing and testing indicators.
+  * Facilitate sessions with urban youth representatives from Dakar in order to elicit their ideas and perceptions on the factors they consider important in determining the youth-friendliness of an urban community
+
+  * Organize field activities in order to test several community participatory tools
+
+  * Work with the urban youth representatives in developing and testing indicators.
 
 The outcomes of the workshop and the field work are:
 
-* Production of a working document on recommended indicators/indicator themes and how to measure and analyse them
-* Production of a final framework for measuring the youth friendliness of an urban community including formulations of key dimensions, indicators and recommendations on data collection methodology for each of the indicators.
+  * Production of a working document on recommended indicators/indicator themes and how to measure and analyse them
+
+  * Production of a final framework for measuring the youth friendliness of an urban community including formulations of key dimensions, indicators and recommendations on data collection methodology for each of the indicators.
 
 ## Methodology
 ### The workshop
@@ -80,12 +87,12 @@ The purpose of the workshop in Dakar was to create a common understanding of the
 <a name="TAB1"></a>
 **Table 1:** List of indicators of a youth friendly city
 <style>
-th, tr, td {<br />
-  text-align:center;<br />
-  font-family:Helvetica;<br />
-  font-size:10px;<br />
-  border:1px solid black;<br />
-}<br />
+th, tr, td {
+  text-align:center;
+  font-family:Helvetica;
+  font-size:10px;
+  border:1px solid black;
+}
 </style>
 <table style="width:100%;border:solid;">
 <tr style="border:solid;">
@@ -201,38 +208,50 @@ On the afternoon of day three, the Valid International consultant briefly presen
 #### Mapping
 One activity planned by the programme is to map the poor conditions and vulnerabilities of the youth’s neighbourhood. A mapping exercise was developed by VI prior to the workshop. This included:
 
-* The development of a website for the PLAN programme
-* The development of a simple questionnaire mapping the main infrastructures of a neighbourhood of Diameguene Sicap Mbao commune. The [Open Data Kit (ODK)](https://opendatakit.org) software was used. This tool is a free and open-source set of tools which helps organizations author, field, and manage mobile data collection solutions. [Open Data Kit (ODK)](https://opendatakit.org) provides an out-of-the-box solution for users to: 1) build a data collection form or survey; 2) collect the data on a mobile device and send it to a server; and 3) aggregate the collected data on a server and extract it in useful formats.
-- Provision of five tablets to be used by the youths to collect the data.
+  * The development of a website for the PLAN programme
+
+  * The development of a simple questionnaire mapping the main infrastructures of a neighbourhood of Diameguene Sicap Mbao commune. The [Open Data Kit (ODK)](https://opendatakit.org) software was used. This tool is a free and open-source set of tools which helps organizations author, field, and manage mobile data collection solutions. [Open Data Kit (ODK)](https://opendatakit.org) provides an out-of-the-box solution for users to: 1) build a data collection form or survey; 2) collect the data on a mobile device and send it to a server; and 3) aggregate the collected data on a server and extract it in useful formats.
+  
+  * Provision of five tablets to be used by the youths to collect the data.
 
 #### Data collection / analysis methods
 In order to produce robust evidence, VI methods are based on the principle of triangulation. There are two types of triangulation:
 
-* Triangulation by source refers to data confirmed by more than one source. Data that is corroborated by more than one type of source (e.g. community leaders and representatives of youth associations and local administration) is superior to data that is supported by information from only the same type of source. The type of information sources may be defined by demographic, socio-economic, and spatial attributes of informants. Lay informants such as youths can have further source types based on gender. Lay informants from different economic strata, different ethnic groups, different religious groups, or widely separated locations are also different types of source.
-* Triangulation by method refers to data confirmed by more than one method. It is better to have data confirmed by more than one method (e.g. semi-structured interviews and informal group discussions) than by a single method.
+  * Triangulation by source refers to data confirmed by more than one source. Data that is corroborated by more than one type of source (e.g. community leaders and representatives of youth associations and local administration) is superior to data that is supported by information from only the same type of source. The type of information sources may be defined by demographic, socio-economic, and spatial attributes of informants. Lay informants such as youths can have further source types based on gender. Lay informants from different economic strata, different ethnic groups, different religious groups, or widely separated locations are also different types of source.
 
-Based on the principles of triangulation mentioned above, various sources and methods were introduced to collect and analyse data:
+  * Triangulation by method refers to data confirmed by more than one method. It is better to have data confirmed by more than one method (e.g. semi-structured interviews and informal group discussions) than by a single method.
 
-* Building up a <strong>list of key informants</strong> (each given a unique identifier)
-* Compiling a <strong>BBQ (Barriers-Boosters-Questions) list</strong>
-* Presenting the information using the <strong>Mind Mapping</strong> method
-* Reproducing the Mind Map information by computer using [X-Mind](http://www.xmind.net) software
-* Developing a <strong>Concept Map</strong> illustrating the principle of cause/effect
-* Developing a <strong>Scoring system</strong>.
+  Based on the principles of triangulation mentioned above, various sources and 
+  methods were introduced to collect and analyse data:
+
+  * Building up a **list of key informants** (each given a unique identifier)
+
+  * Compiling a **BBQ (Barriers-Boosters-Questions) list**
+
+  * Presenting the information using the **Mind Mapping** method
+
+  * Reproducing the Mind Map information by computer using [X-Mind](http://www.xmind.net) software
+
+  * Developing a **Concept Map** illustrating the principle of cause/effect
+
+  * Developing a **Scoring system**.
 
 ### Participants
 The participants of the two and a half days covering the Participatory Community-Based Assessments sessions were as follows:
 
-* 15 youths (number varied each day – from 15 to 17) representing 4 Communes of Dakar[^6]
-* 1-2 representatives of PLAN Urban Dakar
-* 2-4 representatives of the implementation partners (EVE and ADMG)
-* 1 representative of PLAN Denmark
+  * 15 youths (number varied each day – from 15 to 17) representing 4 Communes of Dakar[^6]
+
+  * 1-2 representatives of PLAN Urban Dakar
+
+  * 2-4 representatives of the implementation partners (EVE and ADMG)
+
+  * 1 representative of PLAN Denmark
 
 
 ## Outcomes
 An urban participatory assessment is one of the first activities to be carried out during the implementation of the programme. The objective of VI’s support was to facilitate this activity by sharing with the representatives of PLAN, their partners and a group of youth’s innovative tools and methods to facilitate this activity and provide robust and credible data. This core activity was part of the objectives of the workshop and specifically aimed to:
 
-* Understand and test the use of the urban participatory assessment and its data collection in the urban communities.
+  * Understand and test the use of the urban participatory assessment and its data collection in the urban communities.
 
 Two days were allocated to this exercise. Considering the number of methods to be introduced and the importance of field testing them, there was not enough time to cover each method in great depth. However, the objective was to present the methods to the audience and to go as deep as possible in the testing exercise, in order to see whether the various tools and methods met participant’s needs.
 
@@ -243,18 +262,22 @@ The consultant gave a brief explanation on how to use the device[^7]; a practica
 
 At the end of the exercise, the consultant uploaded all questionnaire responses to the server that VI created for this purpose and this procedure was shown to PLAN/ADMG/EVE representatives. The following morning, the consultant presented three possible ways to visualize the outcomes of the mapping exercise. The images below represent what can be seen on the server (please note that certain details can only be viewed online):
 
-* [Google Earth](https://www.google.com/earth/) map: a simple satellite image indicating all geographic points recorded. This map is produced by the server as a KML file.[^8]
+  * [Google Earth](https://www.google.com/earth/) map: a simple satellite image indicating all geographic points recorded. This map is produced by the server as a KML file.[^8]
 
 ![](/assets/images/googleKML.jpg)
 
 
-- **Google map:** a simple map image indicating all geographic points recorded. However, each point shows the data recorded: the team that collected the information, type and name of the infrastructure, picture of the infrastructure and geographic position information. This map is produced by the server as a tile-based map and can be viewed from the server itself.
+  * **Google map:** a simple map image indicating all geographic points recorded. However, each point shows the data recorded: the team that collected the information, type and name of the infrastructure, picture of the infrastructure and geographic position information. This map is produced by the server as a tile-based map and can be viewed from the server itself.
 
 ![](/assets/images/formhubMap.png)
 
-* **Detailed tile-based interactive map:** the first two images are automatically generated by the software posted in the server. This last visualization requires some technical skills and was completed by the VM mapping specialist who allocated icons to each point. In this map, we can not only situate each infrastructure, but also see if it is a “school”, a “health centre”, a “water point”, etc.
+  * **Detailed tile-based interactive map:** the first two images are automatically generated by the software posted in the server. This last visualization requires some technical skills and was completed by the VM mapping specialist who allocated icons to each point. In this map, we can not only situate each infrastructure, but also see if it is a “school”, a “health centre”, a “water point”, etc.
 
-This last image allows one to immediately visualize the eventual gaps in the distribution of some infrastructures (in this example, it is clear that education is a problem because it exists in only one public school while there are several private and Koranic schools). The interactive map can be accessed at [here](http://urban.validmeasures.org/dakar.html)
+  This last image allows one to immediately visualize the eventual gaps in the 
+  distribution of some infrastructures (in this example, it is clear that 
+  education is a problem because it exists in only one public school while there 
+  are several private and Koranic schools). The interactive map can be accessed 
+  at [here](http://urban.validmeasures.org/dakar.html)
 <br/>
 
 <a name="FIG2"></a>
@@ -280,8 +303,9 @@ The exercise focused on the two indicators considered to be the main issues affe
 #### Key informants
 In order to apply the principle of triangulation of different sources, a preliminary list of key informants was prepared by participants for each indicator:
 
-* **Education:** Members of the decision board of the public school, students, parents of children attending classes, parents of children not attending classes, etc.
-* **Youth participation:** President of Youths and Sport Commission, Youth’s associations, Chief of the neighbourhood, etc.
+  * **Education:** Members of the decision board of the public school, students, parents of children attending classes, parents of children not attending classes, etc.
+
+  * **Youth participation:** President of Youths and Sport Commission, Youth’s associations, Chief of the neighbourhood, etc.
 
 When meeting a key informant, the teams also asked the following question: *“In addition to yourself, who would be able to provide us with information on this matter?”* This strategy allows for including the most relevant sources of information on a particular topic, thus providing robust data and evidence. It is important to mention that, when undertaking the assessment, the youths participating in the data collection should also be considered as “key informants” of their Commune and their opinions should be recorded.
 
@@ -290,11 +314,15 @@ Information can be collected through discussions with key informants but also by
 
 When meeting people, information should be collected using different methods, such as structured or semi-structured interviews, informal group discussions, and case studies. Because of time constraints, no training was given on the various methods and the teams mainly used the semi-structured interview to collect the data. Before meeting a key informant, the teams prepared a list of the main questions to be covered during the interview. The following pointers were shared with participants to facilitate the exercise:
 
-1. Do you consider that « name the topic » is a problematic topic in the Commune? (Or presents a particular challenges?)
-2. Which elements (objective or subjective) support your perception/opinion?
-3. What is the consequence/impact of this situation?
-4. Which action/activity should be undertaken to improve the situation? (This information is not part of the assessment but was collected in order to provide ideas on how activities should be planned when implementing the programme)
-5. Are there any other problems/challenges affecting children/youths in the Commune?
+   1. Do you consider that « name the topic » is a problematic topic in the Commune? (Or presents a particular challenges?)
+
+   2. Which elements (objective or subjective) support your perception/opinion?
+   
+   3. What is the consequence/impact of this situation?
+
+   4. Which action/activity should be undertaken to improve the situation? (This information is not part of the assessment but was collected in order to provide ideas on how activities should be planned when implementing the programme)
+
+   5. Are there any other problems/challenges affecting children/youths in the Commune?
 
 In a plenary session, each team shared the information collected with the key informants. Findings were recorded on a flip chart and split according to whether they represented “barriers” or “boosters” of the indicators. A “barrier” (B) is an element negatively affecting an indicator. In contrast, a “booster” (B) has a positive impact on the indicator.
 
@@ -306,14 +334,14 @@ When the information is organised in this fashion, we are then able to appreciat
 <br/>
 
 <style>
-th, tr, td {<br />
+th, tr, td {
   font-family:Helvetica;<br />
-  font-size:10px;<br />
-  border:1px solid black;<br />
-}<br />
+  font-size:10px;
+  border:1px solid black;
+}
 </style>
-<p><a id="TAB2"></a><br />
-<strong>Table 2:</strong> BBQ expanded list</p>
+<a name="TAB2"></a>
+**Table 2:** BBQ expanded list</p>
 <table style="width:100%;border:solid;">
 <tr style="border:solid;">
 <th style="border-right:solid;">Nº ordre</th>
@@ -479,19 +507,23 @@ During the first step, the presentation of data/information is done manually usi
 
 [Figure 5](#FIG5) shows the central topic of the programme “Child and Youth Friendly City”; the seven indicators identified by the youths are related to the central topic. Each indicator can then be examined using the various data/information collected during the community assessment. Some tips for undertaking this include:
 
-* It is possible to produce more than one MindMap depending on the needs and the volume of information:
+  * It is possible to produce more than one MindMap depending on the needs and the volume of information:
 
-** A “summary” MindMap illustrating the main topic, all the indicators, and the main points
-** A MindMap illustrating the details of each indicator
+    * A “summary” MindMap illustrating the main topic, all the indicators, and the main points
+    * A MindMap illustrating the details of each indicator
 
-* The choice of the “headline” can also vary according to the needs: a branch can be the “topic” or a branch can be the “informant” (where all the important information provided by each informant will be sub-topic branches).
+  * The choice of the “headline” can also vary according to the needs: a branch can be the “topic” or a branch can be the “informant” (where all the important information provided by each informant will be sub-topic branches).
 
-[Figure 6](#FIG6) illustrates a **Mind Map** exercise from a different programme and gives a good idea of what a **Mind Map** looks like when all the information is recorded. A software called [XMind](http://www.xmind.net) can be used to record the information and provide a report-friendly way of presenting the findings (which can start off looking relatively ‘messy’).
+  [Figure 6](#FIG6) illustrates a **Mind Map** exercise from a different 
+  programme and gives a good idea of what a **Mind Map** looks like when all the 
+  information is recorded. A software called [XMind](http://www.xmind.net) can 
+  be used to record the information and provide a report-friendly way of 
+  presenting the findings (which can start off looking relatively ‘messy’).
 
 **XMind Software**
 The **Mind Map** can be edited using an open-source mind-mapping software package called <a href="http://www.xmind.net" target="_blank">[XMind](http://www.xmind.net), which is available free [here](http://www.xmind.net/). As shown in [Figure 7](#FIG7), the **Mind Map** is composed of branches and sub-branches. It is possible to add contextual information such as source of the data/information or additional notes to better explain the meaning of the branches. It is also possible to add a file such as graphics or additional data which would further contextualise the information. Using the [XMind](http://www.xmind.net) software, the **Mind Map** can also be exported to automatically produce a formatted and illustrated report using the entered findings mentioned above and the hierarchical structure incorporating the various branches and sub-branches. The exported <strong>Mind Map</strong> graphic is useful for report-writing since all information will already be shown in the graphic.
-
 <br/>
+
 <a name="FIG7"></a>
 **Figure 7:** Presentation of Mind Map using XMind
 ![](/assets/images/Coverage-v4.png)
@@ -499,25 +531,30 @@ The **Mind Map** can be edited using an open-source mind-mapping software packag
 
 [Figure 7](#FIG7) shows how different elements of the MindMap are draw together using the XMind software. The software allows one to present these elements, including:
 
-* Topics and subtopics (branches and sub- branches)
-* Sources of information (key stakeholders)
-* Pictures
-* Graphs
-* Links between each element
-* Illustration of which element is a ‘booster’ and which is a ‘barrier’, or elements requiring ‘more information’
+  * Topics and subtopics (branches and sub- branches)
+
+  * Sources of information (key stakeholders)
+
+  * Pictures
+
+  * Graphs
+  
+  * Links between each element
+
+  * Illustration of which element is a ‘booster’ and which is a ‘barrier’, or elements requiring ‘more information’
 
 As mentioned above, only two of the seven identified indicators were used during the workshop to introduce and test the various tools and methods. The time available for the data collection was not sufficient to fully cover the two topics, given the range of activities that had to be completed (e.g. meeting all the key informants, gathering quantitative data, conducting the literature review etc). As such, the available information was not fully comprehensive. Nevertheless, the ADMG and EVE representatives were engaged in an [XMind](http://www.xmind.net) practical exercise and provided with a short document summarizing the main functions of the software. The participants were able to practice recording a few branches. It is worth mentioning that the software is quite user friendly and each person should be able to use it relatively easily –the main piece of advice is simply to play around with it.
 
 **Concept Map**
 Concept-mapping is a graphical data-analysis technique that is useful for representing relationships between findings. Concept-maps show findings and the connections (relationships) between them. They are useful when working out and communicating how different findings (e.g. barriers) are related and interact with each other in complex or cyclical processes. For example, a concept map will be able to show how a specific situation or condition has come about as a result of a specific event or factor.
-
 <br/>
+
 <a name="FIG8"></a>
 **Figure 8:** Concept map
 ![](/assets/images/conceptMap02.png)
 <br/>
 
-The example given in <a href="#FIG8><strong>Figure 8</strong> illustrates the relationship between the poor quality of the infrastructure (the public primary school of the neighbourhood) and/or the lack of financial resources for parents without a permanent job; these elements are related to the problem of children dropping out of school. In the first case, the “poor quality of the infrastructure” may negatively affect the “capacity of the children to concentrate”, leading to “poor academic results”, which in turn could lead to the child having to “re-take the school year” and/or even be “expelled from the school”. Similarly, parents with financial constraints may not be able to pay the fees if a child “re-takes the school year” and with no money to pay for fees, the situation may lead to the child being “expelled from school” or the child “dropping out”. The same financial constraints may result in less time for the parents to support the child in his/her studies (because they are too busy looking for job opportunities), and, without parental support, the child might get “poor results” in school leading to having to “re-take the school year” and so on. This creates a vicious cycle with the end result of the child not being in school or not completing school. In this example, it becomes clear that the rehabilitation of the school could be an effective action to decrease the drop-out risk.
+The example given in [Figure 8](#FIG8) illustrates the relationship between the poor quality of the infrastructure (the public primary school of the neighbourhood) and/or the lack of financial resources for parents without a permanent job; these elements are related to the problem of children dropping out of school. In the first case, the “poor quality of the infrastructure” may negatively affect the “capacity of the children to concentrate”, leading to “poor academic results”, which in turn could lead to the child having to “re-take the school year” and/or even be “expelled from the school”. Similarly, parents with financial constraints may not be able to pay the fees if a child “re-takes the school year” and with no money to pay for fees, the situation may lead to the child being “expelled from school” or the child “dropping out”. The same financial constraints may result in less time for the parents to support the child in his/her studies (because they are too busy looking for job opportunities), and, without parental support, the child might get “poor results” in school leading to having to “re-take the school year” and so on. This creates a vicious cycle with the end result of the child not being in school or not completing school. In this example, it becomes clear that the rehabilitation of the school could be an effective action to decrease the drop-out risk.
 
 This method was covered very briefly during the workshop; a quick example of the relationship between findings was given using the limited information already available.
 
@@ -526,9 +563,11 @@ The scoring system that aims to estimate the “weight”, i.e. the impact/contr
 
 The BBQ table can be very helpful when the time comes to “score” the weight of each element (see above). The score needs to be estimated for each element by considering:
 
-* The number of key informants reporting the same/similar “barrier” or “booster”: the more people that are reporting a barrier/booster the more the barrier/booster is likely to have a strong influence or impact on the indicator
-* The number of key informants coming from within the same type or class of key informants reporting the same/similar “barrier” or “booster”: for example, the total number of students, total number of parents, or total number of authorities etc. mentioning the same “barrier” or “booster”
-* While the number is often important to consider, it is also important to consider the “strength” of the impact that a barrier/booster has on a specific key informant. For example, a barrier like “sanitation of the school is poor” reported by students has a strong and direct effect on the students themselves and should therefore be considered as contributing or impacting more on the indicator compared to the same barrier (i.e. poor sanitation in school) reported by, e.g., local authorities not involved in school affairs who may have heard about the issue and formed an opinion on the barrier/booster, but have not seen or experienced the problem first-hand and are not directly affected. Another example is that of the problem of “drop-outs”. Information shared by children who have “dropped out” or their parents about the reasons why the child has dropped out can be considered as having a greater impact on or contribution to the issue of drop-outs compared to those children (and their parents) who are still in school and not experiencing problems with school.
+  * The number of key informants reporting the same/similar “barrier” or “booster”: the more people that are reporting a barrier/booster the more the barrier/booster is likely to have a strong influence or impact on the indicator
+
+  * The number of key informants coming from within the same type or class of key informants reporting the same/similar “barrier” or “booster”: for example, the total number of students, total number of parents, or total number of authorities etc. mentioning the same “barrier” or “booster”
+
+  * While the number is often important to consider, it is also important to consider the “strength” of the impact that a barrier/booster has on a specific key informant. For example, a barrier like “sanitation of the school is poor” reported by students has a strong and direct effect on the students themselves and should therefore be considered as contributing or impacting more on the indicator compared to the same barrier (i.e. poor sanitation in school) reported by, e.g., local authorities not involved in school affairs who may have heard about the issue and formed an opinion on the barrier/booster, but have not seen or experienced the problem first-hand and are not directly affected. Another example is that of the problem of “drop-outs”. Information shared by children who have “dropped out” or their parents about the reasons why the child has dropped out can be considered as having a greater impact on or contribution to the issue of drop-outs compared to those children (and their parents) who are still in school and not experiencing problems with school.
 
 
 ## Conclusion and Recommendations
@@ -545,21 +584,30 @@ Although the mapping exercise was undertaken by only a few participants, the map
 
 **Key recommendations on mapping are:**
 
-* PLAN Senegal to consider the use of tablets for mapping the various infrastructures of the three Communes targeted by the programme
-* PLAN Denmark o engage in a discussion with Valid International and Valid Measures to determine the most appropriate remote support to:
-** Develop an ODK questionnaire covering the assessment needs
-** Develop a website to transfer, analyse and produce simple maps
-** Train some people to produce further elaborated maps (with icons).
+  * PLAN Senegal to consider the use of tablets for mapping the various infrastructures of the three Communes targeted by the programme
+
+  * PLAN Denmark o engage in a discussion with Valid International and Valid Measures to determine the most appropriate remote support to:
+    
+    * Develop an ODK questionnaire covering the assessment needs
+
+    * Develop a website to transfer, analyse and produce simple maps
+
+    * Train some people to produce further elaborated maps (with icons).
 
 ### Methods and Tools
 Several methods and tools were introduced to the participants, including:
 
-* List of key informants and coding
-* BBQ (Barriers-Boosters-Questions)
-* Mind Map
-* XMind software
-* Concept Map
-* Scoring system
+  * List of key informants and coding
+
+  * BBQ (Barriers-Boosters-Questions)
+
+  * Mind Map
+
+  * XMind software
+
+  * Concept Map
+
+  * Scoring system
 
 The limited time for the field activities meant it was not possible to cover each item in detail; the first three items were partially covered during the field activities and the last three items were only theoretically covered. This situation was already foreseen and the objective was to test the easy adaptation of the methods to the needs of the programme, as well as identify the interest of the participants.
 
@@ -567,13 +615,16 @@ The evaluation indicated that interest in the various methods (mainly the first 
 
 **Key recommendations on Methods and Tools are:**
 
-* PLAN Senegal and PLAN Denmark to closely support PLAN Urban Dakar, ADMG, EVE, and the youth representatives during the participatory community assessment
-* PLAN Denmark if necessary, to discuss with VI and VM the potential scope and strategy for remote support to analyse the assessment data.
+  * PLAN Senegal and PLAN Denmark to closely support PLAN Urban Dakar, ADMG, EVE, and the youth representatives during the participatory community assessment
 
-Considering that the workshop has not yet been held in one country (Sierra Leone) **we also recommend:**
+  * PLAN Denmark if necessary, to discuss with VI and VM the potential scope and strategy for remote support to analyse the assessment data.
 
-* PLAN Denmark to consider involving VI in the Freetown workshop and, if so,
-* To consider extending the duration of the workshop to allow time to properly cover the various methods/tools (minimum of two weeks). The opportunity to participate in the Freetown workshop would also mean VI and VM could further describe and document the key uses and value of each of the tools covered in the Dakar workshop.
+  Considering that the workshop has not yet been held in one country (Sierra 
+  Leone) **we also recommend:**
+
+  * PLAN Denmark to consider involving VI in the Freetown workshop and, if so,
+  
+  * To consider extending the duration of the workshop to allow time to properly cover the various methods/tools (minimum of two weeks). The opportunity to participate in the Freetown workshop would also mean VI and VM could further describe and document the key uses and value of each of the tools covered in the Dakar workshop.
 
 
 ## Endnotes

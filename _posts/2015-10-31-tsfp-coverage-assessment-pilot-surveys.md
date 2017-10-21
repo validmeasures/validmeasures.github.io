@@ -474,11 +474,15 @@ A general summary of the appropriate scale and relative cost of the available as
 ### Skills capacity
 The type of skills capacity required for planning, designing and implementing coverage assessments can be grouped into the following skill sets:
 
-1. Survey sampling and design
-2. Survey logistics and implementation
-3. Data management
-4. Data analysis
-5. Reporting
+   1. Survey sampling and design
+   
+   2. Survey logistics and implementation
+
+   3. Data management
+   
+   4. Data analysis
+
+   5. Reporting
 
 As mentioned earlier, all the methods were developed with a spatial orientation hence they all require similar or related spatial survey sampling skill sets for all stages of sampling. These spatial survey sampling techniques include 1) areal sampling using square or hexagonal grids; 2) systematic sampling using complete list of sampling locations organised by administrative units; 3) mapping and segmentation techniques for the sampling locations; and 4) census or house-to-house approach to case finding. In addition, skills in estimating required sample size for each coverage assessment method are needed to complete the survey design.
 
@@ -526,9 +530,11 @@ a. Agreeing the survey objectives and the area to be covered by the assessment: 
 
 b. Timing of coverage survey within the programme implementation cycle: To ensure the results of a survey are of maximum value to programme/organizational learning and fulfil the objective of the assessment, the survey should be conducted at the appropriate time. This needs to be considered at design stage. Where the survey is being conducted primarily to assess coverage of an operational programme, it should be conducted:
 
-* When the programme is fully operational to ensure results reflect the reach of services at full potential
-* Long enough after programme start to ensure that results are not reflective of the start-up problems common to many large selective feeding interventions
-* Long enough before programme end to ensure that results are not reflective of the scaling down of operations
+  * When the programme is fully operational to ensure results reflect the reach of services at full potential
+
+  * Long enough after programme start to ensure that results are not reflective of the start-up problems common to many large selective feeding interventions
+
+  * Long enough before programme end to ensure that results are not reflective of the scaling down of operations
 
 Where the survey is being conducted to provide a baseline/endline evaluation of the impact of operations on MAM treatment coverage, timing of implementation will need to be adapted to a ‘baseline/endline’ sequencing schedule. Where the survey is being conducted to provide midterm learning on both a) levels of coverage achieved to date and b) the factors supporting and preventing adequate coverage in these areas, purposive sampling within a programme area may be possible
 
@@ -538,20 +544,26 @@ Resource requirements for every coverage assessment are dependent on the survey 
 Such guidance would need to support planning around the following issues identified during implementation of this project:
 
 a. Capacity for the survey process: The skills and implementation capacity required for planning, designing and implementing coverage assessments can be grouped into the following skill sets and will vary according to the specific survey methodology adopted:
-* Survey sampling and design
-* Survey logistics, data collection and implementation
-* Data management
-* Data analysis
-* Interpretation of results and reporting
+
+  * Survey sampling and design
+
+  * Survey logistics, data collection and implementation
+
+  * Data management
+
+  * Data analysis
+
+  * Interpretation of results and reporting
 
 Whilst capacity for survey sampling and design and data analysis is variable among programme managers and nutrition experts at WFP CO level, the VAM unit does have these requisite skills and there is great potential for them to take a stronger lead in the more technical aspects of future coverage assessments where their capacity allows. However, because the specific methods used to estimate treatment coverage are quite new and require spatial survey sampling skill sets for all stages of sampling and data analysis, there is likely to be a need for ongoing (in the short-medium term) technical support to be available to them either in country or through specially developed guidance tools and applications. This technical support could guide the VAM unit through the more technically complex/unfamiliar stages of sampling, data analysis and results interpretation. All WFP COs we worked with during this project did have good project management and logistics capacity but earlier identification of needs would have facilitated their timely availability. WFP COs were unlikely to have sufficient data collection staff available for the time needed. Working with partners (such as the national MoH) to supplement data collection and survey implementation capacity worked well in all countries to fill this capacity gap as well as to support buy-in to the survey process and outcomes from national partners. This is a strategy that should be maintained for future assessments. A dedicated survey team, including project manager and data collectors, should be involved and on hand for the duration of the survey. This is particularly important for surveys that have a training and capacity-building element. Future implementations of coverage assessments would therefore need to take this into account, especially if they aim to train others on the methods. In Pakistan where SQUEAC was implemented, staff were already familiar with the method, having seen it or participated before for the assessment of SAM coverage. This was helpful because their exposure meant that they could be guided through the process rather than just taught, with more participation and engagement. For Niger and Chad where S3M was implemented, given the developmental stage of the method and the lower level of documentation, there was a steeper learning curve and significantly more intense training was required.
 
-b. Early budget development: Closely linked to capacity requirements, budget requirements need to be developed in parallel and as early as possible in the assessment planning process. Costs of implementation are dependent on survey design (see <a href="#TAB3">Table 3</a>) and on the context of implementation.
+b. Early budget development: Closely linked to capacity requirements, budget requirements need to be developed in parallel and as early as possible in the assessment planning process. Costs of implementation are dependent on survey design (see [Table 3](#TAB3)) and on the context of implementation.
 
 c. Information requirements for every coverage assessment are also dependent on the survey methodology selected and the context within which the survey is to be implemented. Sufficient time and resources need to be scheduled in the work-plan at design stage for both administrative/logistical needs and the early information/data needs of the assessment to be met in parallel. If early information/data needs are not met in a timely fashion, this can lead to considerable delay in the assessment workplan. These requirements should always include (at a minimum):
 
-* Compilation of recent routine programme monitoring statistics where they are available. These data are critical to support both survey planning and the interpretation of survey results.
-* The early provision of detailed maps that cover the survey area are critical. WFP has great capacity for mapping in general, with detailed maps in high resolution for almost all countries where they operate. Making these maps (particularly the data used to create these maps) available for coverage surveys will be essential for all coverage assessments, particularly if the mapping of coverage results is considered to be an important output of the coverage assessments.
+  * Compilation of recent routine programme monitoring statistics where they are available. These data are critical to support both survey planning and the interpretation of survey results.
+
+  * The early provision of detailed maps that cover the survey area are critical. WFP has great capacity for mapping in general, with detailed maps in high resolution for almost all countries where they operate. Making these maps (particularly the data used to create these maps) available for coverage surveys will be essential for all coverage assessments, particularly if the mapping of coverage results is considered to be an important output of the coverage assessments.
 
 A checklist, for use by the programme/survey team, of the various information needs at design stage for each type of assessment would help to plan and prioritise preparation efforts and resources.
 
@@ -589,7 +601,7 @@ The pilot SQUEAC survey in Pakistan showed that adequate sample sizes of MAM cas
 Lot quality assurance sampling (LQAS) analysis used in SLEAC can be done and hence can be considered as an option if classification of coverage above or below a standard or threshold is an acceptable output. The required sample size for reporting coverage classifications was generally reached in all the survey areas. This can be used as an option if rapidity of method is paramount or if disaggregation of overall coverage results is considered an important output. This SLEAC classification can be used for the lower administrative unit coverage results, as this will require much smaller sample sizes, and then an aggregated coverage estimate (an exact proportion with a confidence interval) across the various administrative units can be reported.
 
 7. S3M sampling unit size should remain small.
-Size of sampling unit for S3M should be kept as small as possible and definitely smaller than the size that was used for the pilot surveys in Chad and Niger. This is particularly important so as to be able to disaggregate results down to the lower administrative units (either as classifications or estimates of coverage) and to be able to increase the robustness of the high-resolution mapping results produced by S3M. A resolution of between 100 – 200 km2would be ideal (which translates to a distance value of no more than 12 – 15 km between each sampling unit).
+Size of sampling unit for S3M should be kept as small as possible and definitely smaller than the size that was used for the pilot surveys in Chad and Niger. This is particularly important so as to be able to disaggregate results down to the lower administrative units (either as classifications or estimates of coverage) and to be able to increase the robustness of the high-resolution mapping results produced by S3M. A resolution of between 100 – 200 km^2 would be ideal (which translates to a distance value of no more than 12 – 15 km between each sampling unit).
 
 
 ## Conclusions and Recommendations
