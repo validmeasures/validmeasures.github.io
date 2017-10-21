@@ -30,11 +30,11 @@ tags:
     - WFP
     - World Food Programme
 header:
-  overlay_image: /assets/images/chadS3Msat.png/
+  overlay_image: /assets/images/chadS3Msat.png
 excerpt: Assessment of TSFP in Chad, Niger and Pakistan
 sidebar:
     - title: "Country"
-      image: /assets/images/wfp.png/
+      image: /assets/images/wfp.png
       image_alt: "Chad, Niger and Pakistan"
       text: "Chad, Niger and Pakistan"
     - title: "Project"
