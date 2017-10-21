@@ -137,8 +137,9 @@ The first stage sample is a spatially-stratified sample of clusters. This is don
 <a name="FIG3"></a><a name="FIG4"></a><a name="FIG5"></a><a name="FIG6"></a><a name="FIG7"></a>
 {% include gallery id="gallery1" caption="First stage sample" %}
 
-The second stage sample is active and adaptive case finding or snowball sampling. In active and adaptive case finding, the surveyors identified potential SAM cases by talking to key informants and using local terms for malnutrition and associated illnesses. Key informants most commonly used during the survey were: village leaders, traditional birth attendant/midwife, elderly and women/mothers in the community. The search for SAM children was adapted according to information provided by the key informants and the community.</p>
-<p>The identified children were then measured using a MUAC tape and with oedema test to assess whether they were SAM. If SAM, the carers were asked whether they were being enrolled / treated in a CMAM programme.
+The second stage sample is active and adaptive case finding or snowball sampling. In active and adaptive case finding, the surveyors identified potential SAM cases by talking to key informants and using local terms for malnutrition and associated illnesses. Key informants most commonly used during the survey were: village leaders, traditional birth attendant/midwife, elderly and women/mothers in the community. The search for SAM children was adapted according to information provided by the key informants and the community.
+
+The identified children were then measured using a MUAC tape and with oedema test to assess whether they were SAM. If SAM, the carers were asked whether they were being enrolled / treated in a CMAM programme.
 
 In addition, case-finding included children who were being treated in the programme who have already recovered or are recovering (i.e. does not meet SAM case definition anymore) but are still in the programme until they meet discharge criteria. The aim of the case finding is to find all or nearly all SAM cases in each of the villages sampled.
 
