@@ -23,11 +23,11 @@ tags:
     - stunting
     - WDDS
 header:
-  overlay_image: /assets/images/kambia4.png/
+  overlay_image: /assets/images/kambia4.png
 excerpt: Use of SQUEAC to investigate the causes of chronic malnutrition and the barriers to its prevention
 sidebar:
     - title: "Country"
-      image: /assets/images/odi.jpeg/
+      image: /assets/images/odi.jpeg
       image_alt: "Sierra Leone"
       text: "Sierra Leone"
     - title: "Project"
