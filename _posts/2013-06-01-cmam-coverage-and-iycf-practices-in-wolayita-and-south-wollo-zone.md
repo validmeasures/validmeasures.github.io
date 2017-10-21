@@ -35,9 +35,40 @@ sidebar:
       text: "Concern Worldwide"
     - title: "Year"
       text: "2013"
+gallery1:
+    - url: /assets/images/s10.out.1.png
+      image_path: /assets/images/s10.out.1.png
+      alt: "Find a map"
+      title: "Find a map"
+    - url: /assets/images/s10.in.5.png
+      image_path: /assets/images/s10.in.5.png
+      alt: "Grid the map"
+      title: "Grid the map"
+    - url: /assets/images/s11.in.2.png
+      image_path: /assets/images/s11.in.2.png
+      alt: "Layout sampling points"
+      title: "Layout sampling points"
+    - url: /assets/images/s12.in.1.png
+      image_path: /assets/images/s12.in.1.png
+      alt: "Select sampling villages"
+      title: "Select sampling villages"
+    - url: /assets/images/s13.in.2.png
+      image_path: /assets/images/s13.in.2.png
+      alt: "Triangulate"
+      title: "Triangulate"
+gallery2:
+    - url: /assets/images/periodCoverageWolayita.png
+      image_path: /assets/images/periodCoverageWolayita.png
+      alt: "Treatment Coverage"
+      title: "Treatment coverage- Wolayita Zone"
+    - url: /assets/images/periodCoverageWollo.png
+      image_path: /assets/images/periodCoverageWollo.png
+      alt: "Treatment Coverage"
+      title: "Treatment Coverage - South Wollo Zone"
 ---
 {% include toc icon="gears" title="Contents" %}
-With the adoption of the CMAM model at sub-national to national levels in countries such as Ethiopia, the need for a coverage method that can provide information about coverage over large areas has become important. In the Conference on Government experiences of Community-based Management of Acute Malnutrition and Scaling Up Nutrition held in Addis Ababa, Ethiopia in 2011, the Ethiopian delegation reported that a key learning point of their CMAM scale-up experience was the "need for systems to monitor and improve quality of services early on"[^1]<sup>,</sup>[^2]and highlighted the importance of strengthening monitoring and evaluation to maintain quality of programming. [Figure 1](#FIG1) gives an idea of the geographic scale of the acute malnutrition needs and the current programming scope.
+
+With the adoption of the CMAM model at sub-national to national levels in countries such as Ethiopia, the need for a coverage method that can provide information about coverage over large areas has become important. In the Conference on Government experiences of Community-based Management of Acute Malnutrition and Scaling Up Nutrition held in Addis Ababa, Ethiopia in 2011, the Ethiopian delegation reported that a key learning point of their CMAM scale-up experience was the "need for systems to monitor and improve quality of services early on"[^1] [^2] and highlighted the importance of strengthening monitoring and evaluation to maintain quality of programming. [Figure 1](#FIG1) gives an idea of the geographic scale of the acute malnutrition needs and the current programming scope.
 
 <a name="FIG1"></a>
 **Figure 1:** Ethiopia CMAM scale up
@@ -53,7 +84,7 @@ An audit is a quality improvement and monitoring method that seeks to improve se
 
 Over the years of development of the CMAM model, the use of coverage survey methods such as CSAS, SQUEAC and SLEAC within the audit cycle framework as a tool for establishing current practice has been established[^3]. These tools can be used and implemented in a timely manner and at reasonable cost. However, in the current context of wide adoption of CMAM and scale-up, the issue of scale and space is an additional factor to take into account when establishing current practice. CMAM programs across a much larger geographic scale will often be expected to have much higher spatial variation of coverage. Hence, from an audit cycle framework, documenting that spatial variation is necessary not only to assess which areas are meeting coverage standards and the corresponding program reforms needed, but also on how resources can and should be allocated.
 
-CSAS, SQUEAC and SLEAC are methods that allow for the assessment of spatial variation of coverage[^4]<sup>,</sup>[^5]<sup>,</sup>[^6]. However, they are not optimal for assessing coverage in large areas (e.g. national, sub-national or regional) as they tend to take longer time (thereby increasing cost) for a limited increase in area size surveyed.
+CSAS, SQUEAC and SLEAC are methods that allow for the assessment of spatial variation of coverage[^4] [^5] [^6]. However, they are not optimal for assessing coverage in large areas (e.g. national, sub-national or regional) as they tend to take longer time (thereby increasing cost) for a limited increase in area size surveyed.
 
 
 ## S3M as a wide-area coverage survey method
@@ -85,6 +116,7 @@ S3M was designed to:
     
     * Levels of indicators such as (e.g.) infant and young child feeding (IYCF) practices, water, sanitation and hygiene (WASH), and prevalence over wide areas.
 
+
 ## S3M survey design
 
 S3M primarily uses a two-stage sampling design.
@@ -102,11 +134,8 @@ The first stage sample is a spatially-stratified sample of clusters. This is don
   * **Step 5:** Test triangulation ([Figure 7](#FIG7))
 
 ### Steps in S3M stage 1 sampling
-<a name="FIG3"></a><a name="FIG4"></a><a name="FIG5"></a><a name="FIG6"></a><a name="FIG7"></a><br />
-
-
-[gallery type="square" columns="2" ids="796,797,799,800,804"]
-
+<a name="FIG3"></a><a name="FIG4"></a><a name="FIG5"></a><a name="FIG6"></a><a name="FIG7"></a>
+{% include gallery id="gallery1" caption="First stage sample" %}
 
 The second stage sample is active and adaptive case finding or snowball sampling. In active and adaptive case finding, the surveyors identified potential SAM cases by talking to key informants and using local terms for malnutrition and associated illnesses. Key informants most commonly used during the survey were: village leaders, traditional birth attendant/midwife, elderly and women/mothers in the community. The search for SAM children was adapted according to information provided by the key informants and the community.</p>
 <p>The identified children were then measured using a MUAC tape and with oedema test to assess whether they were SAM. If SAM, the carers were asked whether they were being enrolled / treated in a CMAM programme.
@@ -117,10 +146,11 @@ In addition, case-finding included children who were being treated in the progra
 The coverage of CMAM in Wolayita and South Wollo zone had a wide spatial variation (i.e. high spatial heterogeneity) as seen in [Figure 8](#FIG8) and [Figure 9](#FIG9).
 
 <a name="FIG8"></a><a name="FIG9"></a>
+{% include gallery id="gallery2" caption="CMAM coverage in Wolayita and South Wollo Zones" %}
 
-[gallery type="square" columns="2" size="medium" ids="2296,2290"]
 
 ### Wolayita Zone IYCF
+
 [Figure 10](#FIG10) (below) shows the IYCF indicator set for Wolayita Zone. From this, it is clear that the main issue with regard to IYCF practices in Wolayita zone is that of age-appropriate dietary diversity (bottom middle) and exclusive breastfeeding (upper middle) particularly in the south-west area of Wolayita zone (Kindo Didaye woreda and parts of Kindo Koyisha and OFA woreda).
 
 In the north-east area of the zone, on the other hand, show relatively good IYCF practices particularly in Deguna Fanigo woreda and parts of Damot Gale and Damot Woyide woreda.
@@ -129,7 +159,9 @@ In the north-east area of the zone, on the other hand, show relatively good IYCF
 **Figure 10:** IYCF indicator set for Wolayita Zone
 ![](/assets/images/s18.out_.3.png)
 
+
 ### South Wollo Zone IYCF
+
 [Figure 11](#FIG11) (below) shows the IYCF indicator set for South Wollo Zone. From this, the impact and extent of age-appropriate dietary diversity (bottom middle) and exclusive breastfeeding (upper middle) issues seem more pronounced and widespread throughout the zone with most areas having poor dietary diversity and only a patch of good exclusive breastfeeding practice in the middle to north-east of the zone.
 
 <a name="FIG11"></a>
@@ -152,11 +184,6 @@ It also provided information / results on IYCF practices in the whole zone.
 ## Conclusion
 S3M can provide timely and more cost effective at scale coverage assessment compared to CSAS which is the closest comparable spatial method available. As such, S3M has all the requisite qualities of a tool that could operationalize the audit cycle framework for monitoring and evaluating CMAM coverage in Ethiopia at a large-scale.
 
-<style>
-note {
-  font-size: 12px;
-}<br />
-</style>
 
 ## Endnotes
 [^1]: Emergency Nutrition Network. “Conference on Government Experiences of Community-Based Management of Acute Malnutrition and Scaling Up Nutrition: Conference Report,” 1–52, Addis Ababa, 2012. http://files.ennonline.net/attachments/1444/cmamconferencereport.pdf.
