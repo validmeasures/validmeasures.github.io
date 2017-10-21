@@ -19,11 +19,11 @@ tags:
     - spatial
     - SQUEAC
 header:
-  overlay_image: /assets/images/nigerS3Msat.png/
+  overlay_image: /assets/images/nigerS3Msat.png
 excerpt: Use of S3M to asses the Niger National CMAM coverage 
 sidebar:
     - title: "Country"
-      image: /assets/images/Unicef.jpg/
+      image: /assets/images/Unicef.jpg
       image_alt: "Niger"
       text: "Niger"
     - title: "Project"
@@ -155,11 +155,11 @@ A grid was drawn over the maps. The size of the grid was determined by the dista
 
 The width of the grid in the east-west (\\(x\\)) direction was calculated using the following formula:
 
-$$ x = \frac {3d}{2} $$
+\\[ x = \frac {3d}{2} \\]
 
 The height of the grid in the north-south (\\(y\\)) direction can be calculated using the following formula:
 
-$$ y = \frac {d \sqrt{3}}{2} $$
+\\[ y = \frac {d \sqrt{3}}{2} \\]
 
 For the case of the Niger survey with \\(d = 15 \text {kms} \\):
 
@@ -205,7 +205,7 @@ Sampling points were selected right to the edge and even over the edge of the su
 
 <a name="FIG8"></a>
 **Figure 8:** Identified samplings points on the small-scale map of five regions of Niger
-![](/assets/images/nigerS3M.png/)
+![](/assets/images/nigerS3M3.png)
 <br/>
 
 <a name="FIG9"></a>
@@ -232,11 +232,11 @@ Each case was confirmed by applying the programme’s admission criteria (e.g. M
 
 For the investigation of IYCF indicators, a variant of the standard EPI sampling method was used to find eligible children. This was done through the following steps (also see [Figure 11](#FIG11)):
 
-* **Selection of the first household:** Stood at a central point in the community and chose a direction at random (e.g. by spinning a bottle). Counted the houses between the central point and the edge of the community in that direction. Selected one of these houses at random Checked for eligible children. Started interview. All eligible children found in a household were administered the IYCF questionnaire.
+  * **Selection of the first household:** Stood at a central point in the community and chose a direction at random (e.g. by spinning a bottle). Counted the houses between the central point and the edge of the community in that direction. Selected one of these houses at random Checked for eligible children. Started interview. All eligible children found in a household were administered the IYCF questionnaire.
 
-* **Selection of subsequent households:** Chose a new random direction from the previous house. Selected the third house in the random direction. Checked for eligible children. Started interview.
+  * **Selection of subsequent households:** Chose a new random direction from the previous house. Selected the third house in the random direction. Checked for eligible children. Started interview.
 
-* **Stopping sampling:** Sampling stopped when required number of children sampled.
+  * **Stopping sampling:** Sampling stopped when required number of children sampled.
 <br/>
 
 <a name="FIG11"></a>
@@ -262,11 +262,11 @@ For the coverage assessment, data on cases in the programme and total cases foun
 
 For the IYCF practices, data was analysed to provide results on the following indicators:
 
-1. Proportion of exclusively breastfed children 0 - 6 months
+   1. Proportion of exclusively breastfed children 0 - 6 months
 
-$$ \frac {\text {Children 0 - 6 months exclusively breastfed}}{\text {All children 0 - 6 months}} $$
+\\[ \frac {\text {Children 0 - 6 months exclusively breastfed}}{\text {All children 0 - 6 months}} \\]
 
-2. Infant and child feeding index (ICFI) score
+   2. Infant and child feeding index (ICFI) score
 The Infant and Child Feeding Index (ICFI) developed by Arimond and Ruel[^4] [^5] was applied to the data. The ICFI has 3 component indicators:
 
 **Age-appropriate continued breastfeeding**
@@ -276,7 +276,7 @@ $$ \begin {align*}
 \end {align*} $$
 
 **Age-appropriate dietary diversity**
-$$ \frac {\text {Children 6 - 24 months with dietary diversity score of 2}}{\text {All children 6 - 24 months}} $$
+\\[ \frac {\text {Children 6 - 24 months with dietary diversity score of 2}}{\text {All children 6 - 24 months}} \\]
 
 **Age-appropriate meal frequency**
 $$ \begin {align*}
@@ -285,7 +285,7 @@ $$ \begin {align*}
 \end {align*} $$
 
 In addition to these three component indicators, a summary indicator of **good ICFI** was analysed as well.
-$$ \frac {\text {Children 6 - 24 months with ICFI score of 6}}{\text {All children 6 - 24 months}} $$
+\\[ \frac {\text {Children 6 - 24 months with ICFI score of 6}}{\text {All children 6 - 24 months}} \\]
 
 3. Standard infant and young child feeding (IYCF) indicators
 These standard indicators are those recommended by WHO[^6] [^7]. Of this set of 15 indicators, the following were the ones analysed and reported in this survey:
@@ -293,7 +293,7 @@ These standard indicators are those recommended by WHO[^6] [^7]. Of this set of 
 **Proportion of exclusively breastfed children 0 – 6 months** – as above
 
 **Minimum dietary diversity**
-$$ \frac {\text {Children 6 - 24 months who received foods from} \ \geq 4 \ \text {food groups during the previous day}}{\text {All children 6 - 24 months}} $$
+\\[ \frac {\text {Children 6 - 24 months who received foods from} \ \geq 4 \ \text {food groups during the previous day}}{\text {All children 6 - 24 months}} \\]
 
 **Minimum meal frequency**
 $$ \begin {align*}
@@ -358,11 +358,15 @@ The training stage was conducted in Dosso region because it had the least number
 
 The survey mechanics were adjusted as appropriate during the early stages based on learnings from the training phase:
 
-* Adapted and refined the case-finding question for active and adaptive case finding
-* Shifted from EPI3 to QTR + EPI3 approach
-* Door-to-door approach added as a sampling method for very small villages
-* Team structure and hierarchy changed based on optimal team composition based on surveyor dynamics
-* Re-training and refresher training for surveyors done routinely
+  * Adapted and refined the case-finding question for active and adaptive case finding
+  
+  * Shifted from EPI3 to QTR + EPI3 approach
+
+  * Door-to-door approach added as a sampling method for very small villages
+
+  * Team structure and hierarchy changed based on optimal team composition based on surveyor dynamics
+
+  * Re-training and refresher training for surveyors done routinely
 
 Survey manuals were produced for the supervisors and the surveyors which served as guides for the survey personnel for the duration of the survey process.
 
@@ -438,13 +442,19 @@ Dosso district was chosen for this investigation as the coverage result from S3M
 
 In Dosso district where the coverage was very low, even more barriers to coverage were revealed.
 
-* Even though a large majority of the communities visited did know about the CMAM programme, there were still a few villages were communities did not know about the programme and did not recognize the signs of malnutrition.
-* Communities did not know the volunteers and community mobilisation was almost non-existent.
-* Often the health centre staff did not know how to implement correctly the CMAM protocol: how many RUTF packages to give to SAM children and for how long they should be in the programme to allow recovery.
-* MUAC was also not an independent criterion of admission.
-* The screening was not systematic at the health centre level and even if screened for malnutrition, the staff would often not explain to the mothers the treatment and the schedule of appointments to follow.
-* On occasion staff would ask for money for what should be a free of charge treatment in Niger.
-* The RUTF stock outs were not frequent; however they occurred and caused interruption of CMAM services for many weeks.
+  * Even though a large majority of the communities visited did know about the CMAM programme, there were still a few villages were communities did not know about the programme and did not recognize the signs of malnutrition.
+  
+  * Communities did not know the volunteers and community mobilisation was almost non-existent.
+
+  * Often the health centre staff did not know how to implement correctly the CMAM protocol: how many RUTF packages to give to SAM children and for how long they should be in the programme to allow recovery.
+  
+  * MUAC was also not an independent criterion of admission.
+
+  * The screening was not systematic at the health centre level and even if screened for malnutrition, the staff would often not explain to the mothers the treatment and the schedule of appointments to follow.
+  
+  * On occasion staff would ask for money for what should be a free of charge treatment in Niger.
+
+  * The RUTF stock outs were not frequent; however they occurred and caused interruption of CMAM services for many weeks.
 
 Information gathered through the qualitative methods and through interviews with key stakeholders was further strengthened when the likelihood survey was conducted. Among 49 SAM children found only 9 were covered in the programme. The questionnaires administered to the mothers of SAM children further confirmed the initial findings. Besides the reasons such as distance and lack of means to pay for transportation and a heavy workload, mothers were not frequenting the centres because they were not well treated, had to pay for treatment or were not screened for malnutrition. Bayesian analysis of the prior information from the investigation and the results of the likelihood survey, a coverage of 16.4% was estimated.
 
@@ -459,7 +469,7 @@ Mapping of the proportion of children less than 6 months who were exclusively br
 
 <a name="FIG18"></a>
 **Figure 18:** Proportion of children 0 – 6 months exclusively breastfed
-![](/assets/images/nigerEXBFMap-1024x1024.png/)
+![](/assets/images/nigerEXBFMap-1024x1024.png)
 
 The overall proportion of children less than 6 months who were exclusively breastfed was 36%. This proportion was highest in Maradi region at 52% followed closely by that in Tahoua region at 50%. Dosso region had the lowest proportion of exclusively breastfed children aged less than 6 months at 13%.
 
@@ -468,7 +478,7 @@ Mapping of the proportion of children aged 6 – 24 months who continue to breas
 
 <a name="FIG19"></a>
 **Figure 19:** Proportion of children 6 – 24 months continuing breastfeeding
-![](/assets/images/nigerGoodCBFMap-1024x1024.png/)
+![](/assets/images/nigerGoodCBFMap-1024x1024.png)
 
 The overall proportion of children 6 – 24 months who continue breastfeeding was 42%. This proportion was highest in Tahoua region at 44% followed closely by that in Tillaberi region at 43% and that in Zinder region at 42%. Dosso region had the lowest proportion of children 6 – 24 months who continue breastfeeding at 36%.
 
@@ -477,7 +487,7 @@ Mapping of the proportion of children 6 – 24 months with age-appropriate dieta
 
 <a name="FIG20"></a>
 **Figure 20:** Proportion of children 6 – 24 months with age-appropriate diet diversity
-![](/assets/images/nigerGoodDDMap-1024x1024.png/)
+![](/assets/images/nigerGoodDDMap-1024x1024.png)
 
 The overall proportion of children 6 – 24 months with age-appropriate dietary diversity was 10%. This proportion was highest in Zinder region at about 13% closely followed by that in Maradi region at 12% while Tillaber region had the lowest among the regions at about 8%.
 
@@ -486,7 +496,7 @@ Mapping of the proportion of children 6 – 24 months with age-appropriate meal 
 
 <a name="FIG21"></a>
 **Figure 21:** Proportion of children 6 – 24 months with age-appropriate meal frequency
-![](/assets/images/nigerGoodMFMap-1024x1024.png/)
+![](/assets/images/nigerGoodMFMap-1024x1024.png)
 
 The overall proportion of children 6 – 24 months with age-appropriate meal frequency was 44%. Zinder region had the highest proportion at 47% and Tahoua region closely following at 46%. Dosso region was lowest at 38%.
 
@@ -495,7 +505,7 @@ Mapping of the proportion of children 6 – 24 months with ICFI score of 6 acros
 
 <a name="FIG22"></a>
 **Figure 22:** Proportion of children 6 – 24 months with ICFI score of 6
-![](/assets/images/nigerICFIMap-1024x1024.png/)
+![](/assets/images/nigerICFIMap-1024x1024.png)
 
 The overall proportion of children 6 – 24 months with ICFI score of 6 was about 8%. Maradi and Zinder regions had the highest proportion at 9% and Tillaberi region the lowest at 6%.
 
@@ -504,7 +514,7 @@ Mapping of proportion of children 0 – 24 months practising age-appropriate IYC
 
 <a name="FIG23"></a>
 **Figure 23:** Proportion of children 0 – 24 months practising good IYCF
-![](/assets/images/nigerGoodIYCFMap-1024x1024.png/)
+![](/assets/images/nigerGoodIYCFMap-1024x1024.png)
 
 The overall proportion of children 0 – 24 months practising age-appropriate IYCF was 16%. Maradi region had the highest proportion of children 0 – 24 months practising age-appropriate IYCF at 21% followed closely by Tahoua region at 20%.
 
@@ -513,7 +523,7 @@ Mapping of proportion of children 6 – 24 months with minimum dietary diversity
 
 <a name="FIG24"></a>
 **Figure 24:** Proportion of children 6 – 24 months with minimum dietary diversity
-![](/assets/images/nigerMDDMap-1024x1024.png/)
+![](/assets/images/nigerMDDMap-1024x1024.png)
 
 The overall proportion of children 6 – 24 months with minimum dietary diversity across five regions of Niger was 6%. Dosso and Zinder region had the highest proportion of children 6 – 24 months with minimum dietary diversity at 8% while Tillaberi region was the lowest at 5%.
 
@@ -522,7 +532,7 @@ Mapping of the proportion of children 6 – 24 months with minimum meal frequenc
 
 <a name="FIG25"></a>
 **Figure 25:** Proportion of children 6 – 24 months with minimum meal frequency
-![](/assets/images/nigerMMFMap-1024x1024.png/)
+![](/assets/images/nigerMMFMap-1024x1024.png)
 
 The overall proportion of children 6 – 24 months with minimum meal frequency across five regions of Niger was at 76%. Tahoua region had the highest proportion at 78% while Tillaberi and Zinder region had the lowest both at 75%.
 
@@ -531,7 +541,7 @@ Mapping of proportion of children 6 – 24 months with minimum acceptable diet a
 
 <a name="FIG26"></a>
 **Figure 26:** Proportion of children 6 – 24 months with minimum acceptable diet
-![](/assets/images/nigerMADMap-1024x1024.png/)
+![](/assets/images/nigerMADMap-1024x1024.png)
 
 The overall proportion of children 6 – 24 months with minimum acceptable diet was about 6%. Dosso region had the highest proportion among the regions at 8% while Tillaberi region had the lowest at 4%.
 
@@ -540,7 +550,7 @@ Mapping of proportion of children 6 – 24 months consuming iron-rich flesh food
 
 <a name="FIG27"></a>
 **Figure 27:** Proportion of children 6 – 24 months consuming flesh foods
-![](/assets/images/nigerIronMap-1024x1024.png/)
+![](/assets/images/nigerIronMap-1024x1024.png)
 
 The overall proportion of children 6 – 24 months consuming iron-rich flesh foods across five regions of Niger was about 19%. Dosso region had the highest proportion among regions at 26% while Tillaberi and Zinder region the lowest at 16%.
 
@@ -549,7 +559,7 @@ Mapping of the proportion of children 6 – 24 months consuming vitamin A-rich p
 
 <a name="FIG28"></a>
 **Figure 28:** Proportion of children 6 – 24 months consuming vitamin A-rich foods
-![](/assets/images/nigerVitAMap-1024x1024.png/)
+![](/assets/images/nigerVitAMap-1024x1024.png)
 
 The overall proportion of children 6 – 24 months consuming vitamin A-rich plant foods across five regions of Niger was at 13%. Tillaberi region had the highest proportion at 17% with Dosso region a close second at 16%. Tahoua region had the lowest proportion at 9%.
 
