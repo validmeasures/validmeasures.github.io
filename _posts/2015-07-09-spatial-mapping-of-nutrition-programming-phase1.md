@@ -21,8 +21,9 @@ tags:
     - Tanzania
     - Yemen
     - Zambia
+toc: true
 ---
-<p>This report provides output for Phase 1 of DFID’s spatial mapping of nutrition programming project. The overall project comprises two discrete phases and aims to better understand if and how spatial analysis can help to coordinate and co-locate nutrition relevant programmes.</p>
+This report provides output for Phase 1 of DFID’s spatial mapping of nutrition programming project. The overall project comprises two discrete phases and aims to better understand if and how spatial analysis can help to coordinate and co-locate nutrition relevant programmes.</p>
 <p>The rationale for the project is based on the recognition that cross-sector actions are essential to achieve sustained reductions in undernutrition, yet to date limited information is readily available on the spatial overlap of interventions funded by DFID and others to tackle the problem. In addition, data on the determinants of malnutrition is rarely accurately mapped and prevalence data is often only specified at regional or district level.</p>
 <p>To determine the potential and scope for spatial mapping and analysis to address these issues the focus of the initial phase was a feasibility analysis and assessment of data availability. Based on the findings a second phase will subsequently undertake a detailed country level analysis and synthesis.</p>
 <p>The results for Phase I presented here detail 1) the methods and results of a literature review on the use to date of spatial mapping techniques in nutrition programming; 2) a review of the availability of data on nutrition specific and nutrition sensitive programming; and 3) a synthesis of the two reviews and a feasibility study with recommendations to support Phase 2 of the spatial mapping agenda which will entail the development of ‘heat maps’ of intervention intensity and accuracy of programme targeting in 4 countries.</p>
