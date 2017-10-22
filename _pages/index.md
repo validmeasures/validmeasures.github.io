@@ -85,6 +85,8 @@ Our Training module provides solutions to organisations' needs on capacity build
 <br/>
 <br/>
 
+![image-center](/assets/images/shelf_hex_small.png){: .text-center}
+
 # Off-the-shelf survey products
 {: .text-center}
 We offer specialised and specific survey products that we have previously designed, developed and tested. These survey products are ready for use: rapid to setup, implement and scale up.
