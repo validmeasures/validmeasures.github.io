@@ -1,5 +1,5 @@
 ---
-title: Spatial Mapping of Nutrition Programming Phase 1
+title: Spatial Mapping of Nutrition Programming
 layout: single
 author_profile: false
 date: 2015-07-09 14:37:26.000000000 +01:00
@@ -21,64 +21,105 @@ tags:
     - Tanzania
     - Yemen
     - Zambia
-toc: true
+header:
+  overlay_image: /assets/images/decimal.png
+excerpt: Review of feasibility of geospatial analysis and mapping of nutrition programming
+sidebar:
+    - title: "Country"
+      image: /assets/images/ukaid.jpg
+      image_alt: "Spatial Mapping"
+      text: "Multiple Countries"
+    - title: "Project"
+      text: "Spatial Mapping of Nutrition Programming"
+    - title: "Client"
+      text: "UK Department for International Development"
+    - title: "Year"
+      text: "2015"
 ---
-This report provides output for Phase 1 of DFID’s spatial mapping of nutrition programming project. The overall project comprises two discrete phases and aims to better understand if and how spatial analysis can help to coordinate and co-locate nutrition relevant programmes.</p>
-<p>The rationale for the project is based on the recognition that cross-sector actions are essential to achieve sustained reductions in undernutrition, yet to date limited information is readily available on the spatial overlap of interventions funded by DFID and others to tackle the problem. In addition, data on the determinants of malnutrition is rarely accurately mapped and prevalence data is often only specified at regional or district level.</p>
-<p>To determine the potential and scope for spatial mapping and analysis to address these issues the focus of the initial phase was a feasibility analysis and assessment of data availability. Based on the findings a second phase will subsequently undertake a detailed country level analysis and synthesis.</p>
-<p>The results for Phase I presented here detail 1) the methods and results of a literature review on the use to date of spatial mapping techniques in nutrition programming; 2) a review of the availability of data on nutrition specific and nutrition sensitive programming; and 3) a synthesis of the two reviews and a feasibility study with recommendations to support Phase 2 of the spatial mapping agenda which will entail the development of ‘heat maps’ of intervention intensity and accuracy of programme targeting in 4 countries.</p>
-<p>The literature review identified two major groups of actors using spatial mapping: firstly, academic units and research institutions that often pursue an information only mandate providing national level data; secondly, typically non-governmental and UN organisations who were initially consumers, but are now increasingly becoming producers of spatial data due to the more widely available spatially-oriented and GIS-based technologies. The majority of data used in mapping comes from existing datasets and is multi-indicator.</p>
-<p>The rationale for the current use of spatial mapping for health and nutrition largely matches the key elements of a project management cycle but with particular focus on the first stage: identification of the problem, making prevalence maps by far the most common. Coverage maps have been produced recently for evaluation purposes, but as yet, on-going, active monitoring using spatial data is not widespread. The key attraction and advantage of spatial analysis to proponents is its capacity to unmask variability and show accurate, detailed and differentiated patterns on multiple indicators across a programme area in a striking visual format. This is in contrast to the limited practical value at programme planning level of the current highly aggregated data available on health and nutrition indicators. The use of spatial maps to coordinate cross sector projects is as yet infrequent (mostly matrix type) but offers the potential to identify areas of overlap between interventions as well as areas of need or ‘hotspots’, hence promoting the coherent programming and appropriate intervention, which is essential to ensure a sustainable reduction in undernutrition.</p>
-<p>Although spatial mapping is a powerful tool, case studies have demonstrated that in order to ensure that programmes are able to make effective and active use of spatial data, ‘buy-in’ and direct long-term engagement is essential at the political and practitioner level.</p>
-<p>The data review identified three mapping methods used for reporting spatial data; polygon, pixel and hybrid polygon and pixel. The polygon-based approach using small area estimation, although not providing the highest resolution, appears to be the most accessible and available and does not require other ancillary geospatial data. It is, however possible to trial model based mapping in one country during Phase 2 of the project given the availability of ancillary data for all four focus countries. This will enable a useful comparison of the output of two different methods.</p>
-<p>Based on a list of data requirements for each approach and the likely availability of that data in a given country, Tanzania, Ghana, Zambia and Yemen were selected as the focus for Phase 2. Survey and census data from nationally representative surveys is readily available for these countries with the exception of Yemen, where it is hoped this will soon be obtained. In terms of the secondary data requirements, action is needed in a few cases, particularly for a list of nutrition interventions by area for Ghana, Zambia and Yemen in order for their locations to be mapped; but otherwise much has already been obtained or requested. The relevant DFID country offices and country contacts have been provided with a checklist to retrieve and assess data to see if it can be mapped and can measure nutrition and nutrition sensitive indicators.</p>
-<p>Despite the increased interest and capacity in spatially oriented approaches they are as yet seen as peripheral or novelty methods. Programme planning and resource allocation continue to be dominated by highly aggregated results from traditional nationally representative surveys. This is underpinned by the fact that goals tend to be set at country level without taking account of in-country spatial variation. The technological shift needs to be matched by a corresponding paradigm shift in the assessment of health and nutrition achievements, with equal importance attached to spatial homogeneity of results as to national aggregates. To meet need, effective programmes must be able to identify where it is most acute and target cross sector interventions to ensure a cohesive and effective response. Spatial mapping can identify hotspots and overlap, and orient planning, implementation, monitoring and coordination of programmes. This needs to be highlighted and evidenced by leading development actors to ensure the commitment of partners to capitalise on this essentially practical tool. Moving forward with Phase 2 of this DFID project will provide an opportunity to explore and demonstrate the value of spatial mapping and engage a wide audience as well as a wide number of active participants. Ensuring coordination with existing initiatives in the focus countries is recommended as is encouraging that the (geo)location (village name) be specified for all future routine or survey data collection.<br />
-&nbsp;</p>
-<h5>Background</h5>
-<p>This report provides output of Phase 1 of DFID’s spatial mapping of nutrition programming project. Overall, the project aims to better understand if and how spatial analysis can help to coordinate and co-locate nutrition relevant programmes. The project is divided into two discrete phases. Phase 1 of the project is a feasibility analysis and data availability assessment, while Phase 2 is the detailed country level spatial data collection, analysis and synthesis.<br />
-&nbsp;</p>
-<h5>Phase 1 Objectives</h5>
-<p>Phase 1 of the project aims to assess the feasibility of the application of spatial mapping to programming nutrition. Specifically, phase 1 aims to answer the following questions:</p>
-<ul>
-<li>What examples (in published or ‘grey’ literature exist) of where spatial mapping techniques have been applied to nutrition programme planning or evaluation? What was the aim of these initiatives? What are the key lessons from the experience of applying these techniques to nutrition to date? What other approaches have been used to deliberately support geographical coherence of nutrition programming?</li>
-<li>To what extent is spatial data on nutrition specific and nutrition sensitive programming available in the areas selected? With what level of granularity is this information available?</li>
-<li>To what extent is spatial data on undernutrition (stunting and wasting) prevalence available?</li>
-<li>What relevant spatial data sets are available, which map immediate or underlying determinants of undernutrition?</li>
-</ul>
-<p>&nbsp;</p>
-<h5>Organisation of the Report</h5>
-<p>This report is divided into three chapters based on the key deliverables expected from Phase 1 as stated in the project’s Terms of Reference (see Annex 1).</p>
-<p>The first chapter addresses objective 1 of Phase 1 and describes the methods and results of the literature review conducted. The second chapter addresses objectives 2 to 4 of Phase 1 and presents the approach and results of the data review performed. The third chapter provides a synthesis of the literature review and data review as well as an assessment of the feasibility of Phase 2 of the project, setting out recommendations for actions and future data needs required to support the agenda of spatial mapping of nutrition programming.</p>
-<p>&nbsp;</p>
-<h5>Chapter 1: Literature Review</h5>
-<h6>1.1 Introduction</h6>
-<p>Nutrition is multi-dimensional and multi-causal (UNICEF, 1990). Programmes and interventions that aim to reduce malnutrition, therefore, require multi-sectoral action. The Scaling Up Nutrition (SUN) movement provides a good example of this multi-sectoral action in its work to promote the effective implementation of both specific actions for nutrition<sup><a href="#fn1" id="ref1">1</a></sup> and nutrition-sensitive strategies<sup><a href="#fn2" id="ref2">2</a></sup> (SUN Movement, 2011; 2014).</p>
-<p>As such, measuring the impact of malnutrition reduction programmes and interventions requires demonstrating whether or not nutrition, nutrition-related and nutrition-sensitive programming are implemented in a concerted and coherent manner. The spatial dimension – geographical location, scope and scale – of nutrition programming coherence is an important aspect that contributes to this impact.</p>
-<p>This literature review aims to lay a knowledge base on existing (past and current) approaches to the use of spatial mapping for nutrition and nutrition-sensitive programming and to see why and how it may be useful. Specifically, this literature review will answer the following questions:</p>
-<ul>
-<li>What examples can be found (in published or ‘grey’ literature) in which spatial mapping techniques have been applied to nutrition programme planning or evaluation?</li>
-<li>What was the aim of these initiatives?</li>
-<li>What are the key lessons from the experience of applying these techniques to nutrition to date?</li>
-<li>What other approaches have been used to deliberately support geographical coherence of nutrition programming?</li>
-</ul>
-<p>&nbsp;</p>
-<h6>1.2 Methods of the Literature Review</h6>
-<p>We applied a meta-narrative framework to this literature review similar to that implemented by Collins and Hayes (Collins &amp; Hayes, 2010), because we expected considerable heterogeneity among the techniques and initiatives on spatial mapping as applied to nutrition programming. Our meta-narrative approach does not, in the strictest sense, follow the classical meta-narrative approach as described by Greenhalgh and colleagues (Greenhalgh, Robert, Macfarlane, et al., 2004) when they pioneered the method as an alternative to standard systematic reviews in assessing a topic of interest that would entail reviewing mixed literature (i.e., qualitative vs. quantitative, technical and policy-orientated).</p>
-<p>The first stage of the literature review is a wide search for published literature produced in the past 10 years using search words ‘spatial’, ‘spatial mapping’, ‘health’ and ‘nutrition’ on Scopus.<sup><a href="#fn3" id="ref3">3</a></sup> The addition of ‘health’ widens the search to the use of spatial mapping on health topics related to nutrition. The purpose of the first stage search is to cast a wide net across the database of published literature on any articles related to spatial mapping in relation to health and nutrition. The first stage also aims to collect literature that gives an overview of technical and methodological approaches to spatial mapping and provides information on what types of data to look for in the data review (see Methods section of data review chapter).</p>
-<p>The second stage of the literature review uses the wide search of the first stage as a reference point to identify and list key programmes / proponents / actors relevant to spatial mapping and the organisations that fund them. Further review has been done through an Internet search to obtain additional information on the programmes / proponents / actors based on the list created from the first stage, which included the aims / objectives of, and key lessons learned from, these initiatives on spatial mapping. <a href="#FIG1">Figure 1</a> presents the general algorithm used for the literature review of Phase 1 of the project.</p>
-<p>&nbsp;<br />
-<a id="FIG1"></a><br />
-<strong>Figure 1:</strong> Literature review algorithim<br />
-<a href="http://www.validmeasures.org/wp-content/uploads/2015/07/Figure1-e1439212064678.png"><img class="aligncenter size-full wp-image-1246" src="{{ site.baseurl }}/assets/Figure1-e1439212064678.png" alt="Figure1" width="300" height="604" /></a></p>
-<p>&nbsp;</p>
-<h6>1.3 Results</h6>
-<p><a href="#TAB1">Table 1</a> presents the results of Stage 2 of the literature review summarising the various key programmes / proponents / actors on spatial mapping on health and nutrition and indicating their aims / objectives for spatial mapping and the key lessons to date on their work. </p>
-<p><strong>1.3.1 Key programmes / Proponents / Actors</strong><br />
-From the literature review, there seem to be two general types of programmes or actors involved in spatial mapping on health and nutrition and related factors. The first type can be described as organisations that aim to provide information or serve as information portals on maps of indicators or data of interest related to health and nutrition, but do not necessarily take action or intervene themselves in relation to the maps that they produce. These organisations are either academic research units with a very focused and narrow set of indicators or data and a specific spatial mapping component to their research agenda; or institutions that are not purely academic (though they may have academic links) but are research- or data-orientated and conduct large-scale, national surveys across various indicators or hold large national or sub-national datasets. These organisations in general have great internal capacity and expertise on spatial mapping. Examples of these are the International Food Policy Research Institute (IFPRI), the Demographic and Health Surveys Program (DHS Program), Famine Early Warning Systems Network (FEWS NET), Food and Agriculture Organisation (FAO), Spatial Epidemiology Unit of the KEMRI-Wellcome Trust research programme, the Global Atlas of Helminth Infections (GAHI), and the Malaria Atlas Project (MAP) of the Spatial Epidemiology and Ecology Group (SEEG) of the Department of Zoology, University of Oxford to name a few (see <a href="#TAB1">Table 1</a>).</p>
-<p>The second type of programmes or actors can be described as organisations that are active consumers of information or data that come from their own research or surveys or routine programme monitoring and from secondary sources (such as those from the first type) in order to inform and guide the design, planning and implementation of their projects. In relation to spatial mapping, they may have their own in-house expertise (i.e., geographic information systems or GIS specialists, epidemiologists) but would generally require external third-party support for their spatial mapping requirements. Some of these organisations are non-governmental organisations (NGOs), UN organisations and funders. This literature review found examples from World Vision International and Concern Worldwide, UNICEF, particularly the country office in Sudan, Ethiopia and Niger, USAID particularly in Nepal, DFID and the World Bank.</p>
-<p>However, this difference between the two types of organisations in terms of capacity and expertise on spatial mapping is rapidly disappearing. This is attributable to disruptive technologies related to mapping that have allowed for the lowering of capital and start-up costs for producing decent spatially-orientated and GISrelated products, which in turn has made these technologies ubiquitous and widely-used. Spatially orientated data is becoming cheaper to collect and therefore becoming more readily available than previously. So, those oranisations of the second type – consumers – are becoming less reliant on the outputs of the research groups or institutions, and are able to produce their own map products specific to their needs. As spatial analysis and mapping techniques become more accessible to programme providers and funders, so their utility and the possibilities for cross-sectoral coordination in their use increase. The role of the academic and research groups then becomes more of the originator of new approaches and methods to spatial mapping that improve both spatial resolution and spatial analytics.</p>
-<p><a id="TAB1"></a><br />
-<strong>Table 1</strong>: Summary of key programmes / proponents / actors</p>
+{% include toc icon="gears" title="Contents" %}
+This report provides output for Phase 1 of DFID’s spatial mapping of nutrition programming project. The overall project comprises two discrete phases and aims to better understand if and how spatial analysis can help to coordinate and co-locate nutrition relevant programmes.
+
+The rationale for the project is based on the recognition that cross-sector actions are essential to achieve sustained reductions in undernutrition, yet to date limited information is readily available on the spatial overlap of interventions funded by DFID and others to tackle the problem. In addition, data on the determinants of malnutrition is rarely accurately mapped and prevalence data is often only specified at regional or district level.
+
+To determine the potential and scope for spatial mapping and analysis to address these issues the focus of the initial phase was a feasibility analysis and assessment of data availability. Based on the findings a second phase will subsequently undertake a detailed country level analysis and synthesis.
+
+The results for Phase I presented here detail 1) the methods and results of a literature review on the use to date of spatial mapping techniques in nutrition programming; 2) a review of the availability of data on nutrition specific and nutrition sensitive programming; and 3) a synthesis of the two reviews and a feasibility study with recommendations to support Phase 2 of the spatial mapping agenda which will entail the development of ‘heat maps’ of intervention intensity and accuracy of programme targeting in 4 countries.
+
+The literature review identified two major groups of actors using spatial mapping: firstly, academic units and research institutions that often pursue an information only mandate providing national level data; secondly, typically non-governmental and UN organisations who were initially consumers, but are now increasingly becoming producers of spatial data due to the more widely available spatially-oriented and GIS-based technologies. The majority of data used in mapping comes from existing datasets and is multi-indicator.
+
+The rationale for the current use of spatial mapping for health and nutrition largely matches the key elements of a project management cycle but with particular focus on the first stage: identification of the problem, making prevalence maps by far the most common. Coverage maps have been produced recently for evaluation purposes, but as yet, on-going, active monitoring using spatial data is not widespread. The key attraction and advantage of spatial analysis to proponents is its capacity to unmask variability and show accurate, detailed and differentiated patterns on multiple indicators across a programme area in a striking visual format. This is in contrast to the limited practical value at programme planning level of the current highly aggregated data available on health and nutrition indicators. The use of spatial maps to coordinate cross sector projects is as yet infrequent (mostly matrix type) but offers the potential to identify areas of overlap between interventions as well as areas of need or ‘hotspots’, hence promoting the coherent programming and appropriate intervention, which is essential to ensure a sustainable reduction in undernutrition.
+
+Although spatial mapping is a powerful tool, case studies have demonstrated that in order to ensure that programmes are able to make effective and active use of spatial data, ‘buy-in’ and direct long-term engagement is essential at the political and practitioner level.
+
+The data review identified three mapping methods used for reporting spatial data; polygon, pixel and hybrid polygon and pixel. The polygon-based approach using small area estimation, although not providing the highest resolution, appears to be the most accessible and available and does not require other ancillary geospatial data. It is, however possible to trial model based mapping in one country during Phase 2 of the project given the availability of ancillary data for all four focus countries. This will enable a useful comparison of the output of two different methods.
+
+Based on a list of data requirements for each approach and the likely availability of that data in a given country, Tanzania, Ghana, Zambia and Yemen were selected as the focus for Phase 2. Survey and census data from nationally representative surveys is readily available for these countries with the exception of Yemen, where it is hoped this will soon be obtained. In terms of the secondary data requirements, action is needed in a few cases, particularly for a list of nutrition interventions by area for Ghana, Zambia and Yemen in order for their locations to be mapped; but otherwise much has already been obtained or requested. The relevant DFID country offices and country contacts have been provided with a checklist to retrieve and assess data to see if it can be mapped and can measure nutrition and nutrition sensitive indicators.
+
+Despite the increased interest and capacity in spatially oriented approaches they are as yet seen as peripheral or novelty methods. Programme planning and resource allocation continue to be dominated by highly aggregated results from traditional nationally representative surveys. This is underpinned by the fact that goals tend to be set at country level without taking account of in-country spatial variation. The technological shift needs to be matched by a corresponding paradigm shift in the assessment of health and nutrition achievements, with equal importance attached to spatial homogeneity of results as to national aggregates. To meet need, effective programmes must be able to identify where it is most acute and target cross sector interventions to ensure a cohesive and effective response. Spatial mapping can identify hotspots and overlap, and orient planning, implementation, monitoring and coordination of programmes. This needs to be highlighted and evidenced by leading development actors to ensure the commitment of partners to capitalise on this essentially practical tool. Moving forward with Phase 2 of this DFID project will provide an opportunity to explore and demonstrate the value of spatial mapping and engage a wide audience as well as a wide number of active participants. Ensuring coordination with existing initiatives in the focus countries is recommended as is encouraging that the (geo)location (village name) be specified for all future routine or survey data collection.
+
+
+## Background
+This report provides output of Phase 1 of DFID’s spatial mapping of nutrition programming project. Overall, the project aims to better understand if and how spatial analysis can help to coordinate and co-locate nutrition relevant programmes. The project is divided into two discrete phases. Phase 1 of the project is a feasibility analysis and data availability assessment, while Phase 2 is the detailed country level spatial data collection, analysis and synthesis.
+
+
+## Phase 1 Objectives
+Phase 1 of the project aims to assess the feasibility of the application of spatial mapping to programming nutrition. Specifically, phase 1 aims to answer the following questions:
+
+  * What examples (in published or ‘grey’ literature exist) of where spatial mapping techniques have been applied to nutrition programme planning or evaluation? What was the aim of these initiatives? What are the key lessons from the experience of applying these techniques to nutrition to date? What other approaches have been used to deliberately support geographical coherence of nutrition programming?
+
+  * To what extent is spatial data on nutrition specific and nutrition sensitive programming available in the areas selected? With what level of granularity is this information available?
+
+  * To what extent is spatial data on undernutrition (stunting and wasting) prevalence available?
+
+  * What relevant spatial data sets are available, which map immediate or underlying determinants of undernutrition?
+
+
+## Organisation of the Report
+This report is divided into three chapters based on the key deliverables expected from Phase 1 as stated in the project’s Terms of Reference (see Annex 1).
+
+The first chapter addresses objective 1 of Phase 1 and describes the methods and results of the literature review conducted. The second chapter addresses objectives 2 to 4 of Phase 1 and presents the approach and results of the data review performed. The third chapter provides a synthesis of the literature review and data review as well as an assessment of the feasibility of Phase 2 of the project, setting out recommendations for actions and future data needs required to support the agenda of spatial mapping of nutrition programming.
+
+
+## Chapter 1: Literature Review
+
+### 1.1 Introduction
+Nutrition is multi-dimensional and multi-causal (UNICEF, 1990). Programmes and interventions that aim to reduce malnutrition, therefore, require multi-sectoral action. The Scaling Up Nutrition (SUN) movement provides a good example of this multi-sectoral action in its work to promote the effective implementation of both specific actions for nutrition<sup><a href="#fn1" id="ref1">1</a></sup> and nutrition-sensitive strategies<sup><a href="#fn2" id="ref2">2</a></sup> (SUN Movement, 2011; 2014).
+
+As such, measuring the impact of malnutrition reduction programmes and interventions requires demonstrating whether or not nutrition, nutrition-related and nutrition-sensitive programming are implemented in a concerted and coherent manner. The spatial dimension – geographical location, scope and scale – of nutrition programming coherence is an important aspect that contributes to this impact.
+
+This literature review aims to lay a knowledge base on existing (past and current) approaches to the use of spatial mapping for nutrition and nutrition-sensitive programming and to see why and how it may be useful. Specifically, this literature review will answer the following questions:
+
+  * What examples can be found (in published or ‘grey’ literature) in which spatial mapping techniques have been applied to nutrition programme planning or evaluation?
+  
+  * What was the aim of these initiatives?
+
+  * What are the key lessons from the experience of applying these techniques to nutrition to date?
+
+  * What other approaches have been used to deliberately support geographical coherence of nutrition programming?
+
+### 1.2 Methods of the Literature Review
+We applied a meta-narrative framework to this literature review similar to that implemented by Collins and Hayes (Collins &amp; Hayes, 2010), because we expected considerable heterogeneity among the techniques and initiatives on spatial mapping as applied to nutrition programming. Our meta-narrative approach does not, in the strictest sense, follow the classical meta-narrative approach as described by Greenhalgh and colleagues (Greenhalgh, Robert, Macfarlane, et al., 2004) when they pioneered the method as an alternative to standard systematic reviews in assessing a topic of interest that would entail reviewing mixed literature (i.e., qualitative vs. quantitative, technical and policy-orientated).
+
+The first stage of the literature review is a wide search for published literature produced in the past 10 years using search words ‘spatial’, ‘spatial mapping’, ‘health’ and ‘nutrition’ on Scopus.<sup><a href="#fn3" id="ref3">3</a></sup> The addition of ‘health’ widens the search to the use of spatial mapping on health topics related to nutrition. The purpose of the first stage search is to cast a wide net across the database of published literature on any articles related to spatial mapping in relation to health and nutrition. The first stage also aims to collect literature that gives an overview of technical and methodological approaches to spatial mapping and provides information on what types of data to look for in the data review (see Methods section of data review chapter).
+
+The second stage of the literature review uses the wide search of the first stage as a reference point to identify and list key programmes / proponents / actors relevant to spatial mapping and the organisations that fund them. Further review has been done through an Internet search to obtain additional information on the programmes / proponents / actors based on the list created from the first stage, which included the aims / objectives of, and key lessons learned from, these initiatives on spatial mapping. <a href="#FIG1">Figure 1</a> presents the general algorithm used for the literature review of Phase 1 of the project.
+
+<a id="FIG1"></a>
+**Figure 1:** Literature review algorithim
+![](/assets/images/Figure1-e1439212064678.png)
+
+### 1.3 Results
+<a href="#TAB1">Table 1</a> presents the results of Stage 2 of the literature review summarising the various key programmes / proponents / actors on spatial mapping on health and nutrition and indicating their aims / objectives for spatial mapping and the key lessons to date on their work.
+
+#### 1.3.1 Key programmes / Proponents / Actors</strong>
+From the literature review, there seem to be two general types of programmes or actors involved in spatial mapping on health and nutrition and related factors. The first type can be described as organisations that aim to provide information or serve as information portals on maps of indicators or data of interest related to health and nutrition, but do not necessarily take action or intervene themselves in relation to the maps that they produce. These organisations are either academic research units with a very focused and narrow set of indicators or data and a specific spatial mapping component to their research agenda; or institutions that are not purely academic (though they may have academic links) but are research- or data-orientated and conduct large-scale, national surveys across various indicators or hold large national or sub-national datasets. These organisations in general have great internal capacity and expertise on spatial mapping. Examples of these are the International Food Policy Research Institute (IFPRI), the Demographic and Health Surveys Program (DHS Program), Famine Early Warning Systems Network (FEWS NET), Food and Agriculture Organisation (FAO), Spatial Epidemiology Unit of the KEMRI-Wellcome Trust research programme, the Global Atlas of Helminth Infections (GAHI), and the Malaria Atlas Project (MAP) of the Spatial Epidemiology and Ecology Group (SEEG) of the Department of Zoology, University of Oxford to name a few (see <a href="#TAB1">Table 1</a>).
+
+The second type of programmes or actors can be described as organisations that are active consumers of information or data that come from their own research or surveys or routine programme monitoring and from secondary sources (such as those from the first type) in order to inform and guide the design, planning and implementation of their projects. In relation to spatial mapping, they may have their own in-house expertise (i.e., geographic information systems or GIS specialists, epidemiologists) but would generally require external third-party support for their spatial mapping requirements. Some of these organisations are non-governmental organisations (NGOs), UN organisations and funders. This literature review found examples from World Vision International and Concern Worldwide, UNICEF, particularly the country office in Sudan, Ethiopia and Niger, USAID particularly in Nepal, DFID and the World Bank.
+
+However, this difference between the two types of organisations in terms of capacity and expertise on spatial mapping is rapidly disappearing. This is attributable to disruptive technologies related to mapping that have allowed for the lowering of capital and start-up costs for producing decent spatially-orientated and GISrelated products, which in turn has made these technologies ubiquitous and widely-used. Spatially orientated data is becoming cheaper to collect and therefore becoming more readily available than previously. So, those oranisations of the second type – consumers – are becoming less reliant on the outputs of the research groups or institutions, and are able to produce their own map products specific to their needs. As spatial analysis and mapping techniques become more accessible to programme providers and funders, so their utility and the possibilities for cross-sectoral coordination in their use increase. The role of the academic and research groups then becomes more of the originator of new approaches and methods to spatial mapping that improve both spatial resolution and spatial analytics.
+
+<a id="TAB1"></a>
+**Table 1:** Summary of key programmes / proponents / actors
 <table>
 <tr>
 <th>
@@ -95,26 +136,26 @@ From the literature review, there seem to be two general types of programmes or 
 </th>
 </tr>
 <tr>
-<td>Nutrition Mapping in Tanzania (Simler, 2006)<br />
-International Food Policy Research Institute (IFPRI)<br />
-Food Consumption and Nutrition Division<br />
+<td>Nutrition Mapping in Tanzania (Simler, 2006)
+International Food Policy Research Institute (IFPRI)
+Food Consumption and Nutrition Division
 <a href="http://www.ifpri.org/">http://www.ifpri.org</a></td>
 <td>Rockefeller Foundation</td>
 <td>Tanzania</td>
 <td>Produce high resolution undernutrition maps of Tanzania that unmask the high within-country variability that exists, including pockets of severe undernutrition or “hunger hot spots”</td>
 </tr>
 <tr>
-<td>Atlas of African Agriculture Research and Development (IFPRI, 2014)<br />
-       International Food Policy Research Institute (IFPRI)<br />
+<td>Atlas of African Agriculture Research and Development (IFPRI, 2014)
+       International Food Policy Research Institute (IFPRI)
         <a href="http://agatlas.org/">http://agatlas.org</a></td>
 <td>Bill and Melinda Gates Foundations, HarvestChoice, CGIAR Consortium for Spatial Information, CGIAR Research Program on Climate Change, Agriculture and Food Security</td>
 <td>Countries in Africa</td>
-<td>Provide a picture of the increasingly diverse geospatial data resources to inform work and guide decision-making on agricultural development in Africa.<br />
-&nbsp;<br />
+<td>Provide a picture of the increasingly diverse geospatial data resources to inform work and guide decision-making on agricultural development in Africa.
+
 Provide a better understanding of current and evolving growing conditions and how to increase productivity, despite obstacles, in order to aid in tailoring more pragmatic solutions for poor smallholder farmers</td>
 </tr>
 <tr>
-<td>Vulnerability Analysis and Mapping (VAM) Food Security Atlas<br />
+<td>Vulnerability Analysis and Mapping (VAM) Food Security Atlas
         World Food Programme <a href="http://www.foodsecurityatlas.org/">http://www.foodsecurityatlas.org</a></td>
 <td>ECHO, DFID, GTZ, CIDA, Citigroup Foundation, Danish government, French government</td>
 <td>WFP countries</td>
@@ -127,7 +168,7 @@ Provide a better understanding of current and evolving growing conditions and ho
 <td>Provide objective, evidence-based analysis to help government decision-makers and relief agencies plan for and respond to humanitarian crises</td>
 </tr>
 <tr>
-<td>Spatial information management for food and agriculture Food and Agriculture Organisation (FAO)<br />
+<td>Spatial information management for food and agriculture Food and Agriculture Organisation (FAO)
 <a href="http://www.fao.org/spatl/index_en.asp">http://www.fao.org/spatl/index_en.asp</a></td>
 <td>&nbsp;</td>
 <td>FAO countries</td>
@@ -148,7 +189,7 @@ Food and Agriculture Organisation (FAO)
 <td>Coordinate interventions in humanitarian emergencies by identifying overlaps and gaps in humanitarian aid delivery using mapped information</td>
 </tr>
 <tr>
-<td>mHealth with GIS vulnerability modelling World Vision in partnership with ESRI <a href="http://www.wvi.org/health/mhealth-gishttp://www.cgu.edu/pages/9417.asp">http://www.wvi.org/health/<br />
+<td>mHealth with GIS vulnerability modelling World Vision in partnership with ESRI <a href="http://www.wvi.org/health/mhealth-gishttp://www.cgu.edu/pages/9417.asp">http://www.wvi.org/health/
 mhealth-gishttp://www.cgu.edu</a></td>
 <td>&nbsp;</td>
 <td>Senegal, Mali, Ghana, Sierra Leone, Tanzania, Peru</td>
@@ -163,7 +204,7 @@ mhealth-gishttp://www.cgu.edu</a></td>
 <td>Share and analyse information using maps and images. Improve program design and management, achieve results, secure more development funds, and improve communication and collaboration among stakeholders</td>
 </tr>
 <tr>
-<td> Spatial Data Repository The DHS Program<br />
+<td> Spatial Data Repository The DHS Program
 <a href="http://spatialdata.dhsprogram.com/index.html">http://spatialdata.dhsprogram.com/index.html</a>
     </td>
 <td>USAID</td>
@@ -171,27 +212,27 @@ mhealth-gishttp://www.cgu.edu</a></td>
 <td>Provide geographically-linked health and demographic data from The DHS Program and the U.S. Census Bureau for mapping in a geographic information system (GIS)</td>
 </tr>
 <tr>
-<td>Mapping for results initiative (Gigler, Tanner & Kiess, 2011)<br />
+<td>Mapping for results initiative (Gigler, Tanner & Kiess, 2011)
 The World Bank <a href="http://maps.worldbank.org/maps/">http://maps.worldbank.org/maps/</a></td>
 <td>The World Bank</td>
 <td>World Bank countries</td>
-<td>Better monitor their impact on people; Improve aid effectiveness and coordination;<br />
-Enhance transparency and social accountability;<br />
+<td>Better monitor their impact on people; Improve aid effectiveness and coordination;
+Enhance transparency and social accountability;
 Empower citizens and other stakeholders to provide direct feedback on project results</td>
 </tr>
 <tr>
-<td>Sudan Simple Spatial Sampling Method (S3M) Survey<br />
+<td>Sudan Simple Spatial Sampling Method (S3M) Survey
 Sudan Federal Ministry of Health, UNICEF, Brixton Health, Valid International</td>
 <td>DFID, Government of Japan, Government of France, Government of Denmark, Government of Switzerland, OFDA</td>
 <td>Sudan</td>
-<td>Obtain data for basic health, WASH and nutrition indicators for small areas (at sub-locality level) to allow mapping of results to show geographical areas of highest need and ‘hot-spots’<br />
+<td>Obtain data for basic health, WASH and nutrition indicators for small areas (at sub-locality level) to allow mapping of results to show geographical areas of highest need and ‘hot-spots’
 Enable better targeting of existing interventions and will inform program expansion.</td>
 </tr>
 <tr>
 <td>Niger CMAM Coverage Survey using S3M Institute of National Statistics, UNICEF, Valid International</td>
 <td>UNICEF Niger</td>
 <td>5 regions of Niger</td>
-<td>Produce high resolution map of CMAM coverage in 5 regions of Niger<br />
+<td>Produce high resolution map of CMAM coverage in 5 regions of Niger
 Produce high resolution map of IYCF indicators in 5 regions of Niger</td>
 </tr>
 <tr>
@@ -220,7 +261,7 @@ Produce high resolution map of IYCF indicators in 5 regions of Niger</td>
 </tr>
 <tr>
 <td>Coverage of nutritional porridge in three districts of Eastern Region, Ghana Global Alliance for Improved Nutrition (GAIN) and Valid International</td>
-<td>USAID<br />
+<td>USAID
 JICA<br />
 Ajinomoto Co. Inc.
       </td>
@@ -228,55 +269,64 @@ Ajinomoto Co. Inc.
 <td>Produce high resolution maps of nutritional porridge coverage in three districts, Eastern Region, Ghana</td>
 </tr>
 <tr>
-<td>Spatial Epidemiology Unit KEMRI-Wellcome Trust Research Programme <a href="http://www.kemri- wellcome.org/index.php/en/study_page/17">http://www.kemri- wellcome.org/<br />
-index.php/en/study_page/17</a>
+<td>Spatial Epidemiology Unit KEMRI-Wellcome Trust Research Programme <a href="http://www.kemri- wellcome.org/index.php/en/study_page/17">http://www.kemri- wellcome.org/index.php/en/study_page/17</a>
       </td>
 <td>Wellcome Trust, UNICEF, DFID, PMI</td>
 <td>Kenya, Tanzania, Uganda, Malawi, the Republic of Sudan, Djibouti, Somalia, Namibia, Madagascar and Nigeria</td>
 <td>Assembling, modelling and mapping of diverse malariometric data at regional scale and at national level in several countries. Use novel methodologies in model-based geo-statistics to provide maps of malaria parasite prevalence defined in space and over time; improve the interpretability of imperfect malaria case incidence data derived from Health Information Systems; develop high resolution mapping of vector control intervention coverage to define biologically targeted future resource needs; use as a monitoring tool to gauge the progress of malaria control and elimination within and across national borders.</td>
 </tr>
 <tr>
-<td>Malaria Atlas Project Spatial Ecology and Epidemiology Group Department of Zoology, University of Oxford<br />
-<a href="http://www.map.ox.ac.uk">http://www.map.ox.ac.uk</a><br />
+<td>Malaria Atlas Project Spatial Ecology and Epidemiology Group Department of Zoology, University of Oxford
+<a href="http://www.map.ox.ac.uk">http://www.map.ox.ac.uk</a>
 <a href="http://www.seeg.zoo.ox.ac.uk">http://www.seeg.zoo.ox.ac.uk></a></td>
-<td>Global Fund to Fight AIDS, Tuberculosis and Malaria<br />
+<td>Global Fund to Fight AIDS, Tuberculosis and Malaria
 University of Oxford-Li Ka Shing Foundation Global Health Programme<br />
-The Government of the Republic of Namibia<br />
-The Government of the Republic of Kenya and the Kenya Medical Research Institute<br />
+The Government of the Republic of Namibia
+The Government of the Republic of Kenya and the Kenya Medical Research Institute
 UNICEF-Somalia and DFID- Somalia
       </td>
 <td>Worldwide</td>
 <td>Produce a comprehensive range of maps and estimates that will support effective planning of malaria control at national and international scales</td>
 </tr>
-<td>Global Atlas of Helminth Infections (GAHI) London School of Tropical Medicine and Hygiene<br />
+<td>Global Atlas of Helminth Infections (GAHI) London School of Tropical Medicine and Hygiene
 <a href="http://www.thiswormyworld.org">http://www.thiswormyworld.org</a></td>
-<td>Wellcome Trust<br />
+<td>Wellcome Trust
 Bill and Melinda Gates Foundation</td>
 <td>Worldwide</td>
 <td>GAHI shows the geographical distribution of neglected tropical diseases transmitted by worms: soil-transmitted helminthiasis, schistosomiasis, and lymphatic filariasis.</td>
 </table>
-<p>&nbsp;<br />
-<strong>1.3.2 Aims / Objectives of Proponents of Spatial Mapping</strong><br />
-There generally seem to be four inter-related aims / objectives for the different proponents of spatial mapping.</p>
-<ol>
-<li>Quantify and locate the problem or issue, or the condition or situation that is of interest and that is being assessed, and represent it in a map that illustrates the differences by location</li>
-<li>Produce maps that inform and guide and support the design, planning and implementation of an appropriate intervention or programme</li>
-<li>Use the maps as a monitoring tool to show either progress or success or non-progress or failure which would inform changes or revisions or improvements to the programme or intervention</li>
-<li>Use the maps to coordinate projects / interventions</li>
-</ol>
-<p>All these aims / objectives are typical elements of a programme management cycle that includes identification of the problem or description of the situation, planning, design and implementation of a programme, monitoring and then evaluation.</p>
-<p>A common sentiment (either stated explicitly or implicitly) behind these aims / objectives is that current available data on health and nutrition indicators of interest are too highly aggregated to be truly useful in programme design, planning, implementation and monitoring. This highlights a key advantage of spatial data: its capacity to unmask variability and show accurate, detailed and differentiated variation and patterns in indicators across a wide programme area, and thus enable a more tailored design, focused planning, effective implementation and targeted monitoring.</p>
-<p>The type of spatial maps currently produced reflect the nature of the proponents and the aims listed above.</p>
-<p>The academic and institutional type of proponents of spatial mapping tend to work towards the quantification and location objective (objective 1 above), i.e. mapping the problem or condition or situation, so that those responsible for and relevant in addressing these issues are able to achieve the other aims / objectives.</p>
-<p>NGOs, UN organisations and funders may also produce maps that quantify a problem but these are used more to inform programme planning (objective 2) or to evaluate the success of an intervention (objective 3).</p>
-<p>Examples of these types of outputs are prevalence and coverage maps depicted respectively in sections<br />
-<a href="#Prev">1.3.2.1</a> and <a href="#Cov">1.3.2.2</a></p>
-<p>The active use of maps as an on-going monitoring tool to continually inform programme revision is, as yet, limited to specific NGOs and funders. An example is shown in section <a href="#Rev">1.3.2.3</a></p>
-<p>Finally, proponents who by the nature of their organisation act as coordinating bodies appear to be the only ones who as yet create maps to coordinate interventions (objective 4). Examples of these, which are most commonly of a tabular type, can be found in section <a href="#Pro">1.3.2.4</a></p>
-<p><a id="Prev"></a><br />
-<em><strong>1.3.2.1 Prevalence Maps</strong></em><br />
-Production of prevalence maps is probably the most common usage of spatial mapping, the main goal being to identify where the problems are. Following are some examples of prevalence maps of indicators on nutrition and nutrition-sensitive programming. These maps illustrate the prevalence for undernutrition, soil transmitted helminths, and infant and young child feeding and exclusive breastfeeding practices.</p>
-<p><em><strong>Prevalence of Undernutrition</strong></em><br />
+
+#### 1.3.2 Aims / Objectives of Proponents of Spatial Mapping
+There generally seem to be four inter-related aims / objectives for the different proponents of spatial mapping.
+
+   1. Quantify and locate the problem or issue, or the condition or situation that is of interest and that is being assessed, and represent it in a map that illustrates the differences by location
+
+   2. Produce maps that inform and guide and support the design, planning and implementation of an appropriate intervention or programme
+
+   3. Use the maps as a monitoring tool to show either progress or success or non-progress or failure which would inform changes or revisions or improvements to the programme or intervention
+
+   4. Use the maps to coordinate projects / interventions
+
+
+All these aims / objectives are typical elements of a programme management cycle that includes identification of the problem or description of the situation, planning, design and implementation of a programme, monitoring and then evaluation.
+
+A common sentiment (either stated explicitly or implicitly) behind these aims / objectives is that current available data on health and nutrition indicators of interest are too highly aggregated to be truly useful in programme design, planning, implementation and monitoring. This highlights a key advantage of spatial data: its capacity to unmask variability and show accurate, detailed and differentiated variation and patterns in indicators across a wide programme area, and thus enable a more tailored design, focused planning, effective implementation and targeted monitoring.
+
+The type of spatial maps currently produced reflect the nature of the proponents and the aims listed above.
+
+The academic and institutional type of proponents of spatial mapping tend to work towards the quantification and location objective (objective 1 above), i.e. mapping the problem or condition or situation, so that those responsible for and relevant in addressing these issues are able to achieve the other aims / objectives.
+
+NGOs, UN organisations and funders may also produce maps that quantify a problem but these are used more to inform programme planning (objective 2) or to evaluate the success of an intervention (objective 3).
+
+Examples of these types of outputs are prevalence and coverage maps depicted respectively in sections <a href="#Prev">1.3.2.1</a> and <a href="#Cov">1.3.2.2</a> The active use of maps as an on-going monitoring tool to continually inform programme revision is, as yet, limited to specific NGOs and funders. An example is shown in section <a href="#Rev">1.3.2.3</a>
+
+Finally, proponents who by the nature of their organisation act as coordinating bodies appear to be the only ones who as yet create maps to coordinate interventions (objective 4). Examples of these, which are most commonly of a tabular type, can be found in section <a href="#Pro">1.3.2.4</a>
+
+<a id="Prev"></a>
+##### 1.3.2.1 Prevalence Maps</strong>
+Production of prevalence maps is probably the most common usage of spatial mapping, the main goal being to identify where the problems are. Following are some examples of prevalence maps of indicators on nutrition and nutrition-sensitive programming. These maps illustrate the prevalence for undernutrition, soil transmitted helminths, and infant and young child feeding and exclusive breastfeeding practices.
+
+**Prevalence of Undernutrition**
 Simler (2006) of IFPRI claims to have been the first to produce a map of undernutrition for a country in Africa that reported results at much smaller area units (district level and lower) compared to the typical regional level results provided by standard surveys such as the DHS (Simler, 2006). He mapped the levels of stunting and underweight at the district and ward level in Tanzania (see <a href="#Map1">Map 1</a>), using small area estimation techniques (Ghosh &amp; Rao, 1994; Rao, 2003) previously used to map income and poverty (Elbers, Lanjouw &amp; Lanjouw, 2003; Hentschel, Lanjouw, Lanjouw, et al., 1998). Simler noted distinct spatial patterns between districts and wards that would have been hidden from only regional results reported by the DHS (Simler, 2006).</p>
 <p>In 2005, the Center for International Earth Science Information Network (CIESIN) of Columbia University published a global map of small area estimates of childhood underweight using data available from various surveys conducted at the time (see <a href="#Map2">Map 2</a>).</p>
 <p>&nbsp;<br />

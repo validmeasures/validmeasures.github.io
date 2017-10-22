@@ -10,7 +10,7 @@ categories: []
 tags: []
 header:
   overlay_image: /assets/images/standard.png
-  caption: "Ice Cream map design by ©Mapbox"
+  caption: "Standard map design by ©Mapbox"
 ---
 <form action="https://formspree.io/admin@validmeasures.org" method="POST" id="contact_form">
 
