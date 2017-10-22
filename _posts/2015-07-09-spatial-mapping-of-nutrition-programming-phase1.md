@@ -1,76 +1,26 @@
 ---
-layout: single
 title: Spatial Mapping of Nutrition Programming Phase 1
+layout: single
+author_profile: false
 date: 2015-07-09 14:37:26.000000000 +01:00
 type: posts
 published: true
 status: publish
 categories:
-- Metrics
-- Projects
+    - Metrics
+    - Projects
 tags:
-- DFID
-- health
-- mapping
-- MQSUN
-- nutrition
-- scaling up nutrition
-- Somalia
-- spatial
-- Tanzania
-- Yemen
-- Zambia
-meta:
-  _oembed_3abe04c5e705eef05a4343f82c8221ca: "{{unknown}}"
-  _edit_last: '1'
-  spacious_page_layout: default_layout
-  _jetpack_related_posts_cache: a:1:{s:32:"8f6677c9d6b0f903e98ad32ec61f8deb";a:2:{s:7:"expires";i:1506315255;s:7:"payload";a:3:{i:0;a:1:{s:2:"id";i:471;}i:1;a:1:{s:2:"id";i:1113;}i:2;a:1:{s:2:"id";i:483;}}}}
-  _oembed_7fdeddd63fa550a03b31616f4942e093: "{{unknown}}"
-  _wpas_done_all: '1'
-  _oembed_0abcae7547e1faefd7d35b006dc73d58: "{{unknown}}"
-  _oembed_9361695e1b25fac728a77fde2588b0e9: "{{unknown}}"
-  _oembed_d1e1f94162d23f94a84598c245105809: "{{unknown}}"
-  _oembed_c0254384d1fead3859f19f45a100307f: "{{unknown}}"
-  _oembed_e06055981e07955c1ffd471a52ce75d6: "{{unknown}}"
-  _oembed_fb9f44a2b2d3c730edddfea6d2d413bd: "{{unknown}}"
-  _oembed_82f6b05b8c48920e4da419b7336a7d5b: "{{unknown}}"
-  _oembed_3c90d5e5db1ddbb0e8671a83e1fffa54: "{{unknown}}"
-  _oembed_82ac1872cd0382391d16db8d8c78ab60: "{{unknown}}"
-  _oembed_b742bf46f6150fd156ede8bb11cc4868: "{{unknown}}"
-  _oembed_e46da53c3235162b8ea8c3726e516661: "{{unknown}}"
-  _oembed_b20a1ca557c2def95b3b6af78561f108: "{{unknown}}"
-  _oembed_e3a0a01ff0ed83edc1770f2edb822863: "{{unknown}}"
-  _oembed_463c5f6469fd62fab9e209f0174e2e0f: '<blockquote data-secret="p309SPiZKD"
-    class="wp-embedded-content"><a href="http://www.ophi.org.uk/policy/">Policy</a></blockquote><iframe
-    class="wp-embedded-content" sandbox="allow-scripts" security="restricted" style="position:
-    absolute; clip: rect(1px, 1px, 1px, 1px);" src="http://www.ophi.org.uk/policy/embed/#?secret=p309SPiZKD"
-    data-secret="p309SPiZKD" width="600" height="338" title="&#8220;Policy&#8221;
-    &#8212; OPHI" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"></iframe>'
-  _oembed_time_463c5f6469fd62fab9e209f0174e2e0f: '1476025624'
-  _thumbnail_id: '2272'
-  _oembed_9d7b9f1c04bda128be215e4291aaeaf1: <blockquote data-secret="QUGXK5RiTg" class="wp-embedded-content"><a
-    href="http://www.ophi.org.uk/policy/">Policy</a></blockquote><iframe class="wp-embedded-content"
-    sandbox="allow-scripts" security="restricted" style="display:none;" src="http://www.ophi.org.uk/policy/embed/#?secret=QUGXK5RiTg"
-    data-secret="QUGXK5RiTg" width="584" height="329" title="Embedded WordPress Post"
-    frameborder="0" marginwidth="0" marginheight="0" scrolling="no"></iframe>
-  _wp_old_slug: spatial-mapping-of-nutrition-programming-project-phase1
-  _oembed_time_9d7b9f1c04bda128be215e4291aaeaf1: '1454430678'
-  _oembed_9871a40f5e0334345f808f4d4a9b8277: "{{unknown}}"
-  _oembed_6a08c10e9dda8faedbdfbe666ffd5640: "{{unknown}}"
-  _oembed_00c267701c51d0a156aeb778aed373e3: "{{unknown}}"
-  _oembed_fd99600401209d05461438552c93300f: "{{unknown}}"
-  _oembed_022d05141925015464315580b7003b5b: "{{unknown}}"
-  _oembed_a1319fe416d45d17529bac4bc5f66b44: "{{unknown}}"
-  _oembed_e555a57ef1d18a694468d0417d78704e: "{{unknown}}"
-  _jetpack_dont_email_post_to_subs: '1'
-  _wpas_skip_14056684: '1'
-  _wpas_skip_14236406: '1'
-author:
-  login: admin
-  email: ernest@validmeasures.org
-  display_name: admin
-  first_name: ''
-  last_name: ''
+    - DFID
+    - health
+    - mapping
+    - MQSUN
+    - nutrition
+    - scaling up nutrition
+    - Somalia
+    - spatial
+    - Tanzania
+    - Yemen
+    - Zambia
 ---
 <p>This report provides output for Phase 1 of DFID’s spatial mapping of nutrition programming project. The overall project comprises two discrete phases and aims to better understand if and how spatial analysis can help to coordinate and co-locate nutrition relevant programmes.</p>
 <p>The rationale for the project is based on the recognition that cross-sector actions are essential to achieve sustained reductions in undernutrition, yet to date limited information is readily available on the spatial overlap of interventions funded by DFID and others to tackle the problem. In addition, data on the determinants of malnutrition is rarely accurately mapped and prevalence data is often only specified at regional or district level.</p>
