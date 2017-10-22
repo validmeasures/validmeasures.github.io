@@ -15,8 +15,8 @@ name                     : "Valid Measures"
 description              : "Metrics, analytics and technology unit of Valid International"
 url                      : https://validmeasures.github.io
 baseurl                  : # the subpath of your site, e.g. "/blog"
-repository               : validmeasures
-teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
+repository               : validmeasures.github.io
+teaser                   : /assets/images/logo_web.png
 breadcrumbs              : true # true, false (default)
 words_per_minute         : 200
 comments:
@@ -83,11 +83,11 @@ analytics:
 
 # Site Author
 author:
-  name             : "Valid Measures"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Metrics, analytics and technology unit of Valid International"
-  location         : "Oxford"
-  email            : admin@validmeasures.org 
+  name             : Valid International
+  avatar           : /assets/images/logo_web.png
+  bio              : 
+  location         : Oxford, United Kingdom
+  email            : office@validinternational.org 
   uri              :
   bitbucket        :
   codepen          :
