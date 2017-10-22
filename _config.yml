@@ -13,7 +13,7 @@ title                    : ""
 title_separator          : "|"
 name                     : "Valid Measures"
 description              : "Metrics, analytics and technology unit of Valid International"
-url                      : https://validmeasures.github.io
+url                      : https://www.validmeasures.org
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : validmeasures.github.io
 teaser                   : /assets/images/logo_web.png
@@ -76,9 +76,9 @@ social:
 
 # Analytics
 analytics:
-  provider               : false # false (default), "google", "google-universal", "custom"
+  provider               : "google" # false (default), "google", "google-universal", "custom"
   google:
-    tracking_id          :
+    tracking_id          : UA-108435301-1
 
 
 # Site Author
