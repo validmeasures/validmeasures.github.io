@@ -85,7 +85,7 @@ Our Training module provides solutions to organisations' needs on capacity build
 <br/>
 <br/>
 
-![image-center](/assets/images/shelf_hex_small.png){: .text-center}
+![image-center](/assets/images/shelf_hex_small.png){: .align-center}
 
 # Off-the-shelf survey products
 {: .text-center}
