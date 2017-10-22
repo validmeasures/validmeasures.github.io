@@ -16,7 +16,7 @@ description              : "Metrics, analytics and technology unit of Valid Inte
 url                      : https://www.validmeasures.org
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : validmeasures.github.io
-teaser                   : /assets/images/logo_web.png
+teaser                   : 
 breadcrumbs              : true # true, false (default)
 words_per_minute         : 200
 comments:
