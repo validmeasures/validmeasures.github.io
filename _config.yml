@@ -11,8 +11,8 @@ minimal_mistakes_skin    : "valid" # "air", "contrast", "dark", "dirt", "mint", 
 locale                   : "en-GB"
 title                    : ""
 title_separator          : "|"
-name                     : "Valid Measures"
-description              : "Metrics, analytics and technology unit of Valid International"
+name                     : "Valid International"
+description              : "Innovative surveys for rapid, low-cost and high impact assessments"
 url                      : https://www.validmeasures.org
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : validmeasures.github.io
