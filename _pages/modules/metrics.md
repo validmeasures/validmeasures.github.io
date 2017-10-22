@@ -42,7 +42,6 @@ sidebar:
   nav: "menu"
 ---
 {% include toc icon="gears" title="Contents" %}
-
 Our ***[Metrics](https://validmeasures.github.io/modules/metrics/)*** module provides solutions to questions on ***what indicators to measure*** and ***how they can be measured***. We offer services on ***indicators development***, ***assessment design*** and ***assessment implementation***.
 
 These services leverage Valid International's experience and expertise drawn from a long history of innovation that includes the development of indicators and methods for the assessment of coverage of community-based management of acute malnutrition (CMAM), highly-scalable spatial survey methods that can be used to measure and map multiple indicators and assessment methods that utilise small sample sizes and can be implemented rapidly and repeatedly over time across a wide range of indicators.
