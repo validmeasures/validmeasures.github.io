@@ -47,12 +47,12 @@ gallery3:
 
 <br/>
 
-# Why use SQUEAC
+## Why use SQUEAC
 SQUEAC is a highly flexible investigative technique that generates new information to build upon the clients pre-existing knowledge in an iterative process. Valid's innovation through SQUEAC is providing a framework by which to query existing data, to iterate on various lines of enquiry, to triangulate these information from various sources collected through different methods and organise them through concept maps of cause/effects and barriers/boosters, and to leverage this rich knowledge set in lowering sample size requirements for any new survey data collection process. This is made possible through our use of Bayesian analysis to maximise the value of both prior knowledge and information and new survey data, thereby reducing sample size and data collection requirements.
 
 <br/>
 
-# SQUEAC outputs
+## SQUEAC outputs
 {% include gallery id="gallery1" class="full" caption="The SQUEAC approach" %}
 
 <br/>
@@ -61,12 +61,16 @@ SQUEAC is a highly flexible investigative technique that generates new informati
 
 <br/>
 
-# Case study: SQUEAC to investigate defaulting in a malnutrition treatment programme
+## Case study: SQUEAC to investigate defaulting in a malnutrition treatment programme
 A malnutrition treatment programme in a state in northern Nigeria had been suffering from low coverage since its inception and was facing high levels of defaulting from the programme before patients had been cured. Valid designed a bespoke SQUEAC investigation to look into the reasons behind these problems. The investigation took 10 days of fieldwork to complete.
 
 {% include gallery id="gallery3" class="full" caption="Map of programme defaulter locations" %}
 
 The investigation identified the following key issues negatively impacting defaulting rates: 1) poor service provision; 2) poor record keeping and database maintenance; 3) lack of active case finding and social mobilisation activities; 4) poor relationship and lack of communication between clinic staff and community volunteers; and, 5) poor access to services due to distance or lack of resources or both.
+
+<br/>
+
+<iframe width="800" height="400" frameborder="0" scrolling="no" seamless src="https://validmeasures.org/charts/reasons-defaulting.html"></iframe>
 
 <br/>
 <br/>
