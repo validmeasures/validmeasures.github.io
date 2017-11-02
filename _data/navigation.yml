@@ -14,7 +14,7 @@ menu:
     url: /
   - title: "About"
     url: /about/
-  - title: "Modules"
+  - title: "Services"
     children:
       - title: "Metrics"
         url: /modules/metrics/
@@ -26,7 +26,5 @@ menu:
         url: /modules/training/  
   - title: "Projects"
     url: /projects/
-  - title: "Maps"
-    url: http://www.validmeasures.org/maps
   - title: "Contact"
     url: /contact/
