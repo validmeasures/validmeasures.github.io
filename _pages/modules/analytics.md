@@ -20,8 +20,6 @@ sidebar:
 ---
 {% include toc icon="gears" title="Contents" %}
 
-Our ***[Analytics](https://validmeasures.github.io/modules/analytics/)*** module supports the interpretation of the metrics and provides explanations to why the metrics are the way they are. We offer services on ***data analysis*** and on ***data visualisation***.
-
 We harness the advantages of classical but non-mainstream analytical techniques such as ***lot quality assurance sampling (LQAS)***, ***PROBIT function analysis*** and ***Bayesian analysis*** and computational techniques such as bootstrapping and resampling. All these techniques offer significant cost savings because they require or use small sample sizes.
 
 We also specialise in ***geospatial sampling*** and ***geospatial analysis***.

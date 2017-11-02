@@ -18,9 +18,6 @@ sidebar:
   nav: "menu"
 ---
 {% include toc icon="gears" title="Contents" %}
-The Training module covers questions on what capacity is needed, how to build an organisation's capacity, and how to sustain the organisation capacity for assessments.
-
-This is a cross-cutting module that covers all the training needs across the metrics, analytics and technology modules.
 
 [Valid International](http://www.validinternational.org) has produced various training materials to support its development of the various metrics, analytics and technology modules. These training materials together with training support from our cadre of assessment experts provide a robust learning framework for those who want to be proficient with the approaches, techniques and tools that we have on offer.
 

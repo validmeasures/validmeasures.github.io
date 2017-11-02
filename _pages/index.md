@@ -23,12 +23,11 @@ We offer modules on metrics, analytics, technology and training for assessments 
 
 <br/>
 <br/>
-<br/>
 
-# Metrics
-Our Metrics module provides solutions to questions on what indicators to measure and how they can be measured. We offer services on indicators development, assessment design and assessment implementation.
+# The right survey methods for the right indicators
+Our **metrics** services provide solutions to designing the right indicators measured with the appropriate survey design implemented with an efficient data collection process to answer your information needs.
 
-[Review our metrics services](/modules/metrics/){: .btn .btn--primary .btn--large}
+[More on metrics](/modules/metrics/){: .btn .btn--metrics}
 
 <br/>
 <br/>
@@ -42,10 +41,10 @@ Our Metrics module provides solutions to questions on what indicators to measure
 <br/>
 <br/>
 
-# Analytics
-Our Analytics module supports the interpretation of the metrics and provides explanations to why the metrics are the way they are. We offer services on data analysis and on data visualisation.
+# Robust and state-of-the-science analytics
+Our **analytics** services provide robust solutions that provide indicator estimates using small sample sizes allowing for spatially disaggregated results and repeated measures over time. 
 
-[See our analytics services](/modules/analytics/){: .btn .btn--primary .btn--large}
+[More on analytics](/modules/analytics/){: .btn .btn--analytics}
 
 <br/>
 <br/>
@@ -57,12 +56,11 @@ Our Analytics module supports the interpretation of the metrics and provides exp
 
 <br/>
 <br/>
-<br/>
 
-# Technology
-Our Technology module addresses needs for tools to use for data systems and frameworks that sustain organisation data use. We provide services on data management systems and software tools and applications development.
+# The right tools for the job
+Our **technology** services provide solutions that make the whole survey process efficient from systems for data collection and management to software for data analysis, visualisation and reporting.
 
-[View our technology services](/modules/technology/){: .btn .btn--primary .btn--large}
+[More on technology](/modules/technology/){: .btn .btn--technology}
 
 <br/>
 <br/>
@@ -74,12 +72,11 @@ Our Technology module addresses needs for tools to use for data systems and fram
 
 <br/>
 <br/>
-<br/>
 
-# Training
-Our Training module provides solutions to organisations' needs on capacity building for assessments. This is a cross-cutting module that covers all the training needs across the metrics, analytics; and technology modules.
+# Learning from the experts
+Our **training** services provide solutions for learning the Valid approach to assessments. We offer training packages delivered by our experts and using bespoke training tools that cover training needs across our metrics, analytics; and technology services.
 
-[Find training resources](/modules/training/){: .btn .btn--primary .btn--large}
+[More on training](/modules/training/){: .btn .btn--training}
 
 <br/>
 <br/>
@@ -92,7 +89,7 @@ Our Training module provides solutions to organisations' needs on capacity build
 We offer specialised and specific survey products that we have previously designed, developed and tested. These survey products are ready for use: rapid to setup, implement and scale up.
 {: .text-center}
 
-[Browse our previous work](/projects/){: .btn .btn--inverse .btn--large}
+[Browse our survey products](/projects/){: .btn .btn--danger}   [Contact us for your survey needs](/contact/){: .btn .btn--warning}
 {: .text-center}
 
 <br/>
@@ -104,9 +101,8 @@ We offer specialised and specific survey products that we have previously design
 The services we offer can be utilised individually or as linked services depending on your specific needs. Our survey services can be developed and applied bespoke to an organisation's assessment needs and requirements.
 {: .text-center}
 
-[Contact us for your survey needs](/contact/){: .btn .btn--inverse .btn--large}
+[Browse our previous work](/projects/){: .btn .btn--danger}   [Contact us for your survey needs](/contact/){: .btn .btn--warning}
 {: .text-center}
-
 
 <br/>
 <br/>
