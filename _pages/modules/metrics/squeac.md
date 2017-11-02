@@ -29,7 +29,7 @@ header:
   caption: "SQUEAC investigation into defaulting in Northern Nigeria"
 ---
 
-[Semi-quantitative evaluation of access and coverage (SQUEAC)](https://validmeasures.github.io/modules/metrics/squeac/) is a method that provides an in-depth analysis of barriers and boosters to coverage. It is designed for use as a regular service monitoring tool through the intelligent use of routine monitoring data complemented by other relevant data that are collected on a “little and often” basis.
+[Semi-quantitative evaluation of access and coverage (SQUEAC)](https://validmeasures.org/modules/metrics/squeac/) is a method that provides an in-depth analysis of barriers and boosters to coverage. It is designed for use as a regular service monitoring tool through the intelligent use of routine monitoring data complemented by other relevant data that are collected on a “little and often” basis.
 
 <br/>
 
