@@ -1,7 +1,7 @@
 ---
 title: SQUEAC
 layout: single
-permalink: /modules/metrics/squeac
+permalink: /modules/metrics/squeac/
 date: 2014-10-28 00:25:28.000000000 +00:00
 type: pages
 published: true
