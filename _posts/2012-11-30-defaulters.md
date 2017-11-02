@@ -120,15 +120,15 @@ It should be noted however that the number of children who fulfilled discharge c
 
 <a name="FIG3"></a>
 **Figure 3:** MUAC at admission of cured cases from August to November in Gombe LGA
-<iframe width="800" height="400" frameborder="0" scrolling="no" seamless src="http://www.validmeasures.org/charts/muac-at-admission-6.html"></iframe>
+<iframe width="800" height="400" frameborder="0" scrolling="no" seamless src="https://validmeasures.org/charts/muac-at-admission-6.html"></iframe>
 
 <a name="FIG4"></a>
 **Figure 4:** MUAC at admission of defaulters from August to November in Dukku LGA
-<iframe width="800" height="400" frameborder="0" scrolling="no" seamless src="http://www.validmeasures.org/charts/muac-at-admission-7.html"></iframe>
+<iframe width="800" height="400" frameborder="0" scrolling="no" seamless src="https://validmeasures.org/charts/muac-at-admission-7.html"></iframe>
 
 <a name="FIG5"></a>
 **Figure 5:** MUAC at admission of cured cases from August to November in Dukku LGA
-<iframe width="800" height="400" frameborder="0" scrolling="no" seamless src="http://www.validmeasures.org/charts/muac-at-admission-8.html"></iframe>
+<iframe width="800" height="400" frameborder="0" scrolling="no" seamless src="https://validmeasures.org/charts/muac-at-admission-8.html"></iframe>
 
 #### Time-to-default
 An analysis of the number of visits to the programme indicated that most children defaulted by their second visit ([Figure 6](#FIG6) and [Figure 7](#FIG7)), with as many as 41% defaulting after the first visit. This tendency remains unchanged since the previous SQUEAC in 2010. For comparison, the children discharged cured stayed in the programme from between four and ten weeks, with most staying no longer than five weeks.
@@ -139,22 +139,22 @@ Defaulting in early stages, combined with the fact that many defaulters present 
 
 <a name="FIG6"></a>
 **Figure 6:** Time-to-default from August to November 2012 in Gombe LGA
-<iframe width="800" height="400" frameborder="0" scrolling="no" seamless src="http://www.validmeasures.org/charts/time-to-default-4.html"></iframe>
+<iframe width="800" height="400" frameborder="0" scrolling="no" seamless src="https://validmeasures.org/charts/time-to-default-4.html"></iframe>
 
 <a name="FIG7"></a>
 **Figure 7:** Time-to-default from August to November 2012 in Dukku LGA
-<iframe width="800" height="400" frameborder="0" scrolling="no" seamless src="http://www.validmeasures.org/charts/time-to-default-5.html"></iframe>
+<iframe width="800" height="400" frameborder="0" scrolling="no" seamless src="https://validmeasures.org/charts/time-to-default-5.html"></iframe>
 
 #### Time-to-travel
 It was commonly assumed by OTP staff in Dukku and Gombe that distance was the major problem and reason for defaulting. Many beneficiaries come from outside their catchment area and were thought to be those who default. A time-to-travel analysis ([Figure 8](#FIG8) and [Figure 9](#FIG9)), however, revealed that the majority of defaulters in Gombe came from the areas closest to the OTP with carers needing less than 30 minutes to reach the OTP. In Dukku many defaulters also came from nearby, particularly in Malala OTP, which is urban. In other OTPs defaulters came from villages further away and the time to travel was increased because of the challenging terrain. This suggests that distance is a bigger factor in Dukku than in Gombe but that it is not the only reason for defaulting (see qualitative investigation).
 
 <a name="FIG8"></a>
 **Figure 8:** Time-to-travel for defaulters from August to November 2012 in Gombe LGA
-<iframe width="800" height="400" frameborder="0" scrolling="no" seamless src="http://www.validmeasures.org/charts/time-to-travel-3.html"></iframe>
+<iframe width="800" height="400" frameborder="0" scrolling="no" seamless src="https://validmeasures.org/charts/time-to-travel-3.html"></iframe>
 
 <a name="FIG9"></a>
 **Figure 8:** Time-to-travel for defaulters from August to November 2012 in Dukku LGA
-<iframe width="800" height="400" frameborder="0" scrolling="no" seamless src="http://www.validmeasures.org/charts/time-to-travel-4.html"></iframe>
+<iframe width="800" height="400" frameborder="0" scrolling="no" seamless src="https://validmeasures.org/charts/time-to-travel-4.html"></iframe>
 
 
 #### MUAC on default
@@ -162,11 +162,11 @@ An analysis of the MUAC on the last visit before defaulting revealed that, compa
 
 <a name="FIG10"></a>
 **Figure 10:** MUAC at default from August to November 2012 in Gombe LGA
-<iframe width="800" height="400" frameborder="0" scrolling="no" seamless src="http://www.validmeasures.org/charts/muac-at-default-1.html"></iframe>
+<iframe width="800" height="400" frameborder="0" scrolling="no" seamless src="https://validmeasures.org/charts/muac-at-default-1.html"></iframe>
 
 <a name="FIG11"></a>
 **Figure 11:** MUAC at default from August to November 2012 in Dukku LGA
-<iframe width="800" height="400" frameborder="0" scrolling="no" seamless src="http://www.validmeasures.org/charts/muac-at-default-2.html"></iframe>
+<iframe width="800" height="400" frameborder="0" scrolling="no" seamless src="https://validmeasures.org/charts/muac-at-default-2.html"></iframe>
 
 The home locations of defaulters from August to November 2012 were mapped ([Figure 12](#FIG12) and [Figure 13](#FIG13)) and the analysis of the spatial distribution supports the time to travel evidence that the majority of defaulters in Dukku and Gombe actually live close to the urban OTP sites, but further away from OTPs in rural areas (Zange and Dakkoro OTP).
 
@@ -210,7 +210,7 @@ The most common reason given by carers of defaulters who were interviewed about 
 
 <a name="FIG14"></a>
 **Figure 14:** Reasons for defaulting among 35 defaulters traced in Gombe and Dukku LGA
-<iframe width="800" height="400" frameborder="0" scrolling="no" seamless src="http://www.validmeasures.org/charts/reasons-defaulting.html"></iframe>
+<iframe width="800" height="400" frameborder="0" scrolling="no" seamless src="https://validmeasures.org/charts/reasons-defaulting.html"></iframe>
 
 Another major direct reason cited by mothers to stop coming was that the child didn’t eat the RUTF – either because they weren’t able to swallow, didn’t like it or vomited when fed. If the child vomited, the mothers felt that the RUTF gave the child another sickness and decided it wasn’t good for them. This is the result of service failure and OTP staff not communicating key messages to the carers. Children are breastfed for a long time and besides breastfeeding, their main source of nutrition is pulp, which mothers normally make by mixing millet and water. Mothers sometimes feed their children RUTF straight after feeding them pulp, when the child is already full and thus vomits or refuses to eat. Rather than frequent feeds of smaller quantities, mothers try to feed children large quantities in one go, rushing and forcing the child to eat. One of the key messages that staff are supposed to give is that RUTF contains everything a child needs to recover and should be given before any other food – except breast milk. While some OTPs give health education talks on clinic days and tell mothers how to feed their children, others do not. On exit interviews with new beneficiaries it was also found that sometimes mothers are not only not told about the RUTF and feeding practices, but are also not given information on how much RUTF they should give to the child every day. A few times mothers were told to come back after the child finished all the RUTF and some mothers reported not coming to the clinic on the weeks they still had some RUTF left at home. Clear messages on the importance and reasons for a child coming back each week are not being given. In addition, the appetite tests are not being conducted in some OTPs, while in others they are conducted inappropriately – in large groups without proper explanation of what to do in case the child doesn’t swallow. This could also mean that children who should be admitted to the stabilisation centre for in-patient care are not being identified.
 
