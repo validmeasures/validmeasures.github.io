@@ -116,7 +116,7 @@ It should be noted however that the number of children who fulfilled discharge c
 
 <a name="FIG2"></a>
 **Figure 2:** MUAC at admission of defaulters from August to November in Gombe LGA
-<iframe width="800" height="400" frameborder="0" scrolling="no" seamless src="http://www.validmeasures.org/charts/muac-at-admission-5.html"></iframe>
+<iframe width="800" height="400" frameborder="0" scrolling="no" seamless src="https://validmeasures.org/charts/muac-at-admission-5.html"></iframe>
 
 <a name="FIG3"></a>
 **Figure 3:** MUAC at admission of cured cases from August to November in Gombe LGA
