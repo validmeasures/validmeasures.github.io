@@ -12,47 +12,61 @@ tags:
     - Bayesian
     - boosters
     - CMAM
-    - CMAM coverage
-    - community-based management of acute malnutrition
+    - coverage
     - concept map
     - coverage map
     - investigation
     - routine monitoring data
-    - Semi-quantitative evaluation of access and coverage
     - small area surveys
     - small studies
     - small surveys
     - SQUEAC
-    - toolkit
 header:
   overlay_image: /assets/images/defaultersNigeriaHi.png
   caption: "SQUEAC investigation into defaulting in Northern Nigeria"
+excerpt: Semi-quantitative Evaluation of Access and Coverage
+gallery1:
+    - url: /assets/images/flowchartSQUEACgeneral.png
+      image_path: /assets/images/flowchartSQUEACgeneral.png
+      alt: "SQUEAC approach"
+      title: "The SQUEAC approach"
+gallery2:
+    - url: /assets/images/coverage6.png
+      image_path: /assets/images/coverage6.png
+      alt: "SQUEAC Concept Map"
+      title: "Concept map produced from a SQUEAC investigation of a CMAM programme"
+gallery3:
+    - url: /assets/images/defaultersNigeriaHi.png
+      image_path: /assets/images/defaultersNigeriaHi.png
+      alt: "Defaulters Map"
+      title: "Map of programme defaulter locations"
 ---
+{% include toc icon="gears" title="Contents" %}
 
-[Semi-quantitative evaluation of access and coverage (SQUEAC)](https://validmeasures.org/modules/metrics/squeac/) is a method that provides an in-depth analysis of barriers and boosters to coverage. It is designed for use as a regular service monitoring tool through the intelligent use of routine monitoring data complemented by other relevant data that are collected on a “little and often” basis.
-
-<br/>
-
-## Design
-SQUEAC is more an investigation than a survey. SQUEAC is made up of three stages:
-
-**Stage 1:** Semi-quantitative investigation into factors affecting coverage. This is carried out using the SQUEAC toolkit, which is a set of simple and rapid tools and methods for collecting and analysing data related to coverage. Stage 1 will typically identify barriers to coverage and investigate the spatial pattern of coverage. Stage 1 alone is capable of providing a great deal of information about coverage that may be used to reform the service.
-
-**Stage 2:** Confirm areas of high and low coverage and other hypotheses relating to coverage identified in stage 1 through small studies, small surveys, and small-area surveys.
-
-**Stage 3:** Estimate overall coverage using Bayesian techniques. A likelihood survey is conducted as part of this stage. This survey utilises a two-stage sampling design. The first stage is a systematic spatial sample. The second stage is an active and adaptive case-finding. This two-stage sampling design is the same as with all other coverage survey methods described in this document. Stage 3 is optional and is done if the reporting of an overall coverage estimate is a key information requirement in addition to the rich information on barriers and boosters to coverage already gained from stages 1 and 2.
+[Semi-quantitative evaluation of access and coverage (SQUEAC)](https://validmeasures.org/modules/metrics/squeac/) is a framework to investigate operational issues affecting organisations trying to provide services or products to target markets. SQUEAC combines data collected from multiple sources by a variety of qualitative and quantitative methods, in a way that allows clients to improve programme design.
 
 <br/>
 
-## Results
-SQUEAC provides the following results:
+# Why use SQUEAC
+SQUEAC is a highly flexible investigative technique that generates new information to build upon the clients pre-existing knowledge in an iterative process. Valid's innovation through SQUEAC is providing a framework by which to query existing data, to iterate on various lines of enquiry, to triangulate these information from various sources collected through different methods and organise them through concept maps of cause/effects and barriers/boosters, and to leverage this rich knowledge set in lowering sample size requirements for any new survey data collection process. This is made possible through our use of Bayesian analysis to maximise the value of both prior knowledge and information and new survey data, thereby reducing sample size and data collection requirements.
 
-- Concept map of barriers and boosters to coverage
-- Coverage map using small area surveys through a “risk mapping” approach
-- Estimation of coverage proportion using Bayesian techniques
+<br/>
 
-Figure 1 shows the relations between factors influencing coverage and effectiveness in a MoH-delivered CMAM service in Sierra Leone.
+# SQUEAC outputs
+{% include gallery id="gallery1" class="full" caption="The SQUEAC approach" %}
 
-**Figure 1:** Concept map showing relation between factors influencing coverage and effectiveness produced by a SQUEAC assessment
+<br/>
 
-![](/assets/images/squeac1.png)
+{% include gallery id="gallery2" class="full" caption="Concept map produced from a SQUEAC investigation of a CMAM programme" %}
+
+<br/>
+
+# Case study: SQUEAC to investigate defaulting in a malnutrition treatment programme
+A malnutrition treatment programme in a state in northern Nigeria had been suffering from low coverage since its inception and was facing high levels of defaulting from the programme before patients had been cured. Valid designed a bespoke SQUEAC investigation to look into the reasons behind these problems. The investigation took 10 days of fieldwork to complete.
+
+{% include gallery id="gallery3" class="full" caption="Map of programme defaulter locations" %}
+
+The investigation identified the following key issues negatively impacting defaulting rates: 1) poor service provision; 2) poor record keeping and database maintenance; 3) lack of active case finding and social mobilisation activities; 4) poor relationship and lack of communication between clinic staff and community volunteers; and, 5) poor access to services due to distance or lack of resources or both.
+
+<br/>
+<br/>
