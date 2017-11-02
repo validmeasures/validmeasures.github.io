@@ -17,21 +17,22 @@ tags:
     - Semi-quantitative evaluation of access and coverage
     - SQUEAC
 header:
-  overlay_image: /assets/images/defaultersNigeriaHi.png/
+  overlay_image: /assets/images/defaultersNigeriaHi.png
 excerpt: Use of SQUEAC to investigate defaulting in CMAM programmes in Northern Nigeria
 sidebar:
     - title: "Country"
-      image: /assets/images/pepsi.png/
+      image: /assets/images/test-gmb.png
       image_alt: "Nigeria"
       text: "Nigeria"
     - title: "Project"
       text: "Defaulting in CMAM programmes in Northern Nigeria"
     - title: "Client"
-      text: "Pepsico Foundation"
+      text: "Gombe State, Nigeria"
     - title: "Year"
       text: "2012"
 ---
 {% include toc icon="gears" title="Contents" %}
+
 In 2009, the Gombe state Ministry of Health (MoH) with technical assistance from [Valid International](http://www.validinternational.org) and UNICEF initiated Community-based Management of Acute Malnutrition (CMAM) programming in three local government areas (LGA): Gombe, Dukku and Nafada.
 
 Although admission numbers have been impressive, from the outset health facilities have also consistently reported high levels of defaulting, sometimes as much as 50% of the total programme exits. The serious, early and widespread nature of defaulting across the CMAM programmes in the state was confirmed by a Semi-Quantitative Evaluation of Access and Coverage (SQUEAC) investigation in March 2010[^1]. The defaulter problem was further elucidated by a programme review conducted by Mandalazi[^2]<sup>,</sup>[^3] and a review of health facility data in July 2012[^4].
@@ -56,7 +57,7 @@ More specifically, the investigation aimed to:
   * Provide recommendations based on findings to reduce defaulting
 
 ## Methodology
-The investigator applied SQUEAC as the main investigative framework. As such, the approach was semi-quantitative in nature and utilised existing and available datasets and information on defaulting from which to build upon furhter investigation. Specifically, the investigator used the following available datasets / information:
+The investigator applied SQUEAC as the main investigative framework. As such, the approach was semi-quantitative in nature and utilised existing and available datasets and information on defaulting from which to build upon further investigation. Specifically, the investigator used the following available datasets / information:
 
   * SQUEAC investigation 2010[^1]
 
@@ -95,7 +96,7 @@ Routine data on admissions at Gombe state level was incomplete and of questionab
 
 <a name="FIG1"></a>
 **Figure 1:** Defaulting rates in Gombe LGA between March and September 2012 compared to the seasonal calendar
-![](/assets/images/defaulters01-1024x519.png/)
+![](/assets/images/defaulters01-1024x519.png)
 
 In Gombe LGA, the OTPs were out of stock during January and February 2012 and the first admissions were not registered until   the 8th and 9th week of the year. The overall average default rate for the period between calendar weeks 10 and 39 was 46%, which is consistent with what was observed during the 2010 SQUEAC in Gombe[^1] and never dropped below 24% (see [Figure 1](#FIG1)). The defaulting rate after the first month of resumed admissions in March was very high, reaching 100%. This was because the OTPs just started operating again and there were no discharged cured children at that point.
 
@@ -171,13 +172,13 @@ The home locations of defaulters from August to November 2012 were mapped ([Figu
 
 <a name="FIG12"></a>
 **Figure 12:** Defaulter mapping in Gombe LGA
-![](/assets/images/defaultersNigeriaHi.png/)
+![](/assets/images/defaultersNigeriaHi.png)
 
 The map for Gombe ([Figure 12](#FIG12)) was created using Google Earth[^8] due to unavailability of good quality map of Gombe. Mapped are 124 children who defaulted in Gombe LGA between August and November 2012; the size of the circles is proportional to the number of defaulted children (the bigger the circle, the higher the number of defaulters it represents), with different colours representing different OTPs. From around 90 children that couldn’t be mapped about 50 came from outside of Gombe LGA. For about 40 children from Gombe town there is no accurate information on which quarter within Gombe town they live in, which could explain why there is so much empty space in the centre of the map. The map shows however, that the defaulters come primarily from peripheral quarters in Gombe town and that they are not always brought to the nearest OTP. The reason for this could be either because the carers are not aware that there is an OTP closer to them that offers this service or because of (dis)satisfaction with the service provision in some OTPs. Beneficiaries mentioned both reasons during our investigation. Kagarawal, Anguwa Uku and Malay Inna settlements in Gombe (all three lie next to each other and there is no visible border between them) stood out for having a particularly high number of defaulters, representing around 20% of all defaulters in Gombe LGA. These areas are under Tudu Wada OTP catchment. This area in north-eastern part of Gombe metroplis is also characterized by security issues – two army raids were conducted here during our stay in Gombe.
 
 <a name="FIG13"></a>
 **Figure 13:** Defaulter mapping in Dukku LGA
-![](/assets/images/defaultersDukkuHi-794x1024.png/)
+![](/assets/images/defaultersDukkuHi-794x1024.png)
 
 On the map of Dukku above, each point represents one defaulted child. The map shows that children who default after first visit don’t necessary come from far away villages – many live relatively close to the OTP. In Dukku, Zange OTP stood out for having a very low number of defaulters (one).
 
@@ -250,7 +251,7 @@ In terms of access, aside from distance, lack of father’s permission was often
 
 <a name="FIG15"></a>
 **Figure 15:** Mind map - factors affecting defaulting in Gombe
-![](/assets/images/mindMapGombe-1024x614.png/)
+![](/assets/images/mindMapGombe-1024x614.png)
 
 Other issues limiting access concerned the status of the mother and the opportunity costs linked to the prioritisation of other activities. A pregnant mother it was suggested by some carers would be too lazy to walk to the OTP. A few carers believe that mothers may stop coming because they were told to by someone else (carers of beneficiaries, relatives or community) to bring the child to the OTP and are annoyed by it. As we talked to the mothers during the harvest season, there were also complaints about the work and preparations that mothers need to complete in the morning before coming to the clinic. This may cause them to come late and if they are shouted at by staff, they are less inclined to come back. In a predominantly Muslim community, fasting during Ramadan also contributed to defaulting, especially if the carer had to walk a long distance to reach the OTP. One volunteer at Kumbiya Kumbiya OTP mentioned that she heard carers of beneficiaries talking and associating CMAM with family planning and this could discourage mothers from continuing because of fear that the treatment would negatively impact their own or their children’s reproductive health.
 
@@ -266,7 +267,7 @@ The quality of service is poor; clinics are understaffed and very few health sta
 
 <a name="FIG16"></a>
 **Figure 16:** Concept map - Causal relationships between factors affecting defaulting in Gombe
-![](/assets/images/conceptMapGombe-1024x600.png/)
+![](/assets/images/conceptMapGombe-1024x600.png)
 
 #### What keeps beneficiaries in
 While the main focus of the investigation was to identify reasons for defaulting it was also important to try and differentiate factors which contributed to compliance with the treatment. Carers of new and current beneficiaries were interviewed, OTP staff talked to and observations conducted on clinic days therefore to better understand what might explain why some beneficiaries default, while others stay in the programme.
@@ -335,7 +336,7 @@ Unfortunately, issues observed during the SQUEAC two years ago are still there a
    
     * Early discharges
    
-    * Threats and refusal to treat if carers come too late, forget the ration card, don’t fully immunize the child or if they fail to bring in the food
+    * Threats and refusal to treat if carers come too late, forget the ration card, don’t fully immunise the child or if they fail to bring in the food
    
     * Key messages are not communicated to mothers
 
