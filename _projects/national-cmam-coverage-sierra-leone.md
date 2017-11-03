@@ -18,6 +18,7 @@ tags:
 header:
   overlay_image: /assets/images/sierraLeoneSLEACsat.png
 excerpt: Use of SLEAC to assess coverage of the Sierra Leone National CMAM programme
+description: Use of SLEAC to assess coverage of the Sierra Leone National CMAM programme
 sidebar:
     - title: "Country"
       image: /assets/images/Unicef.jpg
