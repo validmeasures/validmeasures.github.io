@@ -24,6 +24,7 @@ tags:
 header:
   overlay_image: /assets/images/ghanaS3Msat.png
 excerpt: Using S3M to assess complementary food supplement coverage
+description: Using S3M to assess complementary food supplement coverage
 sidebar:
     - title: "Country"
       image: /assets/images/gain.jpg

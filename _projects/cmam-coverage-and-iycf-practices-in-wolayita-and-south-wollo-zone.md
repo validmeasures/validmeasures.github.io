@@ -21,6 +21,7 @@ tags:
 header:
   overlay_image: /assets/images/wolayitaIYCF.png
 excerpt: Use of S3M to assess CMAM coverage in 2 zones of Ethiopia
+description: Use of S3M to assess CMAM coverage in 2 zones of Ethiopia
 sidebar:
     - title: "Country"
       image: /assets/images/concern_worldwide.jpg

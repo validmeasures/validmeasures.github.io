@@ -23,6 +23,7 @@ tags:
 header:
   overlay_image: /assets/images/dakarUrbanMappingSlider.png
 excerpt: Use of SQUEAC tools for participatory assessments
+description: Use of SQUEAC tools for participatory assessments
 sidebar:
     - title: "Country"
       image: /assets/images/plan-international-icon.png

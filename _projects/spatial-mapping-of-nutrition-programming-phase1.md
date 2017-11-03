@@ -22,6 +22,7 @@ tags:
 header:
   overlay_image: /assets/images/decimal.png
 excerpt: Review of feasibility of geospatial analysis and mapping of nutrition programming
+description: Review of feasibility of geospatial analysis and mapping of nutrition programming
 sidebar:
     - title: "Country"
       image: /assets/images/ukaid.jpg

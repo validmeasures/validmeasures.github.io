@@ -19,6 +19,7 @@ tags:
 header:
   overlay_image: /assets/images/sierraLeoneSLEACsat.png
 excerpt: Use of stepped-wedge cluster study design to assess impact of targeted feeding programmes
+description: Use of stepped-wedge cluster study design to assess impact of targeted feeding programmes
 sidebar:
     - title: "Country"
       image: /assets/images/wfp.png

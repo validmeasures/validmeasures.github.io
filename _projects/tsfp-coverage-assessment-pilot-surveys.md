@@ -29,6 +29,7 @@ tags:
 header:
   overlay_image: /assets/images/chadS3Msat.png
 excerpt: Assessment of TSFP in Chad, Niger and Pakistan
+description: Assessment of targeted supplementary feeding programmes in Chad, Niger and Pakistan
 sidebar:
     - title: "Country"
       image: /assets/images/wfp.png

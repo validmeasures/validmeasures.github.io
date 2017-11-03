@@ -18,6 +18,7 @@ tags:
 header:
   overlay_image: /assets/images/nigerS3Msat.png
 excerpt: Use of S3M to asses the Niger National CMAM coverage 
+description: Use of S3M to asses the Niger National CMAM coverage
 sidebar:
     - title: "Country"
       image: /assets/images/Unicef.jpg

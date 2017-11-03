@@ -31,6 +31,7 @@ tags:
 header:
   overlay_image: /assets/images/sierraLeoneSLEACsat.png
 excerpt: Use of RAM for serial surveys for assessing programme impact
+description: Use of RAM for serial surveys for assessing programme impact
 sidebar:
     - title: "Country"
       image: /assets/images/Unicef.jpg

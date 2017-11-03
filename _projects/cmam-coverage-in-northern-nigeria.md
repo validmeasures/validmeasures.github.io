@@ -19,6 +19,7 @@ tags:
 header:
   overlay_image: /assets/images/nigeriaSLEACsat.png
 excerpt: Use of SLEAC to asses CMAM coverage in Northern Nigeria 
+description: Use of SLEAC to asses CMAM coverage in Northern Nigeria
 sidebar:
     - title: "Country"
       image: /assets/images/acf1.jpg

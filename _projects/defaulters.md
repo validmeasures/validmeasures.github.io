@@ -20,6 +20,7 @@ tags:
 header:
   overlay_image: /assets/images/defaultersNigeriaHi.png
 excerpt: Use of SQUEAC to investigate defaulting in CMAM programmes in Northern Nigeria
+description: Use of SQUEAC to investigate defaulting in CMAM programmes in Northern Nigeria
 sidebar:
     - title: "Country"
       image: /assets/images/test-gmb.png
