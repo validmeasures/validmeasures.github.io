@@ -73,11 +73,9 @@ Telerivet is an innovative mobile messaging platform that instantly connects bus
 ## Tools
 In support of spatial sampling methods, Valid International creates web-based interactive sampling tools. These tools are useful for assessments done at scale (regional to national level).
 
-Recently, Valid International has supported the Philippines' National Nutrition Council in developing a spatial sampling tool that will assist the in their planned national nutrition surveillance system.
+Recently, Valid International has supported Water and Sanitation for the Urban Poor (WSUP) in developing a spatial sampling tool that will assist them in their planned urban water and sanitation surveys in Dhaka in Bangladesh, Antananarivo in Madagascar, Nakuru in Kenya, Accra in Ghana and Maputo in Mozambique.
 
-<iframe width="100%" height="600" frameborder="0" scrolling="no" seamless src="https://www.validmeasures.org/maps/philippinesElNino.html"></iframe>
-
-
+[![image-center](/assets/images/wsup.png){: .align-center}](https://apps.validmeasures.org/wsup)
 
 <br/>
 <br/>

@@ -14,6 +14,7 @@ tags:
 header:
   overlay_image: /assets/images/terminal.png
   caption: "Terminal map design by ©Mapbox"
+excerpt: The right survey methods for the right indicators
 gallery1:
     - url: /assets/images/pointCoverageSierraLeone.png
       image_path: /assets/images/pointCoverageSierraLeone.png
