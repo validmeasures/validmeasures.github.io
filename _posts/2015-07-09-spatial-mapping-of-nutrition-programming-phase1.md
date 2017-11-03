@@ -6,9 +6,7 @@ date: 2015-07-09 14:37:26.000000000 +01:00
 type: posts
 published: true
 status: publish
-categories:
-    - Metrics
-    - Projects
+categories: []
 tags:
     - DFID
     - health

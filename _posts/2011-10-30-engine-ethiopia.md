@@ -6,11 +6,7 @@ date: 2011-10-30 00:35:16.000000000 +01:00
 type: posts
 published: true
 status: publish
-categories:
-    - Evaluation
-    - Metrics
-    - Projects
-    - Surveys
+categories: []
 tags:
     - ANC
     - antenatal care

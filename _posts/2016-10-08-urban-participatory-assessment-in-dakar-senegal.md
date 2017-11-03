@@ -6,9 +6,7 @@ type: posts
 author_profile: false
 published: true
 status: publish
-categories:
-    - Metrics
-    - Projects
+categories: []
 tags:
     - assessment
     - barriers

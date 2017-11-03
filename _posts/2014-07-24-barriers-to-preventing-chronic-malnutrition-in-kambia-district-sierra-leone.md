@@ -6,10 +6,7 @@ date: 2014-07-24 05:40:51.000000000 +01:00
 type: posts
 published: true
 status: publish
-categories:
-    - Analytics
-    - Evaluation
-    - Metrics
+categories: []
 tags:
     - case-control
     - causal anlaysis

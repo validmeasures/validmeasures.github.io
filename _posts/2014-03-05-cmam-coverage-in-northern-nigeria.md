@@ -6,10 +6,7 @@ date: 2014-03-05 23:31:10.000000000 +00:00
 type: posts
 published: true
 status: publish
-categories:
-    - Metrics
-    - Projects
-    - Surveys
+categories: []
 tags:
     - CMAM
     - community-based management of acute malnutrition

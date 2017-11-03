@@ -6,10 +6,7 @@ date: 2012-02-01 10:33:22.000000000 +00:00
 type: posts
 published: true
 status: publish
-categories:
-    - Metrics
-    - Projects
-    - Surveys
+categories: []
 tags:
     - CMAM
     - coverage

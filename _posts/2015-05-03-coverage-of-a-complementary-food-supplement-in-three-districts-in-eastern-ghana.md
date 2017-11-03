@@ -6,10 +6,7 @@ date: 2015-05-03 06:33:23.000000000 +01:00
 type: posts
 published: true
 status: publish
-categories:
-    - Metrics
-    - Projects
-    - Surveys
+categories: []
 tags:
     - barriers
     - complementary food

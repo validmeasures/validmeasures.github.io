@@ -6,8 +6,7 @@ type: posts
 author_profile: false
 published: true
 status: publish
-categories:
-    - Evaluation
+categories: []
 tags:
     - FBPM
     - food-based prevention of moderate acute malnutrition

@@ -687,5 +687,6 @@ Tabulated data from questionnaires administered to cases not covered by the prog
 <a name="FIG7"></a>
 **Figure 7:** Pareto chart of barriers to coverage
 ![](/assets/images/sleacBarriersPareto-1024x595.png)
+
 <br/>
 <br/>

@@ -6,10 +6,7 @@ type: posts
 author_profile: false
 published: true
 status: publish
-categories:
-    - Metrics
-    - Projects
-    - Surveys
+categories: []
 tags:
     - Chad
     - CMAM coverage
