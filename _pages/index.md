@@ -101,7 +101,7 @@ We offer specialised and specific survey products that we have previously design
 The services we offer can be utilised individually or as linked services depending on your specific needs. Our survey services can be developed and applied bespoke to an organisation's assessment needs and requirements.
 {: .text-center}
 
-[Browse our previous work](/projects/){: .btn .btn--danger}   [Contact us for your survey needs](/contact/){: .btn .btn--warning}
+[Browse our previous work](/projects/){: .btn .btn--danger}     [Contact us for your survey needs](/contact/){: .btn .btn--warning}
 {: .text-center}
 
 <br/>

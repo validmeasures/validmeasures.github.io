@@ -14,30 +14,6 @@ tags:
 header:
   overlay_image: /assets/images/terminal.png
   caption: "Terminal map design by ©Mapbox"
-row1:
-    - image_path: /assets/images/csasGrid1.png
-      alt: CSAS
-      title: CSAS
-      excerpt: 
-      url: /modules/metrics/csas/
-      btn_label: More on CSAS
-      btn_class: btn--info
-row2:  
-    - image_path: /assets/images/defaultersNigeriaHi.png
-      alt: SQUEAC
-      title: SQUEAC
-      excerpt: "Semi-quantitative evaluation of access and coverage"
-      url: /modules/metrics/squeac/
-      btn_label: More on SQUEAC
-      btn_class: btn--info
-row3:  
-    - image_path: /assets/images/treatCoverageSierraLeone.png
-      alt: SLEAC
-      title: SLEAC
-      excerpt: "Simplified Lot Quality Assurance Sampling Evaluation of Access and Coverage"
-      url: /modules/metrics/sleac/
-      btn_label: More on SLEAC
-      btn_class: btn--info
 gallery1:
     - url: /assets/images/pointCoverageSierraLeone.png
       image_path: /assets/images/pointCoverageSierraLeone.png

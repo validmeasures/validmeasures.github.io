@@ -1,6 +1,7 @@
 ---
 title: SQUEAC
 layout: single
+author_profile: false
 permalink: /modules/metrics/squeac/
 date: 2014-10-28 00:25:28.000000000 +00:00
 type: pages
@@ -40,17 +41,17 @@ gallery3:
       image_path: /assets/images/defaultersNigeriaHi.png
       alt: "Defaulters Map"
       title: "Map of programme defaulter locations"
+sidebar:
+  nav: "menu"
 ---
 {% include toc icon="gears" title="Contents" %}
 
 [Semi-quantitative evaluation of access and coverage (SQUEAC)](https://validmeasures.org/modules/metrics/squeac/) is a framework to investigate operational issues affecting organisations trying to provide services or products to target markets. SQUEAC combines data collected from multiple sources by a variety of qualitative and quantitative methods, in a way that allows clients to improve programme design.
 
-<br/>
 
 ## Why use SQUEAC
 SQUEAC is a highly flexible investigative technique that generates new information to build upon the clients pre-existing knowledge in an iterative process. Valid's innovation through SQUEAC is providing a framework by which to query existing data, to iterate on various lines of enquiry, to triangulate these information from various sources collected through different methods and organise them through concept maps of cause/effects and barriers/boosters, and to leverage this rich knowledge set in lowering sample size requirements for any new survey data collection process. This is made possible through our use of Bayesian analysis to maximise the value of both prior knowledge and information and new survey data, thereby reducing sample size and data collection requirements.
 
-<br/>
 
 ## SQUEAC outputs
 {% include gallery id="gallery1" class="full" caption="The SQUEAC approach" %}
@@ -59,7 +60,6 @@ SQUEAC is a highly flexible investigative technique that generates new informati
 
 {% include gallery id="gallery2" class="full" caption="Concept map produced from a SQUEAC investigation of a CMAM programme" %}
 
-<br/>
 
 ## Case study: SQUEAC to investigate defaulting in a malnutrition treatment programme
 A malnutrition treatment programme in a state in northern Nigeria had been suffering from low coverage since its inception and was facing high levels of defaulting from the programme before patients had been cured. Valid designed a bespoke SQUEAC investigation to look into the reasons behind these problems. The investigation took 10 days of fieldwork to complete.
@@ -71,6 +71,11 @@ The investigation identified the following key issues negatively impacting defau
 <br/>
 
 <iframe width="800" height="400" frameborder="0" scrolling="no" seamless src="https://validmeasures.org/charts/reasons-defaulting.html"></iframe>
+
+<br/>
+
+[More on case study](/defaulters/){: .btn .btn--danger}     [Contact us about SQUEAC](/contact/){: .btn .btn--warning}
+{: .text-center}
 
 <br/>
 <br/>
