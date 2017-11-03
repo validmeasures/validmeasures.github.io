@@ -15,7 +15,7 @@ excerpt: Innovative surveys for rapid, low-cost and high impact assessments
 
 We at [Valid International](http://www.validinternational.org) believe that there is a better way for organisations to approach assessments. With the appropriate metrics to measure the problem or issues in question, robust analytics to estimate the value of the indicators being measured, the right technology – simple to use tools that aid in making assessments rapid and efficient, and an effective training that is based on a learner-oriented and problem-based learning system, organisations can take control of their assessment needs and goals.
 
-We offer modules on metrics, analytics, technology and training for assessments which have been designed to support organisations to setup and implement, analyse and report, and manage and sustain assessments needed for them to run highly-effective programmes.
+We offer services on metrics, analytics, technology and training for surveys which have been designed to support organisations to setup and implement, analyse and report, and manage and sustain assessments needed for them to run highly-effective programmes.
 
 <br/>
 
@@ -89,7 +89,7 @@ Our **training** services provide solutions for learning the Valid approach to a
 We offer specialised and specific survey products that we have previously designed, developed and tested. These survey products are ready for use: rapid to setup, implement and scale up.
 {: .text-center}
 
-[Browse our survey products](/projects/){: .btn .btn--danger}   [Contact us for your survey needs](/contact/){: .btn .btn--warning}
+[Browse our survey products](/projects/){: .btn .btn--danger}   [Contact us about our survey products](/contact/){: .btn .btn--warning}
 {: .text-center}
 
 <br/>
@@ -101,7 +101,7 @@ We offer specialised and specific survey products that we have previously design
 The services we offer can be utilised individually or as linked services depending on your specific needs. Our survey services can be developed and applied bespoke to an organisation's assessment needs and requirements.
 {: .text-center}
 
-[Browse our previous work](/projects/){: .btn .btn--danger}     [Contact us for your survey needs](/contact/){: .btn .btn--warning}
+[Browse our previous work](/projects/){: .btn .btn--danger}     [Contact us about your survey needs](/contact/){: .btn .btn--warning}
 {: .text-center}
 
 <br/>
