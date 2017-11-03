@@ -13,7 +13,7 @@ title                    : ""
 title_separator          : "|"
 name                     : "Valid International"
 description              : "Innovative surveys for rapid, low-cost and high impact assessments"
-url                      : https://validmeasures.org
+url                      : http://validmeasures.org
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : validmeasures.github.io
 teaser                   : 
