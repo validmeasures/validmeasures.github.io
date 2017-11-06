@@ -27,7 +27,7 @@ We offer services on metrics, analytics, technology and training for surveys whi
 # The right survey methods for the right indicators
 Our **metrics** services provide solutions to designing the right indicators measured with the appropriate survey design implemented with an efficient data collection process to answer your information needs.
 
-[More on metrics](/modules/metrics/){: .btn .btn--metrics}
+[More on metrics](/services/metrics/){: .btn .btn--metrics}
 
 <br/>
 <br/>
@@ -44,7 +44,7 @@ Our **metrics** services provide solutions to designing the right indicators mea
 # Robust and state-of-the-science analytics
 Our **analytics** services provide robust solutions that provide indicator estimates using small sample sizes allowing for spatially disaggregated results and repeated measures over time. 
 
-[More on analytics](/modules/analytics/){: .btn .btn--analytics}
+[More on analytics](/services/analytics/){: .btn .btn--analytics}
 
 <br/>
 <br/>
@@ -60,7 +60,7 @@ Our **analytics** services provide robust solutions that provide indicator estim
 # The right tools for the job
 Our **technology** services provide solutions that make the whole survey process efficient from systems for data collection and management to software for data analysis, visualisation and reporting.
 
-[More on technology](/modules/technology/){: .btn .btn--technology}
+[More on technology](/services/technology/){: .btn .btn--technology}
 
 <br/>
 <br/>
@@ -76,7 +76,7 @@ Our **technology** services provide solutions that make the whole survey process
 # Learning from the experts
 Our **training** services provide solutions for learning the Valid approach to assessments. We offer training packages delivered by our experts and using bespoke training tools that cover training needs across our metrics, analytics; and technology services.
 
-[More on training](/modules/training/){: .btn .btn--training}
+[More on training](/services/training/){: .btn .btn--training}
 
 <br/>
 <br/>

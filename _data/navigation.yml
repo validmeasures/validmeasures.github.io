@@ -17,13 +17,25 @@ menu:
   - title: "Services"
     children:
       - title: "Metrics"
-        url: /modules/metrics/
+        url: /services/metrics/
       - title: "Analytics"
-        url: /modules/analytics/
+        url: /services/analytics/
       - title: "Technology"
-        url: /modules/technology/
+        url: /services/technology/
       - title: "Training"
-        url: /modules/training/  
+        url: /services/training/
+  - title: "Methods"
+    children:
+      - title: "CSAS"
+        url: /methods/csas/
+      - title: "SQUEAC"
+        url: /methods/squeac/
+      - title: "SLEAC"
+        url: /methods/sleac/
+      - title: "RAM"
+        url: /methods/ram/
+      - title: "S3M"
+        url: /methods/s3m/  
   - title: "Projects"
     url: /projects/
   - title: "Contact"

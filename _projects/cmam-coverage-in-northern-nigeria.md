@@ -22,7 +22,7 @@ excerpt: Use of SLEAC to asses CMAM coverage in Northern Nigeria
 description: Use of SLEAC to asses CMAM coverage in Northern Nigeria
 sidebar:
     - title: "Country"
-      image: /assets/images/acf1.jpg
+      image: /assets/images/acf.svg
       image_alt: "Nigeria"
       text: "Nigeria"
     - title: "Project"

@@ -29,12 +29,12 @@ tags:
     - WDDS
     - women's dietary diversity score
 header:
-  overlay_image: /assets/images/sierraLeoneSLEACsat.png
+  overlay_image: /assets/images/engine2b.png
 excerpt: Use of RAM for serial surveys for assessing programme impact
 description: Use of RAM for serial surveys for assessing programme impact
 sidebar:
     - title: "Country"
-      image: /assets/images/Unicef.jpg
+      image: /assets/images/engineUSAID.jpeg
       image_alt: "Ethiopia"
       text: "Ethiopia"
     - title: "Project"

@@ -22,7 +22,7 @@ tags:
 header:
   overlay_image: /assets/images/kambia4.png
 excerpt: Use of SQUEAC to investigate the causes of chronic malnutrition and the barriers to its prevention
-desription: Use of SQUEAC to investigate the causes of chronic malnutrition and the barriers to its prevention
+description: Use of SQUEAC to investigate the causes of chronic malnutrition and the barriers to its prevention
 sidebar:
     - title: "Country"
       image: /assets/images/odi.jpeg
