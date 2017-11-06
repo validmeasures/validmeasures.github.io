@@ -15,6 +15,7 @@ tags:
 header:
   overlay_image: /assets/images/northstar.png
   caption: "Northstar map design by ©Mapbox"
+excerpt: Robust state-of-the-science analytics
 sidebar:
   nav: "menu"  
 ---

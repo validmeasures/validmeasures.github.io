@@ -19,6 +19,7 @@ tags:
 header:
   overlay_image: /assets/images/vintage.png
   caption: "Vintage map design by ©Mapbox"
+excerpt: The right tools for the job 
 sidebar:
   nav: "menu"  
 ---

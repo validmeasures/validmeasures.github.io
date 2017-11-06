@@ -41,7 +41,7 @@ Our **metrics** services provide solutions to designing the right indicators mea
 <br/>
 <br/>
 
-# Robust and state-of-the-science analytics
+# Robust state-of-the-science analytics
 Our **analytics** services provide robust solutions that provide indicator estimates using small sample sizes allowing for spatially disaggregated results and repeated measures over time. 
 
 [More on analytics](/services/analytics/){: .btn .btn--analytics}

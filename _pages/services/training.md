@@ -14,6 +14,7 @@ tags:
 header:
   overlay_image: /assets/images/desert.png
   caption: "Desert map design by ©[Mapbox](https://www.mapbox.com)"
+excerpt: Learning from the experts
 sidebar:
   nav: "menu"
 ---
