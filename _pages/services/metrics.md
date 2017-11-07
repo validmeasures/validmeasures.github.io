@@ -51,7 +51,7 @@ Our ***[metrics](https://validmeasures.github.io/modules/metrics/)*** services l
 First survey method developed for CMAM coverage assessment using spatial sampling techniques that provides an overall estimate of programme coverage and a gridded map of the survey area showing areas of high and low coverage.
 {: .text-center}
 
-[More on CSAS](/modules/metrics/csas/){: .btn .btn--danger}
+[More on CSAS](/methods/csas/){: .btn .btn--danger}
 {: .text-center}
 
 <br/>
@@ -61,7 +61,7 @@ First survey method developed for CMAM coverage assessment using spatial samplin
 Developed as a more efficient alternative to CSAS, SQUEAC uses a mixed methods approach to investigating CMAM coverage. The investigation's rich set of information is then harnessed for use with Bayesian analytical techniques that lowers survey sample sizes for estimating overall programme coverage.
 {: .text-center}
 
-[More on SQUEAC](/modules/metrics/squeac/){: .btn .btn--danger}
+[More on SQUEAC](/methods/squeac/){: .btn .btn--danger}
 {: .text-center}
 
 <br/>
@@ -71,17 +71,17 @@ Developed as a more efficient alternative to CSAS, SQUEAC uses a mixed methods a
 Designed alongside SQUEAC, SLEAC leverages the statistical advantages of lot quality assurance sampling to classify the level of coverage a CMAM programme is achieving. It is rapid to implement, requires small sample sizes and is highly scalable.
 {: .text-center}
 
-[More on SLEAC](/modules/metrics/sleac/){: .btn .btn--danger}
+[More on SLEAC](/methods/sleac/){: .btn .btn--danger}
 {: .text-center}
 
 <br/>
 
 ### CMAM coverage at scale
-The adoption of the CMAM model at national levels across various countries has created the need for survey methods that assess coverage over wide areas. [Valid International](http://www.validinternational.org) is meeting this need through adaptations of the [SLEAC](/modules/metrics/sleac/) method to assess coverage in multiple administrative units within a wide area which we initially tested in Sierra Leone in the first ever coverage survey of a national CMAM programme.
+The adoption of the CMAM model at national levels across various countries has created the need for survey methods that assess coverage over wide areas. [Valid International](http://www.validinternational.org) is meeting this need through adaptations of the [SLEAC](/methods/sleac/) method to assess coverage in multiple administrative units within a wide area which we initially tested in Sierra Leone in the first ever coverage survey of a national CMAM programme.
 
 {% include gallery id="gallery1" class="full" caption="Sierra Leone National CMAM Coverage" %}
 
-Valid International has also adapted the CSAS approach for use in wide area surveys. The [Simple Spatial Survey Method](/modules/metrics/s3m/) or [S3M](/modules/metrics/s3m/) improves upon the CSAS method with a more even spatial sampling and a more efficient use of data.
+Valid International has also adapted the CSAS approach for use in wide area surveys. The [Simple Spatial Survey Method](/methods/s3m/) or [S3M](/methods/s3m/) improves upon the CSAS method with a more even spatial sampling and a more efficient use of data.
 
 {% include gallery id="gallery2" class="full" caption="Niger National CMAM Coverage" %}
 
