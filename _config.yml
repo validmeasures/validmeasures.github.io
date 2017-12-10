@@ -272,4 +272,4 @@ defaults:
       author_profile: false
       share: true
 
-
+github: [metadata]
