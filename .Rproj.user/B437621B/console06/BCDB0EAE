@@ -1,11 +1,0 @@
-]0;~/Documents/GitHub/validmeasures[?1034hErnests-MBP-13:validmeasures ernest$ [KErnests-MBP-13:validmeasures ernest$ git push -u origin masterll origin master --allow-unrelated-histories[25Psh -u origin master[Kgive[K[Kt remote -v
-origin	https://github.com/validmeasures/validmeasures.github.io.git (fetch)
-origin	https://github.com/validmeasures/validmeasures.github.io.git (push)
-]0;~/Documents/GitHub/validmeasuresErnests-MBP-13:validmeasures ernest$ git remote -vpush -u origin masterll origin master --allow-unrelated-histories[25Psh -u origin master
-Branch 'master' set up to track remote branch 'master' from 'origin'.
-Everything up-to-date
-]0;~/Documents/GitHub/validmeasuresErnests-MBP-13:validmeasures ernest$ git push -u origin master[12Premote -vpush -u origin masterll origin master --allow-unrelated-histories[25Psh -u origin masterll origin master --allow-unrelated-histories
-From https://github.com/validmeasures/validmeasures.github.io
- * branch            master     -> FETCH_HEAD
-Already up to date.
-]0;~/Documents/GitHub/validmeasuresErnests-MBP-13:validmeasures ernest$ 
